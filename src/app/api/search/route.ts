@@ -15,7 +15,7 @@ export async function POST(request: NextRequest) {
     console.log('Searching for:', query);
 
     // Search for relevant documents
-    const relevantDocs = searchDocuments(query, 3);
+    const relevantDocs = await searchDocuments(query, 3);
 
     if (relevantDocs.length === 0) {
       return NextResponse.json({
@@ -31,8 +31,12 @@ export async function POST(request: NextRequest) {
       answer,
       sources: relevantDocs.map((doc) => ({
         id: doc.id,
-        question: doc.question,
-        answer: doc.answer,
+        title: doc.title,
+        content: doc.content.length > 200 ? doc.content.substring(0, 200) + '...' : doc.content,
+        type: doc.type,
+        source: doc.source,
+        filename: doc.filename,
+        chunkIndex: doc.chunkIndex,
         score: doc.score,
       })),
     });
