@@ -400,162 +400,82 @@ export default function Home() {
           </div>
 
           {/* Sidebar Footer */}
-          <div className="p-4 border-t border-gray-200 dark:border-gray-800">
-            <div className="flex items-center space-x-2 text-xs text-gray-500 dark:text-gray-400">
-              <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-              <span>Local AI • {uploadedFiles.length} docs</span>
-            </div>
+          <div className="p-4 border-t border-gray-200 dark:border-gray-800 relative">
+            <button
+              onClick={() => setShowFiles(!showFiles)}
+              className="w-full flex items-center justify-between space-x-2 text-xs text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 transition-colors p-2 hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg"
+            >
+              <div className="flex items-center space-x-2">
+                <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+                <span>Local AI • {uploadedFiles.length} docs</span>
+              </div>
+              <svg className={`w-4 h-4 transform transition-transform ${showFiles ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+
+            {/* Documents Dropdown */}
+            {showFiles && (
+              <div className="absolute bottom-full left-4 right-4 mb-2 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50 max-h-64 overflow-y-auto">
+                <div className="p-3 border-b border-gray-200 dark:border-gray-700">
+                  <h3 className="text-sm font-semibold text-gray-900 dark:text-white">
+                    Uploaded Documents ({uploadedFiles.length})
+                  </h3>
+                </div>
+                {uploadedFiles.length === 0 ? (
+                  <div className="p-4 text-center text-gray-500 dark:text-gray-400 text-sm">
+                    No documents uploaded yet
+                  </div>
+                ) : (
+                  <div className="p-2">
+                    {uploadedFiles.map((file) => (
+                      <div
+                        key={file.id}
+                        className="flex items-center justify-between p-2 hover:bg-gray-50 dark:hover:bg-gray-700 rounded-lg group"
+                      >
+                        <div className="flex items-center space-x-3 flex-1 min-w-0">
+                          <div className={`w-2 h-2 rounded-full flex-shrink-0 ${
+                            file.type === 'pdf' ? 'bg-red-400' :
+                            file.type === 'docx' ? 'bg-blue-400' : 'bg-green-400'
+                          }`}></div>
+                          <div className="flex-1 min-w-0">
+                            <p className="text-sm font-medium text-gray-900 dark:text-white truncate" title={file.filename}>
+                              {file.filename}
+                            </p>
+                            <p className="text-xs text-gray-500 dark:text-gray-400">
+                              {file.type.toUpperCase()} • {file.contentLength.toLocaleString()} chars
+                            </p>
+                          </div>
+                        </div>
+                        <button
+                          onClick={() => deleteFile(file.id, file.filename)}
+                          className="opacity-0 group-hover:opacity-100 p-1 text-gray-400 hover:text-red-500 rounded transition-all"
+                          title="Delete"
+                        >
+                          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6m0 0l6 6m-6-6v12" />
+                          </svg>
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         </div>
       </div>
 
       {/* Main Content */}
       <div className="flex-1 flex flex-col">
-        {/* Header */}
-        <header className="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 px-4 py-3">
-          <div className="max-w-4xl mx-auto flex items-center justify-between">
-            <div className="flex items-center space-x-3">
-              <button
-                onClick={() => setShowSidebar(!showSidebar)}
-                className="lg:hidden p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors"
-              >
-                <svg className="w-5 h-5 text-gray-600 dark:text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-              </button>
-              <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z" />
-                </svg>
-              </div>
-              <h1 className="text-xl font-semibold text-gray-800 dark:text-white">AI Search Assistant</h1>
-            </div>
-            <div className="flex items-center space-x-4">
-              <div className="text-sm text-gray-500 dark:text-gray-400 flex items-center space-x-2">
-                <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-                <span>Local AI</span>
-              </div>
-
-              {/* Documents Dropdown */}
-              <div className="relative">
-                <button
-                  onClick={() => setShowFiles(!showFiles)}
-                  className="flex items-center space-x-2 px-3 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors"
-                >
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                  </svg>
-                  <span>{uploadedFiles.length} documents</span>
-                  <svg className={`w-4 h-4 transform transition-transform ${showFiles ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
-                </button>
-
-                {/* Dropdown Content */}
-                {showFiles && (
-                  <div className="absolute right-0 top-full mt-2 w-80 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg z-50 max-h-64 overflow-y-auto">
-                    <div className="p-3 border-b border-gray-200 dark:border-gray-700">
-                      <h3 className="text-sm font-semibold text-gray-900 dark:text-white">
-                        Uploaded Documents ({uploadedFiles.length})
-                      </h3>
-                    </div>
-                    {uploadedFiles.length === 0 ? (
-                      <div className="p-4 text-center text-gray-500 dark:text-gray-400 text-sm">
-                        No documents uploaded yet
-                      </div>
-                    ) : (
-                      <div className="p-2">
-                        {uploadedFiles.map((file) => (
-                          <div
-                            key={file.id}
-                            className="flex items-center justify-between p-2 hover:bg-gray-50 dark:hover:bg-gray-700 rounded-lg group"
-                          >
-                            <div className="flex items-center space-x-3 flex-1 min-w-0">
-                              <div className={`w-2 h-2 rounded-full flex-shrink-0 ${
-                                file.type === 'pdf' ? 'bg-red-400' :
-                                file.type === 'docx' ? 'bg-blue-400' : 'bg-green-400'
-                              }`}></div>
-                              <div className="flex-1 min-w-0">
-                                <p className="text-sm font-medium text-gray-900 dark:text-white truncate" title={file.filename}>
-                                  {file.filename}
-                                </p>
-                                <p className="text-xs text-gray-500 dark:text-gray-400">
-                                  {file.type.toUpperCase()} • {file.contentLength.toLocaleString()} chars
-                                </p>
-                              </div>
-                            </div>
-                            <button
-                              onClick={() => deleteFile(file.id, file.filename)}
-                              className="opacity-0 group-hover:opacity-100 p-1 text-gray-400 hover:text-red-500 rounded transition-all"
-                              title="Delete"
-                            >
-                              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6m0 0l6 6m-6-6v12" />
-                              </svg>
-                            </button>
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                )}
-              </div>
-            </div>
-          </div>
-        </header>
-
         {/* Messages Area */}
         <div className="flex-1 overflow-y-auto">
           {messages.length === 0 ? (
             <div className="flex items-center justify-center h-full">
               <div className="text-center max-w-2xl mx-auto px-4">
-                <div className="w-16 h-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-6">
-                  <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z" />
-                  </svg>
-                </div>
-                <h2 className="text-2xl font-bold text-gray-800 dark:text-white mb-2">
-                  {uploadedFiles.length > 0
-                    ? 'How can I help you today?'
-                    : 'Upload documents to get started'}
+                <h2 className="text-2xl font-bold text-gray-800 dark:text-white mb-8">
+                  How can I help you today?
                 </h2>
-                <p className="text-gray-600 dark:text-gray-400 mb-8">
-                  {uploadedFiles.length > 0
-                    ? `Ask me anything about your ${uploadedFiles.length} uploaded document${uploadedFiles.length > 1 ? 's' : ''}.`
-                    : 'Upload PDF, DOCX, or TXT files to start asking questions about them.'}
-                </p>
-
-                {/* Example prompts or upload prompt */}
-                {uploadedFiles.length > 0 ? (
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-left">
-                    {[
-                      'Summarize the main points',
-                      'What are the key concepts?',
-                      'Explain the methodology',
-                      'What are the conclusions?'
-                    ].map((prompt) => (
-                      <button
-                        key={prompt}
-                        onClick={() => setInputValue(prompt)}
-                        className="p-3 bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded-lg transition-colors text-sm text-gray-700 dark:text-gray-300"
-                      >
-                        <span className="line-clamp-2">{prompt}</span>
-                      </button>
-                    ))}
-                  </div>
-                ) : (
-                  <div className="mt-4">
-                    <button
-                      onClick={() => fileInputRef.current?.click()}
-                      className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors inline-flex items-center space-x-2"
-                    >
-                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
-                      </svg>
-                      <span>Upload Your First Document</span>
-                    </button>
-                  </div>
-                )}
               </div>
             </div>
           ) : (
@@ -596,7 +516,7 @@ export default function Home() {
         </div>
 
         {/* Input Area with File Upload */}
-        <div className="border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+        <div>
           <div className="max-w-4xl mx-auto p-4">
             {/* Search Input */}
             <form onSubmit={handleSubmit}>
