@@ -19,7 +19,7 @@ export async function POST(request: NextRequest) {
 
     if (relevantDocs.length === 0) {
       return NextResponse.json({
-        answer: "I couldn't find any relevant information for your query. Please try asking about machine learning topics.",
+        answer: "No relevant information found in the uploaded documents. Please upload documents first or try a different query related to your uploaded content.",
         sources: [],
       });
     }

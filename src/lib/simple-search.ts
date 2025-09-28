@@ -2,12 +2,6 @@ import { getUploadedDocuments, splitDocumentIntoChunks } from './file-processor'
 import { generateEmbedding } from './embeddings';
 import { searchSimilarDocuments, type StoredDocument } from './qdrant';
 
-interface QADocument {
-  id: string;
-  question: string;
-  answer: string;
-}
-
 interface SearchableDocument {
   id: string;
   title: string;
@@ -18,36 +12,10 @@ interface SearchableDocument {
   chunkIndex?: number;
 }
 
-// Simple in-memory store for Q&A documents
-let qaDocuments: QADocument[] = [];
-
-export function loadQADocuments() {
-  if (qaDocuments.length === 0) {
-    // Load the Q&A data
-    const fs = require('fs');
-    const path = require('path');
-    const dataPath = path.join(process.cwd(), 'data', 'qa-data.json');
-    qaDocuments = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
-  }
-  return qaDocuments;
-}
-
 function getAllSearchableDocuments(): SearchableDocument[] {
   const documents: SearchableDocument[] = [];
 
-  // Add Q&A documents
-  const qaData = loadQADocuments();
-  qaData.forEach(qa => {
-    documents.push({
-      id: qa.id,
-      title: qa.question,
-      content: `${qa.question} ${qa.answer}`,
-      type: 'qa',
-      source: qa.question
-    });
-  });
-
-  // Add uploaded files (split into chunks for better search)
+  // Only use uploaded files (no pre-loaded Q&A data)
   const uploadedFiles = getUploadedDocuments();
   uploadedFiles.forEach(file => {
     const chunks = splitDocumentIntoChunks(file, 500);
@@ -84,10 +52,8 @@ function calculateSimilarity(query: string, text: string): number {
 
 export async function searchDocuments(query: string, limit: number = 5) {
   try {
-    // Generate embedding for the query
+    // First try to use vector search with Qdrant
     const queryEmbedding = await generateEmbedding(query);
-
-    // Search similar documents in Qdrant
     const searchResults = await searchSimilarDocuments(queryEmbedding, limit);
 
     // Convert Qdrant results to our expected format
@@ -98,7 +64,7 @@ export async function searchDocuments(query: string, limit: number = 5) {
         id: payload.id,
         title: payload.filename,
         content: payload.content,
-        type: payload.type === 'qa' ? 'qa' : 'file' as 'qa' | 'file',
+        type: 'file' as const,
         source: payload.filename,
         filename: payload.filename,
         chunkIndex: payload.chunkIndex,
@@ -106,38 +72,29 @@ export async function searchDocuments(query: string, limit: number = 5) {
       };
     });
 
-    // Also include Q&A documents with simple text search as fallback
-    const qaData = loadQADocuments();
-    const qaResults = qaData.map(qa => {
-      const score = calculateSimilarity(query, `${qa.question} ${qa.answer}`);
-      return {
-        id: qa.id,
-        title: qa.question,
-        content: `${qa.question} ${qa.answer}`,
-        type: 'qa' as const,
-        source: qa.question,
-        filename: undefined,
-        chunkIndex: undefined,
-        score,
-      };
-    }).filter(result => result.score > 0.1);
+    // If we have results from Qdrant, return them
+    if (results.length > 0) {
+      return results;
+    }
 
-    // Combine and sort all results
-    const allResults = [...results, ...qaResults];
-    return allResults
-      .sort((a, b) => b.score - a.score)
-      .slice(0, limit);
+    // Otherwise fall back to simple text search
+    return simpleTextSearch(query, limit);
 
   } catch (error) {
-    console.error('Error in vector search:', error);
+    console.error('Error in vector search, falling back to text search:', error);
     // Fallback to simple text search
     return simpleTextSearch(query, limit);
   }
 }
 
-// Keep the old search as a fallback
+// Simple text-based search as fallback
 function simpleTextSearch(query: string, limit: number = 5) {
   const allDocuments = getAllSearchableDocuments();
+
+  // If no documents are uploaded, return empty results
+  if (allDocuments.length === 0) {
+    return [];
+  }
 
   // Calculate similarity scores for each document
   const results = allDocuments.map(doc => {
@@ -190,18 +147,16 @@ export async function callOllama(prompt: string): Promise<string> {
 }
 
 export async function generateAnswer(query: string, relevantDocs: any[]) {
+  // If no documents found, return a helpful message
+  if (!relevantDocs || relevantDocs.length === 0) {
+    return "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.";
+  }
+
   const context = relevantDocs.map(doc => {
-    if (doc.type === 'qa') {
-      // For Q&A documents, show as Q&A format
-      const qaDoc = doc as QADocument;
-      return `Q: ${qaDoc.question}\nA: ${qaDoc.answer}`;
-    } else {
-      // For file documents, show content with source
-      return `Source: ${doc.filename || doc.source}\nContent: ${doc.content}`;
-    }
+    return `Source: ${doc.filename || doc.source}\nContent: ${doc.content}`;
   }).join('\n\n');
 
-  const prompt = `Based on the following information from Q&A pairs and uploaded documents, answer the user's question. If the information is not available in the context, say so.
+  const prompt = `Based on the following information from uploaded documents, answer the user's question. If the information is not available in the context, say so.
 
 Context:
 ${context}
