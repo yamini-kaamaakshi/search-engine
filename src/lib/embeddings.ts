@@ -23,12 +23,3 @@ export async function generateEmbedding(text: string): Promise<number[]> {
     return Array.from({ length: 384 }, () => Math.random());
   }
 }
-
-export async function generateMultipleEmbeddings(texts: string[]): Promise<number[][]> {
-  const embeddings = [];
-  for (const text of texts) {
-    const embedding = await generateEmbedding(text);
-    embeddings.push(embedding);
-  }
-  return embeddings;
-}
