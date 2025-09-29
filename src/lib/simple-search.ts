@@ -1,6 +1,6 @@
 import { getUploadedDocuments, splitDocumentIntoChunks } from './file-processor';
 import { generateEmbedding } from './embeddings';
-import { searchSimilarDocuments, type StoredDocument } from './qdrant';
+import { searchSimilarDocuments, type StoredDocument } from './vectorize';
 
 interface SearchableDocument {
   id: string;
@@ -156,14 +156,19 @@ export async function generateAnswer(query: string, relevantDocs: any[]) {
     return `Source: ${doc.filename || doc.source}\nContent: ${doc.content}`;
   }).join('\n\n');
 
-  const prompt = `Based on the following information from uploaded documents, answer the user's question. If the information is not available in the context, say so.
+  const prompt = `You are a search assistant that can only answer questions based on the provided document context. You must strictly adhere to the following rules:
 
-Context:
+1. ONLY use information from the provided context below
+2. If the information is not available in the context, respond with "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question."
+3. Do NOT use any external knowledge or information not present in the context
+4. Always cite the source filename when providing information
+
+Context from uploaded documents:
 ${context}
 
 User Question: ${query}
 
-Answer:`;
+Answer based ONLY on the above context:`;
 
   return await callOllama(prompt);
 }

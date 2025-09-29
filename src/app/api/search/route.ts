@@ -19,17 +19,32 @@ export async function POST(request: NextRequest) {
 
     if (relevantDocs.length === 0) {
       return NextResponse.json({
-        answer: "No relevant information found in the uploaded documents. Please upload documents first or try a different query related to your uploaded content.",
+        answer: "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.",
+        sources: [],
+      });
+    }
+
+    // Additional validation: ensure all results are from uploaded files
+    const validDocs = relevantDocs.filter(doc =>
+      doc.type === 'file' &&
+      doc.filename &&
+      doc.content &&
+      doc.content.trim().length > 0
+    );
+
+    if (validDocs.length === 0) {
+      return NextResponse.json({
+        answer: "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.",
         sources: [],
       });
     }
 
     // Generate an answer using Ollama
-    const answer = await generateAnswer(query, relevantDocs);
+    const answer = await generateAnswer(query, validDocs);
 
     return NextResponse.json({
       answer,
-      sources: relevantDocs.map((doc) => ({
+      sources: validDocs.map((doc) => ({
         id: doc.id,
         title: doc.title,
         content: doc.content.length > 200 ? doc.content.substring(0, 200) + '...' : doc.content,
