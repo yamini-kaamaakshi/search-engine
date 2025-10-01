@@ -17,30 +17,17 @@ export async function POST(request: NextRequest) {
     // Search for relevant documents
     const relevantDocs = await searchDocuments(query, 3);
 
-    if (relevantDocs.length === 0) {
-      return NextResponse.json({
-        answer: "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.",
-        sources: [],
-      });
-    }
+    // Generate an answer using Ollama with tool calling support
+    // The generateAnswer function now handles both document search and API tool calls
+    const answer = await generateAnswer(query, relevantDocs);
 
-    // Additional validation: ensure all results are from uploaded files
+    // Get valid docs for sources (if any)
     const validDocs = relevantDocs.filter(doc =>
       doc.type === 'file' &&
       doc.filename &&
       doc.content &&
       doc.content.trim().length > 0
     );
-
-    if (validDocs.length === 0) {
-      return NextResponse.json({
-        answer: "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.",
-        sources: [],
-      });
-    }
-
-    // Generate an answer using Ollama
-    const answer = await generateAnswer(query, validDocs);
 
     return NextResponse.json({
       answer,

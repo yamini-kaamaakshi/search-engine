@@ -178,7 +178,7 @@ const SearchInput = ({
         value={inputValue}
         onChange={onTextareaChange}
         onKeyDown={onKeyDown}
-        placeholder={uploadedFiles.length > 0 ? "Message AI Search Assistant..." : "Upload documents first to start asking questions..."}
+        placeholder="Ask about weather, flights, or your documents..."
         className={`w-full px-4 py-3 pr-20 ${gradients.input} border border-gray-300 dark:border-gray-600 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent dark:text-white placeholder-gray-500 dark:placeholder-gray-400 shadow-sm`}
         style={{ minHeight: '52px', maxHeight: '200px' }}
         disabled={loading}
@@ -188,7 +188,7 @@ const SearchInput = ({
         <button type="button" onClick={() => fileInputRef.current?.click()} disabled={uploading} className="p-2 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors" title="Upload document">
           {uploading ? <Spinner /> : <AttachIcon />}
         </button>
-        <button type="submit" disabled={loading || !inputValue.trim() || uploadedFiles.length === 0} className={`p-2 ${gradients.send} text-white rounded-md disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 shadow-md hover:shadow-lg`}>
+        <button type="submit" disabled={loading || !inputValue.trim()} className={`p-2 ${gradients.send} text-white rounded-md disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 shadow-md hover:shadow-lg`}>
           {loading ? <Spinner /> : <SendIcon />}
         </button>
       </div>
@@ -293,7 +293,7 @@ export default function Home() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!inputValue.trim() || loading || uploadedFiles.length === 0) return;
+    if (!inputValue.trim() || loading) return;
 
     if (!currentChatId) {
       setCurrentChatId(`chat_${Date.now()}_${Math.random().toString(36).substring(2, 11)}`);

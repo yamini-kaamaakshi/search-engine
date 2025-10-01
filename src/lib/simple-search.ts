@@ -1,6 +1,7 @@
 import { getUploadedDocuments, splitDocumentIntoChunks } from './file-processor';
 import { generateEmbedding } from './embeddings';
-import { searchSimilarDocuments, type StoredDocument } from './vectorize';
+import { searchSimilarDocuments, type StoredDocument } from './qdrant';
+import { tools, executeTools } from './tools';
 
 interface SearchableDocument {
   id: string;
@@ -12,11 +13,11 @@ interface SearchableDocument {
   chunkIndex?: number;
 }
 
-function getAllSearchableDocuments(): SearchableDocument[] {
+async function getAllSearchableDocuments(): Promise<SearchableDocument[]> {
   const documents: SearchableDocument[] = [];
 
   // Only use uploaded files (no pre-loaded Q&A data)
-  const uploadedFiles = getUploadedDocuments();
+  const uploadedFiles = await getUploadedDocuments();
   uploadedFiles.forEach(file => {
     const chunks = splitDocumentIntoChunks(file, 500);
     chunks.forEach(chunk => {
@@ -88,8 +89,8 @@ export async function searchDocuments(query: string, limit: number = 5) {
 }
 
 // Simple text-based search as fallback
-function simpleTextSearch(query: string, limit: number = 5) {
-  const allDocuments = getAllSearchableDocuments();
+async function simpleTextSearch(query: string, limit: number = 5) {
+  const allDocuments = await getAllSearchableDocuments();
 
   // If no documents are uploaded, return empty results
   if (allDocuments.length === 0) {
@@ -146,8 +147,100 @@ export async function callOllama(prompt: string): Promise<string> {
   }
 }
 
+// Helper function to detect if query needs tool calling
+function needsToolCalling(query: string): boolean {
+  const lowerQuery = query.toLowerCase();
+
+  // Weather keywords
+  const weatherKeywords = ['weather', 'temperature', 'forecast', 'climate', 'rain', 'sunny', 'cloudy', 'hot', 'cold'];
+  // Flight keywords
+  const flightKeywords = ['flight', 'airline', 'departure', 'arrival', 'flying', 'plane'];
+
+  return weatherKeywords.some(kw => lowerQuery.includes(kw)) ||
+         flightKeywords.some(kw => lowerQuery.includes(kw));
+}
+
+// Function to determine which tools to call based on query
+async function determineToolCalls(query: string): Promise<any[]> {
+  const toolsDescription = tools.map(tool =>
+    `- ${tool.name}: ${tool.description}`
+  ).join('\n');
+
+  const prompt = `You are a function calling assistant. Given a user query, determine which tools to call and with what arguments.
+
+Available tools:
+${toolsDescription}
+
+User query: "${query}"
+
+If the query requires calling a tool, respond with ONLY a JSON array of tool calls in this exact format:
+[{"name": "tool_name", "arguments": {"param": "value"}}]
+
+If NO tool is needed (e.g., the query is about uploaded documents), respond with ONLY:
+[]
+
+Examples:
+Query: "What's the weather in London?"
+Response: [{"name": "get_current_weather", "arguments": {"location": "London, UK", "unit": "celsius"}}]
+
+Query: "Flight status for BA456"
+Response: [{"name": "get_flight_info", "arguments": {"flight_number": "BA456"}}]
+
+Query: "What does the document say about sales?"
+Response: []
+
+Now analyze the user query and respond with ONLY the JSON array (no other text):`;
+
+  try {
+    const response = await callOllama(prompt);
+    // Extract JSON from response - look for array pattern
+    const jsonMatch = response.match(/\[.*\]/s);
+    if (jsonMatch) {
+      return JSON.parse(jsonMatch[0]);
+    }
+    return [];
+  } catch (error) {
+    console.error('Error determining tool calls:', error);
+    return [];
+  }
+}
+
 export async function generateAnswer(query: string, relevantDocs: any[]) {
-  // If no documents found, return a helpful message
+  // Check if query needs real-time API data
+  if (needsToolCalling(query)) {
+    try {
+      // Determine which tools to call
+      const toolCalls = await determineToolCalls(query);
+
+      if (toolCalls.length > 0) {
+        console.log('Executing tools:', toolCalls);
+
+        // Execute the tools
+        const toolResults = await executeTools(toolCalls);
+
+        // Generate answer using tool results
+        const toolContext = toolResults.map(tr =>
+          `Tool: ${tr.tool}\nArguments: ${JSON.stringify(tr.arguments)}\nResult: ${JSON.stringify(tr.result, null, 2)}`
+        ).join('\n\n');
+
+        const prompt = `You are a helpful assistant that provides information based on real-time data from APIs.
+
+Tool Results:
+${toolContext}
+
+User Question: ${query}
+
+Based on the tool results above, provide a concise, structured answer with key information only. Format as bullet points or short sentences with actual data values (temperature, humidity, wind speed, etc.). Do not add unnecessary conversational text or advice. Just present the facts clearly.`;
+
+        return await callOllama(prompt);
+      }
+    } catch (error) {
+      console.error('Tool calling error:', error);
+      // Fall through to document search
+    }
+  }
+
+  // Original document-based search logic
   if (!relevantDocs || relevantDocs.length === 0) {
     return "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.";
   }
