@@ -41,9 +41,12 @@ export async function POST(request: NextRequest) {
     // Generate an answer using Ollama
     const answer = await generateAnswer(query, validDocs);
 
+    // Sort by score and return top results
+    const sortedDocs = validDocs.sort((a, b) => (b.score || 0) - (a.score || 0));
+
     return NextResponse.json({
       answer,
-      sources: validDocs.map((doc) => ({
+      sources: sortedDocs.map((doc) => ({
         id: doc.id,
         title: doc.title,
         content: doc.content.length > 200 ? doc.content.substring(0, 200) + '...' : doc.content,

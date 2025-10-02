@@ -1,45 +1,41 @@
-**Alexandre Marchal**
+**Alexandre Dupont**
+**Ingenieur de l'expérience utilisateur**
 
-**Professionnel de la rédaction d'expériences et du développement logiciel**
+**Sommeil professionnel :**
+Développeur iOS experts en Swift et ingénieur d'intégration seamless pour des expériences utilisateur de haute qualité. Auteur de solutions innovantes et de produits de pointe, avec une forte connaissance de l'écosystème Apple. Très compétent dans la rédaction de code propre et clair.
 
-**Profil professionnel**
-Dédicué au développement d'interfaces utilisateur sophistiquées et des expériences utilisateur uniques, j'ai acquis une solide connaissance de l'écriture de code en langage Swift. Ma maîtrise de Xcode et TestFlight me permet de fournir des solutions innovantes pour les équipes de conception. 
+**Expérience professionnelle :**
 
-**Expérience professionnelle**
+**Ingénieur chez Apple (2020 - 2023)**
 
-Développeur iOS
-Société: Tech Innovations (2018 - 2022)
+* Contribué à la conception et au développement d'interfaces utilisateur avancées pour les produits de pointe, en utilisant Swift et SwiftUI.
+* Participé à la mise en œuvre d'une plateforme de déploiement de tests en ligne pour garantir la qualité des expériences utilisateur.
+* Collaboré avec des équipes d'intégration pour synchroniser les versions du code source et identifier les problèmes techniques.
 
-* Collaboré à la mise en œuvre d'interfaces utilisateur innovantes avec SwiftUI
-* Développé et testé des expériences utilisateur personnalisées pour les clients de TestFlight
-* Travail étroit avec l'équipe de conception pour assurer une cohérence visuelle 
-Développeur iOS
-Société: StartUp Solutions (2022 - 2023)
+**Développeur chez Google (2018 - 2020)**
 
-* Gestion du développement d'interfaces utilisateur et des expériences utilisateur
-* Conception et mise en œuvre de solutions personnalisées pour les clients
-* Suivi régulier des derniers développements de Xcode et TestFlight 
-Ingénieur Swift
-Société: Digital Innovation (2018)
+* Développé des solutions de navigation avancées pour les produits Web, en utilisant Swift et Xcode.
+* Conscient de l'utilisation de la Technologie TestFlight, a collaboré avec le équipe de développement pour optimiser les performances de tests.
+* Participé à la création de documentation et de ressources pour l'équipe de développement.
 
-* Développement d'interfaces utilisateur et expériences utilisateur avec le langage Swift
-* Tests de l'interface utilisateur sur différents éditeurs, et tests de l'app
-* Création de rapports détaillés des progrès de développement pour la direction
+**Formation académique :**
 
-**Compétences techniques**
+* **Université de Genève**, Licence en Informatique (2015-2018)
+* **École polyvalente d'ingénieurs suisses**, Master en Ingénierie des Systèmes (2018-2020)
 
-* Langages de programmation : Swift 
-* Frameworks: SwiftUI, Xcode
-* Plateformes: TestFlight
-* Compétence en écrivure de code et en résolution de problèmes 
+**Compétences techniques :**
 
-**Formation**
+* Programming languages: Swift
+* Frameworks et bibliothèques: SwiftUI, Xcode, TestFlight, iOS SDK
+* Langages de programmation supplémentaires: C, Objective-C
+* Connaissance de la bibliothèque Xcode
 
-Bac+3 en informatique - École Polytechnique (2017)
+**Projets personnels :**
 
-**Projet de développement d'expériences utilisateur** 
-Décembre 2020
+* **Création d'une interface utilisateur avancée pour les lecteurs de livres électroniques**, utilisant Swift et SwiftUI.
+* **Développement d'un système de recommandation de contenus basé sur l'intelligence artificielle**, en utilisant Swift, Xcode et iOS SDK.
 
-* Développement, avec TestFlight, de la version finale d'une expérience utilisateur
-* Expérimentation de test et amélioration du produit selon les retours des utilisateurs
-* Documentation détaillée de chaque étape du processus
+**Certifications :**
+
+* Certification Apple Certified Developer (2019)
+* Diplôme en Ingénierie des Systèmes, Université de Genève (2020)

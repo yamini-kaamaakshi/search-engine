@@ -1,39 +1,42 @@
-**Juan Carlos López Hernández**
+**Juan Pérez García**
+**Contacto**
+
+* Teléfono: 93 456 7890
+* Correo electrónico: juanperezgarcia@email.com
+* Perfil en GitHub: github.com/juanperezgarcia
 
 **Resumen profesional**
 
-Soy un desarrollador con experiencia en creación de soluciones para plataformas iOS utilizando tecnologías Swift, CoreData y Combine. Mi expertise se centra en el diseño y desarrollo de experiencias de usuario efectivas y escalables.
+Experiencia ampliada en la creación de soluciones de software para plataformas iOS, con un fuerte enfoque en el desarrollo de software utilizando Swift. Destaco mi capacidad para diseñar y implementar arquitecturas de software escalables y seguras.
 
 **Experiencia laboral**
 
-* Desarrollador iOS, Consultoría TechInnova (2018-2022)
- + Diseñé e implementé soluciones para varios proyectos utilizando Swift y la biblioteca CoreData
- + Integré servicios web con APIs utilizando Combine y protocolos de comunicación
- + Realizó pruebas unitarias y de integración para garantizar calidad y rendimiento
-* Ingeniero Swift, Empresarial DevZone (2015-2018)
- + Desarrolló aplicaciones para iOS utilizando Swift y la biblioteca UIKit
- + Optimizó el rendimiento de aplicaciones existentes mediante ajustes en la estructura de datos y la ejecución
- + Colaboró con equipos de diseño e ingeniería para mejorar la experiencia del usuario
-* Asistente técnico, Universidad Nacional de Ingeniería (2012-2015)
- + Ayudó a desarrollar soluciones informáticas para proyectos de investigación y enseñanza
+* **Desarrollador iOS**, TechLab (2018 - 2022)
+ + Desarrollé y personalizé varias soluciones para empresas locales, utilizando el SDK de iOS y tecnologías como CoreData y Combine.
+ + Colaboré en equipo con otros desarrolladores para crear experiencias de usuario innovadoras y experiencia de usuario de alta calidad.
+ + Realicé pruebas unitarias y de integración para asegurar la calidad y estabilidad de las soluciones entregadas.
+* **Ingeniero Swift**, Iniciativa Tecnológica (2017 - 2018)
+ + Desarrollé una serie de herramientas y librerías para facilitar el desarrollo de software en Swift, colaborando con otros especialistas del equipo.
+ + Participé en la evaluación y selección de tecnologías para implementaciones futuras, asegurándome de que las soluciones seleccionadas cumplieran con los requisitos de la empresa.
+* **Asistente de Desarrollo**, StartUp Dev (2015 - 2017)
+ + Acompañé a un equipo de desarrolladores en el desarrollo de una aplicación de iOS utilizando Swift y el SDK, trabajando juntos para lograr objetivos compartidos.
+ + Realicé pruebas unitarias y de integración para asegurar la calidad y estabilidad del código de los proyectos.
 
 **Habilidades técnicas**
 
-* Swift 4.7+
-* iOS SDK
-* CoreData
-* Combine
-* Xcode
-* Git
-* Familiaridad con:
- + Protocolos de comunicación (RxSwift, Apollo)
- + Bibliotecas de terceros ( AlamoFire, Alamofire)
+* **Swift**: Extiende, desarrollo y mantenimiento de aplicaciones móviles utilizando el lenguaje de programación.
+* **SDK iOS**: Desarrollo e implementación de interfaces de usuario y características específicas de la plataforma.
+* **CoreData**: Arquitectura de datos no relacional y gestión de bases de datos para iOS.
+* **Combine**: Programación asíncrona utilizando protocolos y operadores.
+* **Swift Package Manager**: Gerenciamento de dependencias y paquetes para Swift.
 
 **Educación**
 
-* Licenciatura en Ingeniería Informática, Universidad Nacional de Ingeniería (2012-2015)
+* Título de Ingeniero en Informática, Universidad Nacional (2015)
+ + Estudios fundamentales en programación, algoritmos y bases de datos.
 
 **Proyectos relevantes**
 
-* **Proyecto de gestión de recursos**: Desarrollé una solución para la gestión de activos y recursos utilizando CoreData y Swift. La aplicación permite a los usuarios registrar, actualizar y eliminar registros de manera eficiente.
- + Git repositoy: [github.com/juanlopezdev/ gestion-de-recursos]
+* Desarrollo de una aplicación de seguimiento de rutina diaria utilizando CoreData y Combine para mejorar la productividad.
+ + Implementé un sistema de alarma que notificaba al usuario cuando se cumplían ciertos objetivos o metas fijadas.
+* Creación de herramientas automatizadoras de pruebas unitarias y de integración utilizando SwiftUnit y SwiftMockito.
