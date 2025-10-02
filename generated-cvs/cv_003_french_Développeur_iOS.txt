@@ -1,41 +1,39 @@
-**Alexandre Dupont**
-**Ingenieur de l'expérience utilisateur**
+**Thomas Dupont**
 
-**Sommeil professionnel :**
-Développeur iOS experts en Swift et ingénieur d'intégration seamless pour des expériences utilisateur de haute qualité. Auteur de solutions innovantes et de produits de pointe, avec une forte connaissance de l'écosystème Apple. Très compétent dans la rédaction de code propre et clair.
+**Professionnel Summary**
+Développeur expert en Swift et ingénieur de l'expérience utilisateur, avec une passion pour créer des produits innovants et robustes. Auteur certifié TestFlight. Capacité à travailler efficacement en équipe pour développer et livrer des solutions complexes.
 
-**Expérience professionnelle :**
+**Expérience Professionnelle**
 
-**Ingénieur chez Apple (2020 - 2023)**
+* **Développeur iOS**
+   - Ex-Apple Inc. (2020-2023)
+     - Conception, développement, test et déplacement de produits sur TestFlight
+     - Amélioration continue de la qualité et efficacité du code
+     - Collaboration avec les équipes de design, marketing et production
+* **Ingénieur**
+   - StartupX (2018-2020)
+     - Conception et développement d'éléments de base pour des produits de pointe en Swift et SwiftUI
+     - Implémentation de fonctionnalités innovantes sur TestFlight
+     - Collaboration avec les équipes de produit et marketing pour améliorer les expériences utilisateur
+*   **Développeur Junior**
+     - Entreprise X (2016-2018)
+         - Acquisition d'expertise en Swift, Xcode et principes de programmation objet
+         - Conception et développement de prototypes avec SwiftUI
+         - Intégration dans les équipes de test de qualité pour identifier les bugs système
 
-* Contribué à la conception et au développement d'interfaces utilisateur avancées pour les produits de pointe, en utilisant Swift et SwiftUI.
-* Participé à la mise en œuvre d'une plateforme de déploiement de tests en ligne pour garantir la qualité des expériences utilisateur.
-* Collaboré avec des équipes d'intégration pour synchroniser les versions du code source et identifier les problèmes techniques.
+**Compétences Techniques**
 
-**Développeur chez Google (2018 - 2020)**
+*   Programmation : Swift 5.x
+*   Gestion de la interface utilisateur : SwiftUI
+*   Développement d'expérience utilisateur: Présence sur TestFlight pour déplacement et expérimentation régulière.
+*   Logiciels intégrés : Xcode
+*   Frameworks et bibliothèques : Core Data, Realm et les meilleures pratiques de développement Swift
 
-* Développé des solutions de navigation avancées pour les produits Web, en utilisant Swift et Xcode.
-* Conscient de l'utilisation de la Technologie TestFlight, a collaboré avec le équipe de développement pour optimiser les performances de tests.
-* Participé à la création de documentation et de ressources pour l'équipe de développement.
+**Éducation**
 
-**Formation académique :**
+- École d'ingénieur spécialisée en informatique (2015-2016)
 
-* **Université de Genève**, Licence en Informatique (2015-2018)
-* **École polyvalente d'ingénieurs suisses**, Master en Ingénierie des Systèmes (2018-2020)
+**Projets Personnels**
 
-**Compétences techniques :**
-
-* Programming languages: Swift
-* Frameworks et bibliothèques: SwiftUI, Xcode, TestFlight, iOS SDK
-* Langages de programmation supplémentaires: C, Objective-C
-* Connaissance de la bibliothèque Xcode
-
-**Projets personnels :**
-
-* **Création d'une interface utilisateur avancée pour les lecteurs de livres électroniques**, utilisant Swift et SwiftUI.
-* **Développement d'un système de recommandation de contenus basé sur l'intelligence artificielle**, en utilisant Swift, Xcode et iOS SDK.
-
-**Certifications :**
-
-* Certification Apple Certified Developer (2019)
-* Diplôme en Ingénierie des Systèmes, Université de Genève (2020)
+*   Développement d'un jeu avec SwiftUI en utilisant les dernières features, ce qui s'est révélé être une opportunité de développement innovante et de création artisanale pour l'expérience utilisateur.
+*   Amélioration continue du code avec des tests unitaires et de integration automatisés via Swift Package Manager.

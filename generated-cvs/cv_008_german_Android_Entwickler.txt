@@ -1,53 +1,42 @@
-Felix Müller
+Maximilian Schneider
 
-**Professioneller Überblick**
+**Professionelle Zusammenfassung**
+Ich bin ein erfahrener Entwickler mit Fokus auf Android-Dienste, der sich in den Schreibstilen Material Design und MVVM auszeichnet. Mit umfangreicher Erfahrung in Kotlin und Android Studio habe ich mich auf die Erstellung komplexer und leistungsfähiger Dienste spezialisiert. Ich bin für die Implementierung von Robustheit, Sicherheit und skalierbarkeit an den Diensten.
 
-Als erfahrener Android-Entwickler mit umfangreichen Erfahrungen in der Verwendung von Kotlin und den neuesten Technologien im Bereich Android, habe ich eine starke Leidenschaft für die Entwicklung komplexer, benutzerfreundlicher Software. Mit einem starken Fokus auf Codekwalität, Zusammenarbeit und Kundenorientierung, bin ich in der Lage, innovative Lösungen zu entwickeln, die den Bedürfnissen meiner Kunden gerecht werden.
+**Berufserfahrung**
 
-**Arbeitserfahrung**
-
-**Senior Android-Entwickler**
-Google LLC (2020 - 2022)
-
-* Fuhr ein Team von Entwicklern bei der Entwicklung neuer Android-Lösungen
-* Verantwortung für die Implementierung komplexer Funktionen mithilfe von Kotlin und MVVM-Architektur
-* Zusammenarbeit mit dem Design-Team für die Realisierung von Materialdesign-Einrichtungen
-
-**Android-Entwickler**
-Xing AG (2018 - 2020)
-
-* Entwickelte neue Funktionen für den Xing-Web-Browser mithilfe von Kotlin und Android Studio
-* Implementierung von MVVM-Architektur für die Steuerung der Benutzeroberfläche
-
-**Junior Android-Entwickler**
-Mayer Consult (2016 - 2018)
-
-* Assiste bei der Entwicklung neuer Android-Lösungen, umfassend die Implementierung einfacher bis komplexer Funktionen
-* Durchführte Code-Reviews und unterstützte das Team bei der Verbesserung der Qualität des Codes
+* **Android-Entwickler**, Team X GmbH (2019 - 2022)
+ + Entwickelte komplexe Android-Dienste in Kotlin, wobei ich mich auf Material Design und MVVM konzentrierte
+ + Implementierte Sicherheitsfunktionen und Fehlerbehandlungsmuster für verbesserte Robustheit der Dienste
+ + Arbeitete eng mit dem Entwicklungsteam zusammen, um sicherzustellen, dass die Dienste den Anforderungen der Kunden entsprachen
+* **Kotlin-Entwickler**, Tech Solutions (2016 - 2019)
+ + Führte Entwicklungsprojekte in Kotlin durch und implementierte neue Features für verschiedene Systeme
+ + Prüfte die Funktionalität der Codebase auf Richtigkeit, Lesbarkeit und Konsistenz
+ + Worked alongside the QA team to ensure stable and reliable releases of new software
+* **Freiberufler**, Solo (2015 - 2016)
+ + Führte verschiedene Entwicklungsprojekte in Kotlin und Java durch
+ + Realisierte neue Features und Verbesserungen für bestehende Systeme
 
 **Technische Fähigkeiten**
 
-* Programmiersprachen:
- + Kotlin
- + Java
-* Entwicklungsumgebungen:
- + Android Studio
- + IntelliJ IDEA
-* Designtechnologien:
- + Materialdesign
- + Jetpack
-* Architekturmodelle:
- + MVVM (Model-View-ViewModel)
-* Datenbanken:
- + Room Persistence Library
+* Kotlin
+* Android Studio
+* Material Design
+* MVVM
+* Robustheit und Sicherheit
+* Scalerfähigkeit
+* Datenbanken (Room Persistence Library)
+* Webdienste (Ktor)
 
-**Bildung**
+**Ausbildung**
 
-* Bachelor of Science in Informatik, Universität Hamburg (2016)
+* Bachelor's in Informatik, Universität der Künste Berlin (2014 - 2018)
 
 **Projekte**
 
-* **Android-Native-Bibliothek für 3D-Modellierungssoftware**
- Entwickelte eine Java-basierte Bibliothek, die es ermöglicht Benutzern, native Android-Funktionen in ihrer eigenen Software zu integrieren.
-* **Benutzerfreundliche Android-Umgebungen mit Kotlin und MVVM**
- Entwickle eine Basisumgebung für Android-Entwickler, die durch Kotlin und MVVM strukturiert ist und sicherstellt, dass Benutzern benutzerfreundliche Interface-Oberflächen erstellt werden können.
+* **Dienst für die Überwachung von Fitnessgeräten**: Erstellung eines Android-Dienstes mit Material Design und MVVM-Frameworks zur Überwachung von Fitnessgeräten.
+ + Implementierte Funktionen wie Registrierung, Login und Zustandsumfang
+ + Integrierte den Datenbankmechanismus Room Persistence Library für die Speicherung der Datan
+
+* **Dienst für die Anzeige von Sportwettbewerben**: Entwickelte einen Android-Dienst mit Kotlin und Material Design für das Anzeigen von Sportwettbewerben
+ + Fügte Funktionen wie Navigation durch Wettbewerbe und Verwaltung des Wettbewerbsscalars hinzu

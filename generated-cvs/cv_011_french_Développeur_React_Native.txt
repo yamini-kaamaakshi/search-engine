@@ -1,32 +1,50 @@
-**Sébastien Dumont**
+**Sébastien Dupont**
 
-**Professional Summary**
-Développeur expérimenté en développement d'expériences numériques pour les plateformes multi-plateformes, spécialisé dans React Native et les outils d'organisation Redux Toolkit.
+**Professionnel de l'innovation numérique**
 
-Avec plus de 7 ans d'expérience dans le développement de solutions numériques, j'ai suivi une évolution vers la création de contenu interactif pour divers publics. Je m'interesse à l'amélioration continue des compétences en React Native et dans les outils d'organisation. 
+Décerné pour sa maîtrise du développement d'expériences d'utilisateur unique et engageantes à travers des plateformes hybrides. Expérimenté dans la création de solutions scalables et de performances optimales. Passionné par l'amélioration constante de la qualité et de la rapidité des processus de développement.
 
-Ma capacité de travail sous pression me permet de gérer des flux de travail complexes et de maintenir une qualité élevée tout au long de chaque projet.
+**Expérience professionnelle**
 
-**Expérience Professionnelle**
+**Développeur React Native (2018 - Présent)**
 
-* **Développeur Senior**, Xylophones (2020 - Present)
- + Réalisé l'intégration complète d'une fonctionnalité basée sur React Native dans un produit expérimental
- + Collaboration avec le team pour résoudre des problèmes techniques complexes
- + Déploiement réussi de plusieurs versions sur différents plateformes
-* **Développeur**, Xylophones (2018 - 2020)
- + Création d'une nouvelle fonctionnalité basée sur React Native et Redux Toolkit pour améliorer la performance utilisateur
- + Intégration avec des modules natifs pour permettre à l'expérience d'accéder aux services cloud
- + Développement de tests unitaires et intégrés pour garantir une qualité élevée
-* **Développeur Junior**, Xylophones (2016 - 2018)
- + Apprentissage des bases du développement Web avec React Native et Redux Toolkit
- + Création d'interactions numériques simples et collaborée sur plusieurs projets
- + Assistance technique aux collègues
+* Création de nouvelles fonctionnalités pour diverses plateformes hybrides, en utilisant React Native et Redux Toolkit
+* Développement et maintenance d'un large éventail d'interfaces utilisateur pour des clients nationaux et internationaux
+* Mise en œuvre deNative Modules pour intégrer des modules native pour accéder à des fonctionnalités avancées telles que la reconnaissance faciale, le gestionnaire de fichiers et les capacités de localisation
 
-**Compétences Techniques**
+**Développeur Java (2015 - 2018)**
 
-- **React Native**
-- **Redux Toolkit**
-- **Native Modules (JavaScript, Objective-C, C++)**
-- HTML/CSS
-- JavaScript
-- TypeScript
+* Conception et développement de solutions métier pour les clients du secteur financière
+* Intégration de technologies tierces telles que Spring Boot et Docker pour améliorer la flexibilité et la scalabilité des applications
+* Déploiement et maintenance d'un système de gestion de projet collaboratif pour plusieurs équipes
+
+**Développeur junior (2013 - 2015)**
+
+* Assistance à la mise en œuvre de solutions numériques pour diverses entreprises nationales
+* Apprentissage des bases du développement web et mobile en utilisant des technologies telles que HTML, CSS, JavaScript et React Native
+* Contribution à la création d'un module commun de développement pour une plateforme hybride
+
+**Compétences techniques**
+
+* React Native (16.0.1)
+* Redux Toolkit (1.2.7)
+* Native Modules (pour accéder aux fonctionnalités native tels que la reconnaissance faciale, le gestionnaire de fichiers et les capacités de localisation)
+* JavaScript (ECMAScript 2015)
+* Python (3.8.0)
+* HTML/CSS (5.0)
+* Git (2.22.0)
+
+**Éducation**
+
+* Bachelor en Sciences Informatiques, Université Paris Sud (2009 - 2014)
+* Diplôme en Développement Web, école de développeurs (2011 - 2013)
+
+**Projets personnels**
+
+* **Plateforme hybride d'expérience utilisateur** (2020)
+ + Création d'une plateforme hybride avec React Native et Redux Toolkit pour un client national
+ + Développement de fonctionnalités de reconnaissance faciale et de gestionnaire de fichiers pour cette plateforme
+ + Implémentation deNative Modules pour accéder aux capacités avancées de la plateforme
+* **Système de gestion de projet collaboratif** (2017)
+ + Création d'un système de gestion de projet collaboratif en utilisant Spring Boot, Docker et Git
+ + Déploiement et maintenance du système pour plusieurs équipes

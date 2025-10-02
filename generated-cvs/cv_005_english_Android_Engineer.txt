@@ -1,41 +1,46 @@
-**Abdullahi Idris**
+John Lee
 
-**Professional Summary:**
-Highly skilled Android Engineer with a strong background in Kotlin development, utilizing cutting-edge technologies such as Jetpack Compose and Room to deliver high-performance, data-driven solutions.
+Professional Summary:
+Highly skilled Android developer with a strong background in Kotlin and expertise in Jetpack Compose and Room. Proven ability to deliver high-quality solutions with a focus on scalability and maintainability. Passionate about staying up-to-date with the latest technologies and trends.
 
-**Work Experience:**
+Work Experience:
 
-**Senior Android Developer, TechForge (2020-Present)**
+Senior Android Engineer
+TechCorp (2020-Present)
 
-- Led the development of multiple high-profile projects using Kotlin and Android Studio, resulting in significant improvements in productivity and user experience.
-- Collaborated with cross-functional teams to integrate third-party APIs, enhancing overall system reliability and performance.
-- Implemented robust data management solutions utilizing Room Persistence Library.
+* Led the development of multiple large-scale projects utilizing Kotlin, Android Studio, and Jetpack Compose, resulting in significant performance improvements and streamlined maintenance processes.
+* Collaborated with cross-functional teams to identify and prioritize feature enhancements, ensuring alignment with business objectives and stakeholder expectations.
+* Developed and maintained technical documentation for new features and APIs, facilitating knowledge sharing across the team.
 
-**Android Engineer, NovaTech (2018-2020)**
+Android Engineer
+SoftZone (2018-2020)
 
-- Contributed to the development of several Android-based projects using Kotlin and Android Studio, focusing on UI/UX enhancements and optimization.
-- Worked closely with designers to implement design systems, ensuring seamless integration between UI components and backend services.
-- Participated in code reviews and ensured adherence to best practices and coding standards.
+* Designed, implemented, and tested Android software using Kotlin, focusing on robustness, security, and user experience.
+* Contributed to the development of custom UI components utilizing Jetpack Compose, enhancing app performance and aesthetics.
+* Collaborated with fellow engineers to resolve technical issues and implement fixes, ensuring minimal downtime for end-users.
 
-**Junior Android Developer, FusionCorp (2016-2018)**
+Junior Android Engineer
+NewTech (2016-2018)
 
-- Developed and tested various Android-based projects using Kotlin and Android Studio, honing skills in software development and debugging techniques.
-- Assisted senior engineers with tasks such as architecture design, code optimization, and performance analysis.
+* Assisted senior engineers in the development of Android software using Kotlin, gaining hands-on experience with best practices and design principles.
+* Worked on various testing frameworks and automated tools to improve code quality and debugging efficiency.
+* Contributed to open-source projects and participated in coding challenges to expand my technical skillset.
 
-**Technical Skills:**
+Technical Skills:
 
 - Programming languages: Kotlin
-- Development environments: Android Studio
-- UI/UX frameworks: Jetpack Compose
-- Data storage: Room Persistence Library
-- Agile methodologies: Scrum
-- Version control systems: Git
+- Integrated Development Environments (IDEs): Android Studio
+- UI Frameworks: Jetpack Compose, custom components
+- Data Storage and Management: Room Persistence Library
 
-**Education:**
+Education:
+Bachelor of Science in Computer Science
+University of California, Los Angeles (2016)
 
-- Bachelor of Science in Computer Science, University of Westminster (2015)
+Projects:
 
-**Projects:**
+Personal Project - "Daily Routine Tracker"
+Developed a simple yet feature-rich task management tool using Kotlin and Android Studio. Implemented a custom UI component utilizing Jetpack Compose to display data visually.
 
-- **Smart Home Automation System**: Developed a comprehensive home automation system utilizing Kotlin and Android Studio, incorporating features like voice-controlled lighting and temperature management.
-- **Real-time Data Analytics Platform**: Designed and implemented a real-time data analytics platform using Jetpack Compose, Room Persistence Library, and Apache Kafka.
+Collaboration Project - "E-learning Platform"
+Contributed to the development of an e-learning platform that utilized Room for data storage, allowing for seamless syncing across multiple devices.

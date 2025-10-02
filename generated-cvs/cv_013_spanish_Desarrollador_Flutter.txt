@@ -1,42 +1,57 @@
-**Juan Carlos Gómez Pérez**
+**Pedro Gómez Ramírez**
 
-**Resumen profesional:**
-Soy un desarrollador de software con experiencia en la creación de experiencias usuario, utilizando tecnologías como Flutter y Dart. Tengo dominio sobre BLoC y GetX para el desarrollo de sistemas escalables y eficientes. Busco colaboraciones que me permitan seguir creciendo como desarrollador.
+**Resumen profesional**
 
-**Experiencia laboral:**
+Soy un desarrollador de software con experiencia en diseño y desarrollo de interfaces de usuario dinámicas utilizando la plataforma Flutter y el lenguaje Dart. Tiengo una sólida comprensión de las patologías BLoC y GetX, lo que me permite trabajar de manera eficiente y escalable en proyectos complejos.
 
-* **Desarrollador Senior**, TechZone S.A. (2022 - 2023)
- + Desarrollé varias experiencias en Flutter, asegurando una estabilidad y rendimiento óptimo.
- + Implementé arquitecturas BLoC para mejorar la escalabilidad de los sistemas.
- + Colaboré con el equipo de diseño para crear interfaces intuitivas.
-* **Desarrollador**, StartUp Inc. (2019 - 2022)
- + Desarrollé varias experiencias en Flutter, enfocándome en la creación de interfaces y usuarios.
- + Utilicé Dart para la gestión de datos y lógica de negocio.
- + Integré GetX para automatizar la gestión de estado en mis proyectos.
-* **Internado**, DevTeam (2018)
- + Desarrollé un proyecto personal utilizando Flutter y Dart.
- + Aprendí sobre las buenas prácticas de diseño y desarrollo de software.
+**Experiencia laboral**
 
-**Habilidades técnicas:**
+**Desarrollador Flutter**
+- EBIT (Empresas Inteligentes para el Bienestar Trimestral), 2020 - 2022
+ + Desarrollé e interfaces de usuario para diferentes productos, utilizando Flutter y Dart.
+ + Implementé patologías BLoC y GetX para mejorar la escalabilidad y el rendimiento del software.
+ + Colaboré con la equipo de diseño para crear experiencias de usuario intuitivas y atractivas.
 
-* Flutter
-* Dart
-* BLoC
-* GetX
-* State management con Provider, etc.
-* Experiencia con SQLite y otros sistemas de gestión de bases de datos
-* Conocimientos básicos de GraphQL
+**Desarrollador Junior**
+- TechDev (Solutions Técnicas para Desarrollo), 2018 - 2020
+ + Aprendí los fundamentos de Flutter y Dart en un entorno de aprendizaje intensivo.
+ + Realicé proyectos personales utilizando las últimas características del lenguaje.
 
-**Educación:**
+**Estudiante de Ing. en Computación**
+- Universidad Nacional, 2016 - 2018
+ + Estudié programación básica, teoría de computación y matrices.
+ + Me familiarice con los conceptos fundamentales de diseño de interfaces de usuario.
 
-* **Título universitario**, Universidad Nacional (2018)
- + Estudié Ciencias de la Computación y Tecnología de la Información.
+**Habilidades técnicas**
 
-**Proyectos destacados:**
+* Lenguajes:
+ + Dart
+ + BLoC
+ + GetX
+ + Html/CSS/JavaScript (basico)
+* Tecnologías:
+ + Flutter
+ + Firebase (servicios de autenticación y almacenamiento de datos)
+ + SQFlite (gestión de bases de datos locales)
+ + Firebase Core (gestor de estado y gestión de buenas prácticas)
 
-* **Mesa de comidas**: Una aplicación para pedir comida, hecha con Flutter y Dart.
- + Utilicé GetX para automatizar la gestión del estado en el proyecto.
- + Implementé una API para obtener los datos de restaurante y pedido.
-* **Cronómetro**: Un proyecto de código abierto hecho con Flutter y Dart que cuenta tiempo hasta un objetivo personal.
- + Utilicé BLoC para gestionar el estado del temporizador.
- + Aprendí sobre las diferentes formas de implementar un temporizador en una aplicación.
+**Educación**
+
+- Universidad Nacional, Licenciatura en Computación, 2018
+- Curso de especialización en programación para web, Codecademy, 2020
+
+**Proyectos personales**
+
+* **Generador de pasaportes**
+ + Un proyecto pequeño que genera pasaportes virtuales, utilizando Flutter y Firebase.
+ + Me permitió practicar la implementación de interfaces de usuario complejas y la integración con servicios externos.
+
+* **Mood Tracker**
+ + Un sistema de seguimiento del estado emocional diseñado para ayudar a las personas a gestionar sus emociones.
+ + Utilizaba Flutter, Dart y BLoC para la estructura y gestión del software.
+
+**Certificaciones**
+
+- Certificado de programación en Dart (Dart Language), Codecademy, 2020
+
+*Nota: Esta CV es solo un ejemplo y puede ajustarse a las necesidades y experiencias específicas del candidato.*

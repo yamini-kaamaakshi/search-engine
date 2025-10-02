@@ -1,30 +1,47 @@
-Sebastian Meyer
+---
 
-**Berufliche Zusammenfassung:**
+Anonymität Christian Weber
+Düsseldorfer Str. 12, 40239 Düsseldorf, Deutschland
+Phone: +49 176 / 23456789
+E-Mail: <christian.weber@email.de>
 
-Als erfahrener Entwickler mit Schwerpunkt auf Flutter und Dart baue ich innovative digitale Lösungen für mein Team und meine Kunden. Mit umfangreichen Erfahrungen in der Verwendung von Riverpod und SQLite fühle ich mich als Experte für state-of-the-art-Entwicklungen sicher. Ich bin stets bemüht, die bestmöglichen Ergebnisse zu erzielen, indem ich auf den Anforderungen meiner Kunden eingeleitet werden.
+**Professioneller Überblick**
+Ich bin ein erfahrenender Flutter-Entwickler mit Fokus auf die Gestaltung und Durchführung von komplexen Software-Lösungen. Mit starken Kenntnissen in Dart, Riverpod und SQLite verstehe ich mich im Umgang mit diesen Technologien sowie deren Integration in bestehende Projekte.
 
-**Berufserfahrung:**
+**Arbeitserfahrung**
 
-* Flutter Entwickler bei Bitrise GmbH (2021 - 2023)
- + Entwickelt und gepflegt ich komplexe Flutter-Anwendungen mit starkem Schwerpunkt auf Riverpod-Integration
- + Arbeiten als Teil einer starken Teammitgliedschaft an Projekten, die ständig wachsende Anforderungen unter Berücksichtigung von technischen und kreativen Aspekten erfüllen
- + Beteilige mich regelmäßig an Code-Reviews und weiterentwickle meine Fähigkeiten durch kontinuierliche Weiterbildung
-* Freelance-Entwickler (2020 - 2021)
- + Erfolgreich für verschiedene Kunden bei der Erstellung hochwertiger Flutter-Lösungen gelitten
- + Führe Verhandlungen mit neuen Kunden, um Möglichkeiten für neue Projekte zu erkunden und meine Kompetenzen unter Beweis zu stellen
- + Betreibe ein eigenständiges Projektmanagement über die Anwendung von Kanban-Verfahren
-* Interner Entwickler bei Siemens AG (2018 - 2020)
- + Verantwortlich für die Erstellung eines großen, komplexen Flutter-Projekts im Bereich der Produktentwicklung
- + Beteilige mich an der Integration unterschiedlicher Komponenten und Systeme
- + Unterstütze Prozesse von Entwickler-Teammitgliedern in der Zusammenarbeit mit anderen Abteilungen
+**Senior Entwickler**, CodeForge GmbH (Januar 2020 bis Dezember 2022)
+- Führte Entwicklung von größeren Flutter-Projekten auf verschiedenen Plattformen durch
+- Koordinierte die Arbeit mit Kollegen und Kunden an bestimmten Projekten
+- Optimierung der Software-Lösungen durch die Implementierung neuer Technologien
 
-**Technische Fähigkeiten:**
+**Flutter-Entwickler**, DüsseldorfSoft (September 2018 bis Dezember 2020)
+- Entwicklung und Integration von Flutter-Projekten in verschiedene Entwicklungsprozesse
+- Ausbildung weiterer Kollegen zu den Technologien Dart, Flutter und SQLite
+- Durchführung von Code-Reviews und die Verwendung des Versionskontrollsystems Git
 
-* Flutter
-* Dart
-* Riverpod
-* SQLite
-* Kotlin
-* TypeScript/JavaScript (Basic)
-* Git (Professionell)
+**Junior Entwickler**, StartUp-X (April 2017 bis August 2018)
+- Durchführte Projekte in einer kleinen Projektgruppe 
+- Gestaltung der Struktur und Schnittstelle für verschiedene Systeme
+- Ständiger Austausch von Ideen mit den Kollegen zur Verbesserung der Lösungen 
+
+**Technische Fähigkeiten**
+- Dart (Professionell gelernt)
+- Flutter (Fortgeschrittene Erfahrung)
+- Riverpod (Erfahrener Entwickler)
+- SQLite (Gut verstandenes Datenbankmodell)
+
+- Android Studio
+- Visual Studio Code
+
+**Schulung und Weiterbildung**
+
+Diplom-Geodasie am Institut für Angewandte Geographie, Universität Wuppertal 
+
+---
+
+ (Über den Bildungsabschluss möge sich entscheiden, ob man auch mehr Informationen einfügen will)
+
+---
+
+Seien Sie gerne so freundlich und mir Ihren Feedback zu geben

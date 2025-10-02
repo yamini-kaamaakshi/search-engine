@@ -1,53 +1,45 @@
-[Votre Nom]
-[Adresse]
-[Téléphone] [Email]
+**CV du Développeur d'Excellence**
 
-Sommaire professionnel :
+**Résumé professionnel**
+Découvrez mon expertise dans l'implémentation de solutions innovantes en utilisant Kotlin et les dernières technologies Android. Avec une approche centrale sur la sécurité et la performance, j'ai développé des expériences réussies à travers plusieurs projets. Mon objectif est de continuer à grandir avec des équipes passionnées par l'innovation.
 
-Découvrez mon expertise en tant que développeur Android et ingénieur Kotlin, spécialisé dans l'architecture, la performance et les fonctionnalités avancées de l'expérience utilisateur. Je m'adapte facilement à de nouveaux challenges et je suis convaincu de pouvoir apporter une solution innovante aux problèmes techniques. Avec une expérience consolidée dans l'utilisation de Kotlin, Android Jetpack et Coroutines, je peux vous proposer des solutions personnalisées pour votre projet.
+**Expérience professionnelle**
 
-Expérience professionnelle :
+* **Ingénieur Kotlin**, États-Unis (2022 - Présent)
+ + Conception et mise en œuvre de solutions Android utilisation Kotlin
+ + Intégration de Coroutines pour améliorer la performance et la sécurité
+ + Développement de fonctionnalités avancées avec Firebase, garantissant une expérience utilisateur unique
+* **Développeur Android**, France (2018 - 2022)
+ + Création d'interfaces utilisateur intuitives avec Android Jetpack
+ + Découverte et implémentation de nouvelles technologies Android pour améliorer la performance et les fonctionnalités
+ + Collaboration avec une équipe de développeurs pour la mise en œuvre de projet stratégiques nationales
+* **Développeur Junior**, Allemagne (2015 - 2018)
+ + Acquisition des compétences fondamentales en programmation Java
+ + Développement de solutions basées sur les technologies Android, Android Things et React Native
+ + Connaissance approfondie du cycle de vie d'une application, depuis la conception jusqu'à la livraison
 
-Développeur Android
-L'Atelier de Développement
-Janvier 2020 - Septembre 2022
+**Compétences techniques**
 
-- Conception et mise en œuvre de interfaces utilisateur réactives et performances optimisées
-- Gestion des données en utilisant Firebase Realtime Database et Firestore
-- Développement de fonctionnalités avancées avec Kotlin Coroutines et Jetpack Compose
+* Kotlin
+* Android Jetpack (Architecture composante)
+* Coroutines
+* Firebase (Authentification, Storage, Cloud Functions)
+* React Native
+* Java
+* C++
+* HTML/CSS
+* MySQL/PostgreSQL
+* Git et versionnage de code
 
-Ingénieur Kotlin
-Société X
-Septembre 2018 - Décembre 2019
+**Formation**
 
-- Conception et optimisation de code Kotlin pour améliorer la performance et la sécurité
-- Développement de bibliothèques personnelles pour utiliser avec l'API Android
-- Collaboration avec les équipes de développement pour résoudre problèmes techniques
+* **Diplôme d'ingénieur**, École polytechnique, 2015 - 2018
 
-Développeur junior
-Société Y
-Mars 2017 - Août 2018
+**Projets personnels**
 
-- Conception et mise en œuvre de fonctionnalités simples pour des prototypes et des projets de cours
-- Apprentissage et application des nouvelles technologies et frameworks Android (Kotlin, Jetpack)
-- Gestion des changements et des mises à jour dans les applications existantes
-
-Compétences techniques :
-
-- Programmation : Kotlin, Java
-- Frameworks : Android Jetpack, Firebase
-- Concurrency : Coroutines
-- Technologies : Firebase, Room Persistence Library, Dagger pour la gestion de dépendances
-
-Éducation :
-
-- Bachelor en Informations Technologiques
-Université X
-Juin 2015 - Juin 2019
-
-Projets personnels :
-
-Réseau social privé en réseau Peer-to-Peer avec Kotlin et Android Jetpack
-Utilisation du Firebase pour gérer les données et la notification pour un projet de cours
-
-Brevet de titularise dans une technologie spécifique (facultatif)
+* **Développement d'une solution de reconnaissance vocale avec TensorFlow et Kotlin**, France (2020)
+ + Conception et réalisation d'un modèle de reconnaissance vocale personnalisé
+ + Intégration du modèle à une application Android pour un usage pratique
+* **Création d'une plateforme de gestion de projet en ligne avec React Native et Firebase**, Allemagne (2017)
+ + Développement d'une plateforme de gestion de projet complète sur React Native et Firebase
+ + Test et amélioration continue du produit

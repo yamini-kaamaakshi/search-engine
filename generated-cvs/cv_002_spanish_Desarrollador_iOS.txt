@@ -1,42 +1,39 @@
-**Juan Pérez García**
-**Contacto**
+**Name:** Carlos Alberto Pérez García
 
-* Teléfono: 93 456 7890
-* Correo electrónico: juanperezgarcia@email.com
-* Perfil en GitHub: github.com/juanperezgarcia
+**Professional Summary:**
+Experiencia y habilidades en desarrollo de software especializado en plataformas iOS, con fuerte enfoque en la implementación de sistemas con Swift, CoreData y Combine. He trabajado en proyectos que requieren una solución eficiente y escalable, utilizando las últimas tecnologías disponibles.
 
-**Resumen profesional**
+**Work Experience:**
 
-Experiencia ampliada en la creación de soluciones de software para plataformas iOS, con un fuerte enfoque en el desarrollo de software utilizando Swift. Destaco mi capacidad para diseñar y implementar arquitecturas de software escalables y seguras.
+* **Desarrollador iOS**, TechMango (Junio 2020 - actualidad)
+ + Desarrollo de software para iOS con Swift y CoreData, lo que me permite crear experiencias de usuario personalizadas y seguras.
+ + Implementación de arquitecturas de datos escalables utilizando el SDK de iOS y la biblioteca Combine.
+ + Colaboración estrecha con la equipo de diseño para garantizar una experiencia del usuario coherente y atractiva.
+* **Ingeniero Swift**, NovaTech (Septiembre 2018 - Junio 2020)
+ + Diseño y desarrollo de software de alta calidad utilizando Swift, CoreData y iOS SDK.
+ + Implementación de sistemas de gestión de datos y seguridad para aplicaciones corporativas.
+ + Participación en la formación y mentoría de nuevos empleados para asegurar una transición suave al equipo.
+* **Ayudante de Desarrollo**, SoftZone (Abril 2017 - Septiembre 2018)
+ + Asistencia técnica en el desarrollo de software de varias áreas, incluyendo iOS, Android y web.
+ + Creación y mantenimiento de sistemas de pruebas automatizadas utilizando herramientas como Appium.
 
-**Experiencia laboral**
+**Technical Skills:**
 
-* **Desarrollador iOS**, TechLab (2018 - 2022)
- + Desarrollé y personalizé varias soluciones para empresas locales, utilizando el SDK de iOS y tecnologías como CoreData y Combine.
- + Colaboré en equipo con otros desarrolladores para crear experiencias de usuario innovadoras y experiencia de usuario de alta calidad.
- + Realicé pruebas unitarias y de integración para asegurar la calidad y estabilidad de las soluciones entregadas.
-* **Ingeniero Swift**, Iniciativa Tecnológica (2017 - 2018)
- + Desarrollé una serie de herramientas y librerías para facilitar el desarrollo de software en Swift, colaborando con otros especialistas del equipo.
- + Participé en la evaluación y selección de tecnologías para implementaciones futuras, asegurándome de que las soluciones seleccionadas cumplieran con los requisitos de la empresa.
-* **Asistente de Desarrollo**, StartUp Dev (2015 - 2017)
- + Acompañé a un equipo de desarrolladores en el desarrollo de una aplicación de iOS utilizando Swift y el SDK, trabajando juntos para lograr objetivos compartidos.
- + Realicé pruebas unitarias y de integración para asegurar la calidad y estabilidad del código de los proyectos.
+* Desarrollo en Swift
+* Uso del SDK de iOS para implementar funcionalidades complejas
+* Implementación de arquitecturas de datos escalables con CoreData
+* Uso de la biblioteca Combine para manejar flujos de datos y eventos
+* Conocimiento de otros lenguajes como Python, Java y C++
+* Conocimiento de bases de datos relacionales (MySQL, PostgreSQL) y NoSQL (MongoDB)
 
-**Habilidades técnicas**
+**Education:**
 
-* **Swift**: Extiende, desarrollo y mantenimiento de aplicaciones móviles utilizando el lenguaje de programación.
-* **SDK iOS**: Desarrollo e implementación de interfaces de usuario y características específicas de la plataforma.
-* **CoreData**: Arquitectura de datos no relacional y gestión de bases de datos para iOS.
-* **Combine**: Programación asíncrona utilizando protocolos y operadores.
-* **Swift Package Manager**: Gerenciamento de dependencias y paquetes para Swift.
+* Licenciatura en Informática, Universidad Nacional Autónoma de México (2017-2021)
+ + Estudios generales en teoría de la computación, sistemas operativos y programación.
 
-**Educación**
+**Projects:**
 
-* Título de Ingeniero en Informática, Universidad Nacional (2015)
- + Estudios fundamentales en programación, algoritmos y bases de datos.
-
-**Proyectos relevantes**
-
-* Desarrollo de una aplicación de seguimiento de rutina diaria utilizando CoreData y Combine para mejorar la productividad.
- + Implementé un sistema de alarma que notificaba al usuario cuando se cumplían ciertos objetivos o metas fijadas.
-* Creación de herramientas automatizadoras de pruebas unitarias y de integración utilizando SwiftUnit y SwiftMockito.
+* **Ejemplo de Arquitectura de Datos con CoreData y Combine**: Desarrollo de un ejemplo básico de una arquitectura de datos escalable utilizando CoreData y Combine para manejar flujos de datos y eventos.
+ + Utilizó tecnologías como Swift, iOS SDK, CoreData y la biblioteca Combine para crear una solución eficiente.
+* **Desafío de Desarrollo de Software**: Implementación de un sistema de gestión de usuarios en un proyecto basado en un sistema web con Swift y CoreData.
+ + Requisitó la implementación de funcionalidades complejas como autenticación y autorización, utilizando el SDK de iOS.

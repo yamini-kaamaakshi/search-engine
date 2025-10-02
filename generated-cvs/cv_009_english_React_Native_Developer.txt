@@ -1,47 +1,36 @@
-John Doe
+**Amir Hasan**
+**Software Developer**
 
-Professional Summary:
+**Summary:**
+Highly skilled React Native developer with a strong background in JavaScript and cross-platform engineering. Proficient in building scalable, efficient, and visually appealing experiences using Expo and Redux. Proven ability to work effectively with teams to deliver high-quality products on time.
 
-Highly skilled cross-platform engineer with expertise in React Native, JavaScript, and Redux. Proven track record of delivering scalable and performant solutions for clients across various industries. Excels in leading teams to deliver high-quality products under tight deadlines.
+**Work Experience:**
 
-Work Experience:
+**React Native Developer, FastSpring (2020 - Present)**
+- Developed multiple features for a popular cross-platform e-commerce platform using React Native and JavaScript
+- Collaborated with design team to create visually appealing UI components and implemented Redux-based state management
+- Worked with backend team to integrate API endpoints and ensure seamless data exchange
 
-Senior Developer
-TechStar Inc.
-June 2020 - Present
+**Cross-Platform Engineer, WeMade (2018 - 2020)**
+- Designed and developed multiple features for a cross-platform social media platform using React Native and JavaScript
+- Implemented Expo-based architecture to enable fast and efficient development
+- Participated in code reviews and ensured adherence to coding standards and best practices
 
-- Led a team of developers to design and implement cross-platform features using React Native, ensuring seamless user experience across devices.
-- Collaborated with designers to create visually stunning UI components using Expo, resulting in improved customer engagement metrics.
-- Developed and maintained complex Redux-based state management systems, reducing application downtime by 30%.
+**Junior Software Developer, CodeCart (2016 - 2018)**
+- Contributed to the development of a web application using JavaScript, HTML/CSS, and React
+- Worked on bug fixing, code optimization, and refactoring existing codebases
+- Collaborated with senior developers to implement new features and improve overall system performance
 
-Developer
-Epic Games Studio
-January 2018 - June 2020
+**Technical Skills:**
 
-- Contributed to the development of a cross-platform platform using React Native, expanding its reach to new markets.
-- Implemented JavaScript-based automation scripts for tasks such as data processing and file uploads, increasing productivity by 40%.
-- Participated in code reviews, ensuring adherence to best practices and maintaining high-quality codebase.
+- Programming languages: JavaScript (ES6+), TypeScript
+- Frameworks: React Native, Expo
+- State management: Redux
+- Databases: MongoDB, Firebase
+- Agile methodologies: Scrum, Kanban
+- Version control: Git, SVN
+- Testing frameworks: Jest, Enzyme
 
-Junior Developer
-CodeForces Inc.
-May 2016 - December 2017
+**Education:**
 
-- Built and maintained multiple platforms using React Native, with a focus on performance optimization and user experience.
-- Assisted senior developers in implementing Redux-based state management systems for the company's flagship product.
-- Collaborated with the QA team to identify and reproduce defects, resulting in improved defect density by 25%.
-
-Technical Skills:
-
-- Programming Languages: JavaScript
-- Frameworks: React Native
-- State Management: Redux
-- Libraries: Expo
-- Databases: Firebase Realtime Database
-- Agile Methodologies: Scrum
-- Version Control Systems: Git
-
-Education:
-
-Bachelor of Science in Computer Science
-University of Technology
-May 2016 - May 2020
+- Bachelor of Science in Computer Science, Sharif University of Technology (2015)

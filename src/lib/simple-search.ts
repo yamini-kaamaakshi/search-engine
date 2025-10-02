@@ -13,11 +13,11 @@ interface SearchableDocument {
   chunkIndex?: number;
 }
 
-function getAllSearchableDocuments(): SearchableDocument[] {
+async function getAllSearchableDocuments(): Promise<SearchableDocument[]> {
   const documents: SearchableDocument[] = [];
 
   // Only use uploaded files (no pre-loaded Q&A data)
-  const uploadedFiles = getUploadedDocuments();
+  const uploadedFiles = await getUploadedDocuments();
   uploadedFiles.forEach(file => {
     const chunks = splitDocumentIntoChunks(file, 500);
     chunks.forEach(chunk => {
@@ -84,13 +84,13 @@ export async function searchDocuments(query: string, limit: number = 5) {
   } catch (error) {
     console.error('Error in vector search, falling back to text search:', error);
     // Fallback to simple text search
-    return simpleTextSearch(query, limit);
+    return await simpleTextSearch(query, limit);
   }
 }
 
 // Simple text-based search as fallback
-function simpleTextSearch(query: string, limit: number = 5) {
-  const allDocuments = getAllSearchableDocuments();
+async function simpleTextSearch(query: string, limit: number = 5) {
+  const allDocuments = await getAllSearchableDocuments();
 
   // If no documents are uploaded, return empty results
   if (allDocuments.length === 0) {

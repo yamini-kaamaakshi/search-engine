@@ -166,9 +166,44 @@ async function processPDF(filePath: string): Promise<string> {
 }
 
 async function processDOCX(filePath: string): Promise<string> {
-  const mammoth = await import('mammoth');
-  const result = await mammoth.extractRawText({ path: filePath });
-  return result.value;
+  try {
+    // Check if file exists and is readable
+    if (!fs.existsSync(filePath)) {
+      throw new Error('DOCX file not found');
+    }
+
+    const stats = fs.statSync(filePath);
+    if (stats.size === 0) {
+      throw new Error('DOCX file is empty');
+    }
+
+    console.log(`Processing DOCX: ${filePath}, size: ${stats.size} bytes`);
+
+    const mammoth = await import('mammoth');
+    const result = await mammoth.extractRawText({ path: filePath });
+
+    console.log(`DOCX processed successfully. Extracted ${result.value.length} characters`);
+
+    if (!result.value || result.value.trim().length === 0) {
+      throw new Error('No text content found in DOCX file');
+    }
+
+    return result.value.trim();
+  } catch (error) {
+    console.error('DOCX processing error details:', error);
+
+    if (error instanceof Error) {
+      if (error.message.includes('zip file')) {
+        throw new Error('Invalid DOCX format. Please ensure the file is a valid DOCX document.');
+      } else if (error.message.includes('No text content')) {
+        throw new Error('DOCX contains no extractable text.');
+      } else {
+        throw new Error(`DOCX processing failed: ${error.message}`);
+      }
+    } else {
+      throw new Error('Failed to extract text from DOCX. Unknown error occurred.');
+    }
+  }
 }
 
 async function processTXT(filePath: string): Promise<string> {

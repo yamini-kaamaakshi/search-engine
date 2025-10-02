@@ -1,49 +1,39 @@
-**Pedro Martín García**
+**Nombre completo:** Juan Pablo García Hernández
 
-**Resumen profesional**
-Experiencia de desarrollador Android con especialización en Kotlin y uso integral de la plataforma. Conocimientos profundos de Retrofit y Dagger para implementar soluciones escalables. Disposición a liderar equipos de desarrollo y participar en proyectos innovadores.
+**Resumen profesional:**
+Soy un desarrollador de software con experiencia en desarrollo de aplicaciones para Android utilizando Kotlin y otros frameworks relacionados. He trabajado en proyectos que requieren la integración de tecnologías como Retrofit y Dagger para mejorar la escalabilidad y seguridad de las soluciones. Me enfoco en la creación de soluciones eficientes y escalables para empresas y startups.
 
-**Experiencia laboral**
+**Experiencia laboral:**
 
-**Desarrollador Android, Ecosistema de Desarrollo de Software (EDS), 2020-actualidad**
+* **Desarrollador Android**, Etiqa Technologies (2018-2022)
+ + Desarrollé aplicaciones para Android utilizando Kotlin, específicamente focándome en la creación de interfases de usuario intuitivas y la integración con servicios web utilizando Retrofit.
+ + Implementé la arquitectura modular utilizando Dagger para mejorar la escalabilidad y mantenibilidad de las soluciones.
+* **Ingeniero de software**, NeoTech (2016-2018)
+ + Colaboré en el desarrollo de proyectos de código abierto utilizando Android SDK y Kotlin, específicamente enfocado en la creación de bibliotecas de terceros.
+ + Realizé pruebas unitarias y de integración utilizando JUnit y Espresso para garantizar la calidad del software.
+* **Internado**, Tech Innovations (2015)
+ + Realicé el desarrollo de una aplicación para Android utilizando Android SDK y Java, enfocado en la creación de una interfaz de usuario intuitiva y fácil de usar.
 
-* Desarrollo de software nativo para la plataforma Android, utilizando Kotlin y herramientas de integración como Retrofit
-* Implementación de arquitecturas modular con Dagger para mejorar la escalabilidad y el mantenimiento
-* Colaboración estrecha con equipos de diseño y producción para garantizar la coherencia y calidad del producto
+**Habilidades técnicas:**
 
-**Ingeniero en Desarrollo de Software, Universidad Nacional del Litoral (UNL), 2018-2020**
+* Lenguaje de programación Kotlin
+* Android SDK
+* Retrofit
+* Dagger
+* Spring Boot
+* JUnit
+* Espresso
 
-* Estudios académicos en Ingeniería en Desarrollo de Software con énfasis en programación orientada a objetos
-* Participación activa en proyectos académicos y colaboraciones con compañeros para desarrollar habilidades prácticas
+**Educación:**
 
-**Asistente de Desarrollo, Red Informática S.A., 2016-2018**
+* **Universidad Nacional Autónoma de México (UNAM)**, Licenciatura en Ciencias de la Computación (2015)
+ + Estudié en el departamento de Ingeniería de Software y me especialicé en la creación de aplicaciones para Android.
 
-* Asistencia técnica al equipo de desarrollo de software para resolver problemas técnicos y mejorar el rendimiento del sistema
-* Implementación de cambios y mejoras en el código fontal utilizando herramientas como IntelliJ IDEA
-* Participación activa en reuniones de planificación y seguimiento de proyectos para garantizar su éxito
+**Proyectos relevantes:**
 
-**Habilidades técnicas**
-
-* **Kotlin**: Lenguaje programático oficial de Android, conocimientos profundos de sus características y sintaxis.
-* **Android SDK**: Conocimientos integral de la plataforma Android, incluyendo las APIs básicas y avanzadas.
-* **Retrofit**: Utilización efectiva de la biblioteca para implementar integraciones con servidores remotos.
-* **Dagger**: Arquitectura de inyección de dependencias, experiencia con su uso en proyectos de software.
-* **Gradle**: Conocimientos básicos de la herramienta de gestión de paquetes y dependencias para Android.
-
-**Educación**
-
-* **Ingeniería en Desarrollo de Software**, Universidad Nacional del Litoral (UNL), 2018-2020
-* **Ciencias Exactas y Naturales**, Universidad Nacional del Litoral (UNL), 2014-2016
-
-**Proyectos relevantes**
-
-* **Desarrollo de una API de datos para una aplicación de seguimiento de hábitos**
- * Utilización de Retrofit para implementar una integración con un servidor remoto.
- * Implementación de un sistema de validación y autenticación utilizando Dagger.
-* **Implementación de una interfaz de usuario para una aplicación de gestión de tareas**
- * Desarrollo de la UI utilizando Android SDK y kotlin.
- * Integración con Retrofit para implementar una API externa.
-
-**Certificaciones**
-
-* Exámenes de certificación en Kotlin y Android desarrolladores.
+* **Desarrollo de una biblioteca de terceros para Android**, NeoTech (2017-2018)
+ + Creé una biblioteca de terceros para Android utilizando Kotlin que se enfoca en la creación de una interfaz de usuario intuitiva y fácil de usar.
+ + Integré la biblioteca con servicios web utilizando Retrofit y implementé la arquitectura modular utilizando Dagger.
+* **Desarrollo de una aplicación de gestión de proyectos**, Etiqa Technologies (2020-2022)
+ + Desarrollé una aplicación para Android que permite a los usuarios gestionar proyectos y asignar tareas de manera efectiva.
+ + Utilicé Kotlin y Retrofit para la integración con servicios web y Dagger para la implementación de la arquitectura modular.

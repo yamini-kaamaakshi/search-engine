@@ -1,44 +1,50 @@
-**Carlos Antonio Pérez Hernández**
-**Desarrollador Front-end Experto**
+Juan Pablo Pérez García
 
-**Resumen Profesional**
+Resumen profesional:
 
-Soy un desarrollador front-end con amplia experiencia en la creación de interfaces de usuario dinámicas y escalables utilizando React Native, TypeScript y otras tecnologías. Mi expertise se centra en el diseño y desarrollo de experiencias de usuario personalizadas para plataformas de código abierto. Estoy comprometido con la calidad y la innovación en todas mis proyectos.
+Soy un desarrollador experiente con más de 5 años de experiencia en la creación de experiencias de usuario inmersivas utilizando React Native y TypeScript. He trabajado en múltiples proyectos que han demostrado mi habilidad para crear aplicaciones escalables y seguras. Estoy familiarizado con Navigation y AsyncStorage, lo que me permite desarrollar interfaces de usuario intuitivas y almacenamiento eficiente.
 
-**Experiencia Laboral**
+Experiencia laboral:
 
-**Desarrollador Front-end, Efecto Digital (2018 - 2022)**
+Desarrollador React Native
+EcoCompany (2020 - 2022)
 
-* Desarrollé interfaces de usuario robustas y escalables para diversas plataformas utilizando React Native y TypeScript.
-* Implementé mecanismos de navegación avanzados utilizando Navigation y almacenamiento de datos utilizando AsyncStorage.
-* Colaboré con equipos de diseño y desarrollo para crear experiencias de usuario consistentes y atractivas.
+* Desarrollé múltiples experiencias de usuario utilizando React Native y TypeScript, optimizando la experiencia del usuario y asegurando una buena rendibilidad.
+* Implementé Navigation para facilitar la navegación y mejorar la usabilidad de las aplicaciones.
+* Utilicé AsyncStorage para almacenamiento eficiente de datos y reducir el tráfico de datos.
 
-**Desarrollador Junior, TechSoft (2016 - 2018)**
+Desarrollador Frontend
+TechLab (2018 - 2020)
 
-* Aprendí y aplicé conceptos básicos de React Native y TypeScript en proyectos de pequeña escala.
-* Desarrollé componentes reutilizables y personalizables para mejorar la eficiencia del código.
-* Trabajé estrechamente con otros desarrolladores para resolver problemas y mejorar la calidad del software.
+* Colaboré en múltiples proyectos front-end utilizando React Native, TypeScript y otros frameworks. 
+* Desarrollé interfaces de usuario personalizadas para mejorar la experiencia del usuario.
+* Optimicé el rendimiento de las aplicaciones realizando pruebas unitarias y funcionales.
 
-**Asistente de Desarrollo, Universidad Nacional (2015 - 2016)**
+Desarrollador Junior
+DevZone (2017 - 2018)
 
-* Estudié programación en lenguajes como JavaScript y Python.
-* Realicé proyectos personales utilizando tecnologías como HTML/CSS y React.
-* Colaboré con otros estudiantes en proyectos grupales para aplicar conceptos teóricos en la práctica.
+* Aprendí los fundamentos de React Native, TypeScript y otros frameworks utilizados en mi carrera.
+* Participé en múltiples proyectos de código abierto para practicar mis habilidades.
+* Colaboré con colegas junior para mejorar mi conocimiento del desarrollo front-end.
 
-**Habilidades Técnicas**
+Habilidades técnicas:
 
-* **React Native**: Desarrollo de interfaces de usuario dinámicas y escalables, navegación avanzada y almacenamiento de datos.
-* **TypeScript**: Programación orientada a objetos con tipo de datos estrechamente ligado a TypeScript.
-* **Navigation**: Implementación de mecanismos de navegación avanzados para plataformas de código abierto.
-* **AsyncStorage**: Almacenamiento de datos en localidad utilizando React Native.
-* **JavaScript**: Desarrollo de interfaces de usuario dinámicas y escalables, navegación avanzada y almacenamiento de datos.
-* **HTML/CSS**: Diseño y desarrollo de interfaces de usuario consistentes y atractivas.
+* React Native
+* TypeScript
+* Navigation
+* AsyncStorage
+* JavaScript
+* HTML/CSS
+* Git
 
-**Educación**
+Educación:
 
-* Licenciatura en Ingeniería de Software, Universidad Nacional (2015).
+* Escuela de Ingeniería de Software (2015 - 2017)
 
-**Proyectos Relevantes**
+Proyectos:
 
-* Desarrollé un proyecto personal utilizando React Native para una aplicación de gestión de tareas.
-* Colaboré con otros desarrolladores en un proyecto de código abierto utilizando React Native y TypeScript.
+* Desarrollo de una plataforma de pago en línea utilizando React Native y TypeScript.
+* Creación de un ecosistema de IoT utilizando React Native, Node.js y espiertos.
+ * Actualización del sitio web corporativo de EcoCompany utilizando React Native y TypeScript.
+
+Referencias disponibles a petición.

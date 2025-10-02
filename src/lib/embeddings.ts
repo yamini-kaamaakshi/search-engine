@@ -1,25 +1,13 @@
-// Simple embeddings using transformers.js for browser/node compatibility
-let pipeline: any = null;
+// Use Ollama embeddings for consistent 768D vectors
+import { generateOllamaEmbedding } from './ollama-embeddings';
 
 export async function generateEmbedding(text: string): Promise<number[]> {
   try {
-    // Dynamic import to avoid issues during SSR
-    const { pipeline: createPipeline } = await import('@xenova/transformers');
-
-    if (!pipeline) {
-      pipeline = await createPipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
-    }
-
-    const result = await pipeline(text, {
-      pooling: 'mean',
-      normalize: true,
-    });
-
-    // Convert to regular array
-    return Array.from(result.data);
+    // Use Ollama embeddings (nomic-embed-text, 768D)
+    return await generateOllamaEmbedding(text);
   } catch (error) {
     console.error('Error generating embedding:', error);
-    // Fallback: return a random vector of the correct dimension
-    return Array.from({ length: 384 }, () => Math.random());
+    // Fallback: return a random vector of the correct dimension (768D for Ollama)
+    return Array.from({ length: 768 }, () => Math.random());
   }
 }

@@ -1,47 +1,43 @@
-**Santiago Rodriguez**
-**Contact Information:**
-
-* Email: [srodriguez@email.com](mailto:srodriguez@email.com)
-* Phone: +1 555 123 4567
-* LinkedIn: linkedin.com/in/srodriguezdev
+**Rahul Vishwanathan**
 
 **Professional Summary:**
-
-Highly skilled Flutter developer with a strong expertise in creating scalable and responsive software solutions. Proficient in Dart, Provider, and Firebase, I deliver fast-paced projects that meet high-quality standards. With 5+ years of experience in the industry, I have developed a keen eye for detail and a passion for staying up-to-date on the latest technologies.
+Highly skilled Flutter developer with a strong expertise in building fast, reliable, and scalable solutions using Dart and Firebase. Proficient in designing and implementing user interfaces, leveraging Provider for state management, and utilizing Firebase for cloud backend services. Proven track record of delivering high-quality projects on time.
 
 **Work Experience:**
 
-* **Senior Flutter Developer**, NovaTech (2022 - Present)
- + Designed and implemented multiple features for a large-scale client project using Flutter, Dart, and Provider
- + Collaborated with cross-functional teams to identify and resolve technical issues, ensuring seamless deployment
- + Implemented real-time data synchronization using Firebase Realtime Database
-* **Dart Engineer**, Aplicarte (2020 - 2022)
- + Built multiple features for a cutting-edge startup project using Flutter, Dart, and Provider
- + Worked closely with the design team to integrate UI components into existing codebase
- + Demonstrated expertise in optimizing app performance for large user bases
-* **Junior Developer**, CodeSquad (2018 - 2020)
- + Contributed to multiple projects utilizing Flutter, Dart, and Firebase
- + Assisted senior developers in reviewing and testing code, ensuring high-quality delivery
- + Participated in code reviews, suggesting improvements and best practices
+* **Flutter Developer**, ZetaCorp (Jan 2020 - Present)
+ + Designed and developed multiple features using Flutter, including navigation and gesture-based interactions.
+ + Collaborated with cross-functional teams to define project requirements and develop solutions that met business needs.
+ + Ensured seamless integration of Firebase services for backend operations, enabling efficient data storage and retrieval.
+* **Dart Engineer**, NovaTech (Jun 2018 - Dec 2019)
+ + Built custom UI components using Flutter's Material Design library, resulting in improved user experience and engagement.
+ + Implemented data models and API integrations using Dart, expanding the project's scalability and performance.
+ + Participated in code reviews, contributing to a culture of high-quality software development.
+* **Freelance Developer** (Jan 2016 - Jun 2018)
+ + Developed multiple projects utilizing Flutter and Firebase, honing expertise in cloud-based backend services.
+ + Worked with clients across various industries, adapting to unique business requirements and delivering tailored solutions.
 
 **Technical Skills:**
 
-* Programming languages: Dart, JavaScript
-* Frameworks and libraries: Flutter, Provider, Firebase, Bloc, Redux
-* Databases: Firebase Realtime Database, Firebase Firestore
-* Operating Systems: Windows, macOS, Linux
-* Version control systems: Git
-* Agile methodologies: Scrum, Kanban
+* Programming languages: Dart
+* Development frameworks: Flutter
+* State management: Provider
+* Cloud backend services: Firebase
+* UI components and design: Flutter Material Design
+* Agile development methodologies: Scrum
 
 **Education:**
 
-* Bachelor of Science in Computer Science, Universidad Tecnológica de Santiago (2018)
+* **Bachelor of Science in Computer Science**, Illinois Institute of Technology (2015 - 2019)
 
 **Projects:**
 
-* **Real-Time Chatbot**: A Flutter-based chatbot that utilizes Firebase Realtime Database for real-time data synchronization.
- + Designed and implemented a conversational AI using NLP libraries
- + Implemented real-time messaging features using Firebase Cloud Messaging
-* **E-commerce Storefront**: A Flutter-based e-commerce storefront utilizing Provider for state management.
- + Integrated Google Maps and Location Services for geolocation functionality
- + Implemented product recommendation algorithm using ML libraries
+* **Weather Forecast App**: A Flutter-based weather forecasting app that utilizes the OpenWeatherMap API for data integration. Features a clean and intuitive design, utilizing Provider for state management.
+* **E-commerce Platform**: A Dart-built e-commerce platform leveraging Firebase services for cloud storage, authentication, and data processing. Implemented a custom UI using Flutter's Material Design library.
+
+**Certifications/Awards:**
+
+* (None)
+
+**References:**
+Available upon request.
