@@ -29,7 +29,7 @@ export async function initializeCollection() {
       // Create collection with vector configuration
       await qdrantClient.createCollection(COLLECTION_NAME, {
         vectors: {
-          size: 384, // Dimension for sentence-transformers/all-MiniLM-L6-v2
+          size: 384, // Dimension for nomic-embed-text (Ollama)
           distance: 'Cosine',
         },
       });
