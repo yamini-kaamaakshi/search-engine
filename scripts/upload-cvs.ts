@@ -10,15 +10,39 @@ async function uploadCVs() {
   // Initialize collection
   await initializeCollection();
 
-  const cvsDir = path.join(process.cwd(), 'generated-cvs');
+  // Check for both test-cvs and generated-cvs directories
+  const testCvsDir = path.join(process.cwd(), 'test-cvs');
+  const generatedCvsDir = path.join(process.cwd(), 'generated-cvs');
 
-  if (!fs.existsSync(cvsDir)) {
-    console.error('Error: generated-cvs directory not found!');
-    console.log('Please run "npm run generate-cvs" first.');
-    process.exit(1);
+  let cvsDir: string;
+  let cvFiles: string[] = [];
+
+  // Prefer test-cvs if it exists and has files
+  if (fs.existsSync(testCvsDir)) {
+    const testFiles = fs.readdirSync(testCvsDir).filter(file => file.endsWith('.txt'));
+    if (testFiles.length > 0) {
+      cvsDir = testCvsDir;
+      cvFiles = testFiles;
+      console.log(`Using test-cvs directory (${testFiles.length} files)\n`);
+    }
   }
 
-  const cvFiles = fs.readdirSync(cvsDir).filter(file => file.endsWith('.txt'));
+  // Fall back to generated-cvs
+  if (cvFiles.length === 0 && fs.existsSync(generatedCvsDir)) {
+    const generatedFiles = fs.readdirSync(generatedCvsDir).filter(file => file.endsWith('.txt'));
+    if (generatedFiles.length > 0) {
+      cvsDir = generatedCvsDir;
+      cvFiles = generatedFiles;
+      console.log(`Using generated-cvs directory (${generatedFiles.length} files)\n`);
+    }
+  }
+
+  // If neither directory has files, exit
+  if (cvFiles.length === 0) {
+    console.error('Error: No CV files found in test-cvs or generated-cvs directories!');
+    console.log('Please add CV files to test-cvs/ or run "npm run generate-cvs" first.');
+    process.exit(1);
+  }
 
   console.log(`Found ${cvFiles.length} CV files to upload.\n`);
 
