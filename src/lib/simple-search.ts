@@ -1,6 +1,7 @@
 import { getUploadedDocuments, splitDocumentIntoChunks } from './file-processor';
-import { generateEmbedding } from './embeddings';
-import { searchSimilarDocuments, type StoredDocument } from './vectorize';
+import { generateOllamaEmbedding } from './ollama-embeddings';
+import { searchSimilarDocuments } from './qdrant';
+import type { StoredDocument } from './qdrant';
 
 interface SearchableDocument {
   id: string;
@@ -53,20 +54,20 @@ function calculateSimilarity(query: string, text: string): number {
 export async function searchDocuments(query: string, limit: number = 5) {
   try {
     // First try to use vector search with Qdrant
-    const queryEmbedding = await generateEmbedding(query);
+    const queryEmbedding = await generateOllamaEmbedding(query);
     const searchResults = await searchSimilarDocuments(queryEmbedding, limit);
 
     // Convert Qdrant results to our expected format
     const results = searchResults.map(result => {
-      const payload = result.payload as unknown as StoredDocument;
+      const payload = result.payload as any;
 
       return {
-        id: payload.id,
-        title: payload.filename,
-        content: payload.content,
-        type: 'file' as const,
-        source: payload.filename,
-        filename: payload.filename,
+        id: String(result.id),
+        title: payload.filename || 'Untitled',
+        content: payload.content || '',
+        type: payload.type || 'file',
+        source: payload.filename || '',
+        filename: payload.filename || '',
         chunkIndex: payload.chunkIndex,
         score: result.score || 0,
       };

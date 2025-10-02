@@ -24,9 +24,8 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Additional validation: ensure all results are from uploaded files
+    // Additional validation: ensure all results have content
     const validDocs = relevantDocs.filter(doc =>
-      doc.type === 'file' &&
       doc.filename &&
       doc.content &&
       doc.content.trim().length > 0

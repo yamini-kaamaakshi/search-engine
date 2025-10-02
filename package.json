@@ -6,7 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-cvs": "tsx scripts/generate-cvs.ts",
+    "upload-cvs": "tsx scripts/upload-cvs.ts",
+    "test-quick": "tsx scripts/test-generate.ts && tsx scripts/test-upload.ts",
+    "reset-db": "curl -X DELETE http://localhost:6333/collections/documents_collection"
   },
   "dependencies": {
     "@qdrant/js-client-rest": "^1.15.1",
@@ -34,6 +38,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
     "tailwindcss": "^4",
+    "tsx": "^4.20.6",
     "typescript": "^5"
   }
 }
