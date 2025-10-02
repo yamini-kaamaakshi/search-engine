@@ -1,0 +1,42 @@
+**Resumen**
+
+Tengo más de 5 años de experiencia en el desarrollo de soluciones web dinámicas utilizando Python y tecnologías como Django y Redis. Mi enfoque se centra en mejorar la escalabilidad y la seguridad de los sistemas backend. Estoy siempre buscando nuevas formas de mejorar mi habilidad para diseñar y implementar arquitecturas robustas.
+
+**Experiencia laboral**
+
+**Desarrollador Backend - Sociedad de Comunicaciones Telefónica (2018-2020)**
+
+* Desarrollé varios componentes backend en Django que integraron la base de datos de MySQL con Redis para mejorar el rendimiento y la escalabilidad.
+* Implementé métodos de procesamiento de datos en serie utilizando Apache Beam, lo que mejoró significativamente la velocidad de los datos.
+* Collaboré en la creación de una API REST que proporcionó acceso a los datos a través de un cliente web.
+
+**Desarrollador Backend - Grupo Financiero Santander (2020-2022)**
+
+* Diseñé y desarrollé varios sistemas backend utilizando Python y Django, lo que me permitió trabajar con múltiples bases de datos y sistemas.
+* Optimizé la seguridad de los sistemas implementando métodos de autenticación y autorización usando OAuth y JWT.
+* Trabajé en la creación de un sistema de notificaciones en tiempo real utilizando Redis para mejorar la experiencia del usuario.
+
+**Desarrollador Backend - Consultoría Tecnológica (2022-Presente)**
+
+* Asistí a varias empresas en el desarrollo de soluciones web personalizadas utilizando tecnologías como Django y Python.
+* Implementé métodos de monitoreo y análisis de rendimiento para mejorar la eficiencia de los sistemas.
+* Desarrollé varios componentes backend que mejoraron la escalabilidad y la seguridad de las plataformas.
+
+**Habilidades técnicas**
+
+* Lenguajes de programación: Python
+* Frameworks web: Django
+* Bases de datos: MySQL, Redis
+* Tecnologías adyacentes:
+ + Apache Kafka (desarrollo y configuración)
+ + Elasticsearch (desarrollo y configuración)
+ + Docker (administración y depuración)
+
+**Educación**
+
+* Licenciatura en Ciencias Computacionales, Universidad Complutense de Madrid (2015-2019)
+
+**Proyectos relevantes**
+
+* Desarrollo de un sistema de recomendaciones para productos utilizando Django y MySQL.
+* Implementación de un sistema de notificaciones en tiempo real utilizando Redis y Python.

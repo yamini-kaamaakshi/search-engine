@@ -1,0 +1,43 @@
+Name: Lars Friedrich Schmidt
+
+Berufserfahrung:
+
+Senior Backend Entwickler, ContiBank (2019 --heute)
+
+* Führe die Entwicklung von Datenbanken und Microservices im Unternehmen fort
+* Verantwortlich für das Implementieren von gRPC-Schnittstellen zwischen verschiedenen Systemen
+* Leite Teams bei der Umsetzung neuer Technologien und Standards in Bezug auf Sicherheit und Skalierbarkeit
+
+Backend Entwickler, Codex (2017-2019)
+
+* Arbeite an der Weiterentwicklung der Datenbankabfragesprache, einschließlich Optimierung von Queries
+* Beteilige mich bei der Implementierung eines PostgreSQL-Weltraums für eine Cloud-provider-Funktion
+* Stehe für die Umsetzung neuer Features im Zusammenhang mit Mikroservices vor
+
+Junior Backend Entwickler, eComzone (2015-2017)
+
+* Führe Code-Rückgaben durch und unterstütze den Entwicklungsprozess
+* Arbeite an der Implementierung von Datenbank-Schnittstellen für eine neue Einkaufsanwendung
+* Beteilige mich an der Optimierung von Skalierbarkeit und Leistung
+
+Bildung:
+
+* Hochschulabschluss in Informatik, Universität Berlin (2015)
+
+Fachkenntnisse:
+
+* Programmiersprachen: Go, C, Java
+* Datenbankmanagement: PostgreSQL, MongoDB
+* Netzwerktechnologie: TCP/IP, HTTP/1.1
+* Mikroservices-Architektur
+* gRPC-Schnittstellen
+
+Projekte:
+
+* Implementierung einer Go-Bibliothek für eine neue Datenbank-Query-Sprache
+ + Entwickelte ein 1000-basiertes Framework um die Komplexität von Abfragen zu reduzieren
+ + Stelle sicher, dass die Library für verschiedene Databases kompatibel ist
+
+* Einrichtung eines PostgreSQL-Weltraums für eine Cloud-provider-Funktion
+ + Beteilige mich bei der Auswahl und Konfiguration des optimalen Postgres-Clusters
+ + Implementierung von automatischer Backups und Replication

@@ -1,0 +1,43 @@
+Sehr geehrte Damen und Herren,
+
+Ich freue mich, Ihnen meinen Lebenslauf vorzustellen.
+
+**Profielle Zusammenfassung**
+
+Als erfahrenender Frontend-Entwickler mit starker Leidenschaft für moderne Webentwicklung habe ich eine breite Palette an Technologien erworben, um komplexe Benutzeroberflächen zu erstellen. Mit Reaktor (React) und den damit verbundenen Tools wie Redux, Webpack und Jest bin ich in der Lage, effiziente und skalierbare Lösungen für Kunden zu entwickeln.
+
+**Berufliche Erfahrungen**
+
+Frontend-Entwickler bei BitStadium GmbH (2020 - 2022)
+- Erstellung von modernen Webanwendungen mit React und Redux
+- Implementierung von state management Lösungen mit Redux
+- Optimierung von Webperformance mit Webpack
+
+Freiberufler (2018 - 2020)
+- Entwicklung von Single-Page-Anwendungen mit Reaktor
+- Erstellung komplexer Benutzeroberflächen für Kunden in der IT-Branche
+- Implementierung von unit tests und Integrationstests mit Jest
+
+Webentwickler bei Codex GmbH (2015 - 2018)
+- Entwicklung von Webanwendungen mit HTML5, CSS3 und JavaScript
+- Erstellung von interaktiven Benutzeroberflächen für Kunden in der Werbung
+- Implementierung von responsive Designs mit modernen Browser
+
+**Technische Fähigkeiten**
+
+- Reaktor (React) und Zustandsmanagement mit Redux
+- Webpack und Optimierung von Webperformance
+- Jest und unit testing
+- HTML5, CSS3, JavaScript
+- Moderner Browser wie Chrome, Firefox und Safari
+
+**Bildung**
+
+Diplom in Informatik an der Universität Mainz (2015)
+
+**Projekte**
+
+- "Ehrliche Bewertungen" - Eine Webanwendung zum Sammeln und Teilen von Produktbewertungen. Diese Anwendung wird mit React und Redux entwickelt.
+- "Portfolio-Website" - Eine persönliche Webpräsenz für mich als Frontend-Entwickler, die ich mit Reaktor erstellt habe.
+
+Ich freue mich darauf, meine Fähigkeiten mit Ihnen zu teilen und gemeinsam innovative Lösungen für künftige Projekte zu entwickeln.

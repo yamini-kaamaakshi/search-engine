@@ -1,0 +1,42 @@
+Max Mustermann
+Kurtstrasse 12, 12345 Berlin, Deutschland
++49 123 456 7890 | max.mustermann@email.com
+
+Professionelles Zusammenfassung:
+Mit über 5 Jahren Erfahrung in der Entwicklung von iOS-Produkten mit Fokus auf Perfektion und Leistung bin ich ein erfahrener Swift-Entwickler. Ich habe mich auf die Erstellung von anspruchsvollen Grafik- und Animationseffekten, sowie der Implementierung von AR-Features spezialisiert. Meine Erfahrung mit UIKit und CoreAnimation ermöglicht es mir, komplexe UI-Baukästen zu gestalten und effizient zu debuggen.
+
+Arbeitsleistung:
+
+iOS-Entwickler
+Byte-Sized GmbH (2018 - 2022)
+- Entwickelte neue Features für ein iOS-Produkt, indem ich Swift und UIKit verwendet habe, um eine stabile und benutzerfreundliche Oberfläche zu erstellen
+- Implementierte komplexe Grafik- und Animationseffekte, die mit CoreAnimation kombiniert wurden
+- Kooperierte eng mit dem Design-Team, um die UI-Zustandssicherheit und -leistung zu verbessern
+
+iOS-Entwickler
+SparkLab (2022 - Heute)
+- Entwickelte ein neues Produkt mit Swift und UIKit für den Markt der virtuellen Realität (VR), indem ich ARKit integrierte
+- Gestaltete die Grafik und Animationseffekte, die eine beeindruckende Erfahrung für Benutzer bieten
+- Analysierte Verwaltungsbearbeitungsauswertungen von Code zur Sicherstellung einer hohe Leistung
+
+Projektentwickler
+Freiberuflich (2018 - Heute)
+- Entwickelte ein iOS-Produkt, das auf die Bedürfnisse von Fitness-Enthusiasten zugeschnitten war, indem ich Swift und UIKit verwendet habe, um eine einzigartige Benutzeroberfläche zu gestalten
+- Implementierte eine eigene Datenbank, um die Benutzerdaten sicher aufzubewahren
+
+Technische Fähigkeiten:
+- Programmiersprachen: Swift, Objective-C
+- GUI-Bibliotheken: UIKit, Core UI
+- Grafik- und Animationstools: CoreAnimation, Metal
+- virtuelle Realität (VR): ARKit
+- Softwareentwicklungsframeworks: Xcode
+
+Bildung:
+
+Hochschule für Technologie Berlin (2015 - 2019)
+- Studium des Fachbereichs "Informatik"
+- Abschluss Master der Informatik
+
+Belege:
+- Ein Beispiel-Projekt mit ARKit und Swift
+- Überregionaler Wettbewerb, den ich 2020 mit einem VR-Produkt gewonnen habe

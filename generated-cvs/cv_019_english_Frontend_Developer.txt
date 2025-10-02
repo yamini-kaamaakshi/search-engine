@@ -1,0 +1,56 @@
+**Alexei Petrov**
+**Frontend Developer**
+
+**Professional Summary:**
+
+Highly skilled Frontend Developer with over 5 years of experience in building fast, scalable, and responsive web applications using React, TypeScript, and Next.js. Proven track record of delivering high-quality solutions on time and collaborating effectively with cross-functional teams. Proficient in Tailwind CSS for styling and UI design.
+
+**Work Experience:**
+
+**Senior Frontend Developer, XYZ Corporation (2020 - 2022)**
+
+* Led the development of multiple React-based web applications using TypeScript and Next.js
+* Collaborated with designers to implement responsive designs and efficient layout solutions
+* Improved code quality and efficiency by implementing best practices and coding standards
+* Trained junior developers on modern frontend technologies
+
+**Frontend Developer, ABC Startups (2018 - 2020)**
+
+* Developed multiple web applications using React, TypeScript, and Next.js for e-commerce platforms
+* Implemented features such as dynamic loading, lazy loading, and infinite scrolling
+* Worked closely with QA engineers to ensure cross-functional collaboration
+* Created custom components and reusable code blocks to improve development efficiency
+
+**Junior Frontend Developer, DEF Agency (2016 - 2018)**
+
+* Contributed to the development of multiple web applications using React and JavaScript
+* Learned HTML5, CSS3, and CSS preprocessors such as Sass
+* Assisted in creating high-quality documentation for open-source projects
+
+**Technical Skills:**
+
+* Programming languages: JavaScript, TypeScript
+* Frameworks: React, Next.js
+* Libraries and tools: Tailwind CSS, Webpack, Babel
+* Databases: MongoDB, PostgreSQL
+* Agile methodologies: Scrum, Kanban
+* Operating Systems: Windows, macOS, Linux
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, Moscow State University (2015 - 2019)
+
+**Projects:**
+
+1. **E-commerce Platform:** Developed a React-based e-commerce platform using Next.js and MongoDB for storing customer data.
+2. **Social Media Platform:** Built a social media platform using React, TypeScript, and Tailwind CSS for styling and UI design.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified JavaScript Developer (CJD)
+
+**Languages:**
+
+* English (native speaker)
+* Russian (fluent)

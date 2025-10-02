@@ -1,0 +1,39 @@
+**Juan Carlos López Hernández**
+
+**Resumen profesional**
+
+Soy un desarrollador con experiencia en creación de soluciones para plataformas iOS utilizando tecnologías Swift, CoreData y Combine. Mi expertise se centra en el diseño y desarrollo de experiencias de usuario efectivas y escalables.
+
+**Experiencia laboral**
+
+* Desarrollador iOS, Consultoría TechInnova (2018-2022)
+ + Diseñé e implementé soluciones para varios proyectos utilizando Swift y la biblioteca CoreData
+ + Integré servicios web con APIs utilizando Combine y protocolos de comunicación
+ + Realizó pruebas unitarias y de integración para garantizar calidad y rendimiento
+* Ingeniero Swift, Empresarial DevZone (2015-2018)
+ + Desarrolló aplicaciones para iOS utilizando Swift y la biblioteca UIKit
+ + Optimizó el rendimiento de aplicaciones existentes mediante ajustes en la estructura de datos y la ejecución
+ + Colaboró con equipos de diseño e ingeniería para mejorar la experiencia del usuario
+* Asistente técnico, Universidad Nacional de Ingeniería (2012-2015)
+ + Ayudó a desarrollar soluciones informáticas para proyectos de investigación y enseñanza
+
+**Habilidades técnicas**
+
+* Swift 4.7+
+* iOS SDK
+* CoreData
+* Combine
+* Xcode
+* Git
+* Familiaridad con:
+ + Protocolos de comunicación (RxSwift, Apollo)
+ + Bibliotecas de terceros ( AlamoFire, Alamofire)
+
+**Educación**
+
+* Licenciatura en Ingeniería Informática, Universidad Nacional de Ingeniería (2012-2015)
+
+**Proyectos relevantes**
+
+* **Proyecto de gestión de recursos**: Desarrollé una solución para la gestión de activos y recursos utilizando CoreData y Swift. La aplicación permite a los usuarios registrar, actualizar y eliminar registros de manera eficiente.
+ + Git repositoy: [github.com/juanlopezdev/ gestion-de-recursos]

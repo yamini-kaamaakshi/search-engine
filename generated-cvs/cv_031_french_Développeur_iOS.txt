@@ -1,0 +1,56 @@
+## CV de [Name]
+
+### Sommaire Professionnel
+
+En tant qu'ingénieur polyvalent, j'ai développé des compétences solides en développement d'expérience utilisateur sur les plates-formes iOS et Xcode. Mon expertise en Swift et SwiftUI me permet de créer des interfaces utilisateur intuitives et performantes. Je suis également connu pour ma capacité à travailler efficacement dans des équipes pour développer des solutions robustes.
+
+### Expérience Professionnelle
+
+#### Développeur iOS
+L'Agence de Développement d'Expérience Utilisateur,
+2018 - 2022
+
+- Conception et développement de interfaces utilisateur pour les applications iOS à l'aide de Swift et SwiftUI.
+- Tests et déploitations en TestFlight pour garantir la qualité des expériences utilisateurs.
+- Collaboration avec les équipes de direction pour comprendre les besoins clients et développer des solutions innovantes.
+
+#### Ingénieur
+La Compagnie de Développement d'Innovation,
+2015 - 2018
+
+- Conception et développement de composants réutilisables en Swift et Xcode.
+- Intégration des dernières fonctionnalités de Xcode, notamment l'intégration des API et les modèles de conception.
+- Participation à la formation des internes sur le développement d'expérience utilisateur et la gestion de projet.
+
+#### Développeur Junior
+La Start-up de Développement de Solutions,
+2012 - 2015
+
+- Assistanat au développement d'expériences utilisateurs pour les applications iOS.
+- Conception et implémentation de tests unitaires et integration pour garantir la qualité des expériences utilisateurs.
+- Apprentissage et maturité professionnelle sous la direction d'un équipe de développeurs expérimentés.
+
+### Compétences techniques
+
+* Programmation : Swift, Objective-C
+* Frameworks : SwiftUI, UIKit
+* Logiciels : Xcode (version 12.10, version 13.3)
+* Environnements de déploiement : TestFlight
+* Langages de programmation : C++, Java
+
+### Formation
+
+* Diplôme en Sciences Informatiques,
+Université de Paris-Saclay,
+2012 - 2015
+
+### Projet Personal
+
+#### Développement d'expérience utilisateur
+
+* Création d'une application édulcorante pour les élèves scolaires utilisant la technologie du tableau tactile, avec une interface utilisateur intuitive en SwiftUI.
+* Utilisation de Swift et TestFlight pour tester et déployer l'application.
+
+#### Développement d'un chatbot
+
+* Création d'un chatbot qui utilise un model de réseaux de neurones avec la technologie de natural language processing (NLP) pour fournir des recommandations personnalisées aux utilisateurs, en utilisant Swift et Xcode.

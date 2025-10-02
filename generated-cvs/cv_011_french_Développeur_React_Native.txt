@@ -1,0 +1,32 @@
+**Sébastien Dumont**
+
+**Professional Summary**
+Développeur expérimenté en développement d'expériences numériques pour les plateformes multi-plateformes, spécialisé dans React Native et les outils d'organisation Redux Toolkit.
+
+Avec plus de 7 ans d'expérience dans le développement de solutions numériques, j'ai suivi une évolution vers la création de contenu interactif pour divers publics. Je m'interesse à l'amélioration continue des compétences en React Native et dans les outils d'organisation. 
+
+Ma capacité de travail sous pression me permet de gérer des flux de travail complexes et de maintenir une qualité élevée tout au long de chaque projet.
+
+**Expérience Professionnelle**
+
+* **Développeur Senior**, Xylophones (2020 - Present)
+ + Réalisé l'intégration complète d'une fonctionnalité basée sur React Native dans un produit expérimental
+ + Collaboration avec le team pour résoudre des problèmes techniques complexes
+ + Déploiement réussi de plusieurs versions sur différents plateformes
+* **Développeur**, Xylophones (2018 - 2020)
+ + Création d'une nouvelle fonctionnalité basée sur React Native et Redux Toolkit pour améliorer la performance utilisateur
+ + Intégration avec des modules natifs pour permettre à l'expérience d'accéder aux services cloud
+ + Développement de tests unitaires et intégrés pour garantir une qualité élevée
+* **Développeur Junior**, Xylophones (2016 - 2018)
+ + Apprentissage des bases du développement Web avec React Native et Redux Toolkit
+ + Création d'interactions numériques simples et collaborée sur plusieurs projets
+ + Assistance technique aux collègues
+
+**Compétences Techniques**
+
+- **React Native**
+- **Redux Toolkit**
+- **Native Modules (JavaScript, Objective-C, C++)**
+- HTML/CSS
+- JavaScript
+- TypeScript

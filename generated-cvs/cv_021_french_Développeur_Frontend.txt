@@ -1,0 +1,39 @@
+Jean-Pierre Dupont
+
+**Résumé professionnel**
+
+Développeur frontend expérimenté avec une expertise approfondie en Angular, TypeScript et technologies d'interface utilisateur de haute qualité telle que Material UI. Ma passion pour la création efficace et les meilleures pratiques front-end a me permis de développer des solutions innovantes pour les entreprises. Je suis à la recherche d'un défi nouveau qui m'autorise à poursuivre mon évolution professionnelle.
+
+**Expérience professionnelle**
+
+* Développeur Frontend, Société TechInnov (2020-Présent)
+ + Conception et développement de composants UI personnalisés en Angular
+ + Implémentation efficace d'animations et de transitions de transition à l'aide de RxJS
+ + Amélioration continue des performances de l'interface utilisateur grâce aux meilleures pratiques d'optimisation
+* Frontend Developer, StartUpWeb (2018-2020)
+ + Partage de responsabilités dans le développement d'un système de gestion de contenu en Angular
+ + Création de prototypes rapides et efficaces pour les besoins des clients
+ + Intégration avec une base de données NoSQL pour la stockage et l'extraction des données
+* Développeur Frontend, Entreprise Tech (2015-2018)
+ + Conception et développement d'une interface utilisateur personnalisée en Angular pour un client particulier
+ + Travail dans un équipe front-end pour développer une plateforme de gestion de tâches collaborative
+ + Contribution à la mise en place d'un processus de déploiement automatique pour les déploiements liés aux technologies
+
+**Compétences techniques**
+
+* Angular : Version 14 et plus
+* TypeScript : Connaissance approfondie
+* RxJS : Maîtres de l'utilisation des abstraits observables et observables pour la gestion des flux de données dans un programme d'application front-end.
+* Material UI : Expérience pratique dans la mise en œuvre de composants personnalisés et standardisés pour une interface utilisateur esthétique
+* HTML/CSS : Expertise profonde dans les séries et structures standards utilisées pour le développement web
+* JavaScript : Connaissance des fonctionnalités modernes et des meilleures pratiques (ECMAScript, Promises et Async/Await)
+* TypeScript et React : Amélioration continue de ma compréhension des concepts de composants fonctionnels et de manipulation des données dans les applications React
+
+**Éducation**
+
+* Diplôme en Informatique, École Supérieure d'Informatique (2015)
+
+**Projet(s)**
+
+* Développement d'une plateforme Web à utilisation pour la gestion d'événements (réalisation de 7 composants avec des fonctionnalités de personnalisation et standardisées via Material UI)
+* Amélioration du rendu de l'interface utilisateur d'un site web existant en modifiant la disposition des éléments et en rédigeant une nouvelle interface d'utilisateur

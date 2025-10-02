@@ -1,0 +1,40 @@
+**Résumé d'un Ingénieur DevOps**
+
+**Nom complet :**
+Frédéric Dupont
+
+**Résumé professionnel :**
+Ingénieur expérimenté en DevOps, spécialisé dans l'implémentation de solutions scalable et sécurisées pour les systèmes de mise en production d'entreprise. Ma compétence en gestion des pipelines de déploiement, en automatisation des tâches et en optimisation des performances cloud. Utilise couramment les technologies Microsoft Azure, Kubernetes et Jenkins.
+
+**Expérience professionnelle :**
+
+* **Ingénieur DevOps chez IBM France** (2020 - 2023)
+ + Réalisé la mise en production de systèmes de gestion de contenus sur Azure, optimisant la performance et la fiabilité
+ + Développé et mis en œuvre une infrastructure Kubernetes pour les applications cloud native
+ + Collaboré avec l'équipe de qualité pour l'implémentation de processus de détection et de réparation des erreurs dans les pipelines Jenkins
+* **DevOps Engineer chez Orange S.A.** (2018 - 2020)
+ + Assuré la mise en production de systèmes de gestion de données sur Azure, tout en garantissant la sécurité et la scalabilité
+ + Travailé avec l'équipe de déploiement pour l'implémentation d'une solution Ansible pour automatiser les tâches de maintenance des serveurs
+ + Participé à la mise en place d'un système de monitoring pour les applications cloud, grâce à l'utilisation de Prometheus et Grafana
+* **Développeur chez Capgemini** (2015 - 2018)
+ + Collaboré avec l'équipe de développement pour l'implémentation d'une solution de gestion des processus métier sur une plateforme web
+ + Développé et testé des applications Web utilisant le framework Node.js et la bibliothèque Express
+
+**Compétences techniques :**
+
+* Azure : gestion des ressources, déploiement, gestion des accès, sécurité et surveillance
+* Kubernetes : gestion de conteneurs, déploiement, résolution des problèmes
+* Jenkins : automatisation des tests, construction et déploiement des projets
+* Ansible : automatisation des tâches de maintenance, configuration des serveurs
+* Python : développement de scripts pour la mise en production et les opérations d'IT
+* PowerShell : utilisation courante pour la gestion des réseaux et des systèmes
+* SQL Server : gestion des bases de données, requêtes et optimisation des performances
+
+**Formation :**
+
+* **DUT Informatique et Techniques d'Entreprise**, Université Paris-Sud (2014-2018)
+
+**Projets :**
+
+* **Déploiement automatisé d'applications cloud-native sur Azure** : réalisation d'une solution pour automatiser la mise en production des applications cloud-native sur Azure, en utilisant Jenkins et Ansible
+* **Système de monitoring pour les applications cloud** : conception et mise en place d'un système de monitoring pour les applications cloud, en utilisant Prometheus et Grafana

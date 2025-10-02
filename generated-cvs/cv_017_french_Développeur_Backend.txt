@@ -1,0 +1,45 @@
+Nom : Léon Richard
+
+Professional Summary :
+Développeur expérimenté avec une solide expertise en Java, Spring Boot et technologies Open Source, ayant développé des solutions efficaces pour les grandes entreprises. Aventure dans l'écriture de code réactif et optimisé à l'aide du framework Spring Boot. Connaissance approfondie de MongoDB et expérimentation avec Kubernetes.
+
+Work Experience :
+
+Ingénieur Développeur
+BullitSoft SAS (2018 - 2022)
+
+- Responsabilités : Maintien des systèmes informatiques en continu pour une grande base client, connaissance approfondie de la gestion de bases de données MongoDB. Intégration d’une bibliothèque Java côté client.
+- Contribution à un projet impliquant l’élaboration d’un système de gestion de livres, en utilisant Spring Boot.
+
+Développeur Junior
+TechSolutions (2015 - 2018)
+
+- Responsabilités : Conception et développement d'un système web en utilisant Java et Spring. Gestion des tâches et suivis de la qualité du code.
+- Participation à l'équipe pour la mise en place d'une solution d'automatisation de workflow à l'aide d'un script dédié.
+
+Développeur Étudiant
+Futurium Academy (2012 - 2015)
+
+- Responsabilités : Conception et développement de plusieurs logiciels personnels en utilisant Java. Gestion des projets avec gestion de versions Git.
+- Organisation de conférences sur la programmation objet dans les établissements scolaires.
+
+Education :
+
+Diplôme Supérieur en Informatique de l'Université des Métiers (UdM), 2015
+
+Technical Skills :
+
+* Langages de programmation : Java
+* Frameworks et bibliothèques : Spring Boot, MongoDB
+* Gestion de version : Git
+* Plateformes Open Source : Kubernetes
+* Compétence en développement concurrente : Eclipse, IntelliJ IDEA
+
+Projects :
+
+- Projet d'un outil de gestion de projet basé sur Spring Boot. L'outil est conçu pour faciliter la prise en charge des tâches et les rappels du personnel.
+  - Rôle : Développeur
+  - Durée : Juin 2019 - Février 2022
+- Conception d'une application web utilisant MongoDB. L'application permet aux utilisateurs de créer et de partager leurs propres collections de données.
+
+Certifications : Certificat en Programmation Java (Coursera)

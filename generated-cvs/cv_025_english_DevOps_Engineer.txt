@@ -1,0 +1,49 @@
+**Name:** Rakesh Kumar Sharma
+
+**Professional Summary:**
+
+Highly motivated and experienced DevOps/Cloud Engineer with a strong expertise in leveraging AWS infrastructure to deliver scalable, secure, and efficient solutions. Skilled in implementing automation using Terraform, containerization with Docker, and CI/CD pipelines. Proficient in designing and deploying reliable cloud-based systems.
+
+**Work Experience:**
+
+**Senior DevOps Engineer, CloudCraft Technologies (2020 - Present)**
+
+* Designed, implemented, and managed large-scale AWS-based systems for multiple clients across various industries.
+* Collaborated with cross-functional teams to develop and maintain CI/CD pipelines using Terraform and Docker.
+* Ensured seamless automation of application deployment, scaling, and monitoring using AWS services such as Auto Scaling, CloudWatch, and CodePipeline.
+* Implemented robust security measures by configuring IAM policies, VPCs, and Network ACLs.
+
+**Cloud Engineer, NovaSpire Solutions (2018 - 2020)**
+
+* Designed, implemented, and deployed scalable cloud-based solutions on AWS for enterprise clients using Terraform.
+* Managed containerized applications using Docker Swarm and Kubernetes to ensure efficient resource utilization.
+* Developed and maintained CI/CD pipelines using Jenkins and GitLab CI/CD to automate testing, building, and deployment of software packages.
+* Collaborated with DevOps teams to identify process improvements and implement changes that increased efficiency.
+
+**Junior Cloud Engineer, Zephyr Systems (2016 - 2018)**
+
+* Assisted in designing and deploying cloud-based systems on AWS using Terraform.
+* Worked with cross-functional teams to automate deployment scripts for containerized applications using Docker.
+* Participated in the development of CI/CD pipelines using Jenkins and GitLab CI/CD to streamline software delivery processes.
+
+**Technical Skills:**
+
+- AWS (EC2, S3, RDS, Lambda, IAM)
+- Terraform
+- Docker
+- CI/CD Tools:
+  - Jenkins
+  - GitLab CI/CD
+  - CircleCI
+- Containerization and Orchestration:
+  - Kubernetes
+  - Docker Swarm
+
+**Education:**
+
+- Bachelor of Technology in Computer Science and Engineering, Guru Nanak Dev University (2015)
+
+**Projects:**
+
+1. **Automated Deployment and Monitoring System using Terraform, Docker, and AWS Services**: Developed a fully automated deployment system for a web-based application using Terraform to provision the infrastructure, Docker to containerize the codebase, and AWS services to manage scalability and monitoring.
+2. **CI/CD Pipeline Automation Using Jenkins and GitLab CI/CD**: Built and integrated a comprehensive CI/CD pipeline utilizing Jenkins as the central orchestrator, coupled with GitLab CI/CD for automated testing, building, and deployment of software packages.

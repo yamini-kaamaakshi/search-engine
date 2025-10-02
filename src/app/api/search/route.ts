@@ -14,8 +14,8 @@ export async function POST(request: NextRequest) {
 
     console.log('Searching for:', query);
 
-    // Search for relevant documents
-    const relevantDocs = await searchDocuments(query, 3);
+    // Search for relevant documents (increased to 10 for better results)
+    const relevantDocs = await searchDocuments(query, 10);
 
     if (relevantDocs.length === 0) {
       return NextResponse.json({

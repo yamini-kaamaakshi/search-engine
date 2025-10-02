@@ -1,0 +1,49 @@
+**Pedro Martín García**
+
+**Resumen profesional**
+Experiencia de desarrollador Android con especialización en Kotlin y uso integral de la plataforma. Conocimientos profundos de Retrofit y Dagger para implementar soluciones escalables. Disposición a liderar equipos de desarrollo y participar en proyectos innovadores.
+
+**Experiencia laboral**
+
+**Desarrollador Android, Ecosistema de Desarrollo de Software (EDS), 2020-actualidad**
+
+* Desarrollo de software nativo para la plataforma Android, utilizando Kotlin y herramientas de integración como Retrofit
+* Implementación de arquitecturas modular con Dagger para mejorar la escalabilidad y el mantenimiento
+* Colaboración estrecha con equipos de diseño y producción para garantizar la coherencia y calidad del producto
+
+**Ingeniero en Desarrollo de Software, Universidad Nacional del Litoral (UNL), 2018-2020**
+
+* Estudios académicos en Ingeniería en Desarrollo de Software con énfasis en programación orientada a objetos
+* Participación activa en proyectos académicos y colaboraciones con compañeros para desarrollar habilidades prácticas
+
+**Asistente de Desarrollo, Red Informática S.A., 2016-2018**
+
+* Asistencia técnica al equipo de desarrollo de software para resolver problemas técnicos y mejorar el rendimiento del sistema
+* Implementación de cambios y mejoras en el código fontal utilizando herramientas como IntelliJ IDEA
+* Participación activa en reuniones de planificación y seguimiento de proyectos para garantizar su éxito
+
+**Habilidades técnicas**
+
+* **Kotlin**: Lenguaje programático oficial de Android, conocimientos profundos de sus características y sintaxis.
+* **Android SDK**: Conocimientos integral de la plataforma Android, incluyendo las APIs básicas y avanzadas.
+* **Retrofit**: Utilización efectiva de la biblioteca para implementar integraciones con servidores remotos.
+* **Dagger**: Arquitectura de inyección de dependencias, experiencia con su uso en proyectos de software.
+* **Gradle**: Conocimientos básicos de la herramienta de gestión de paquetes y dependencias para Android.
+
+**Educación**
+
+* **Ingeniería en Desarrollo de Software**, Universidad Nacional del Litoral (UNL), 2018-2020
+* **Ciencias Exactas y Naturales**, Universidad Nacional del Litoral (UNL), 2014-2016
+
+**Proyectos relevantes**
+
+* **Desarrollo de una API de datos para una aplicación de seguimiento de hábitos**
+ * Utilización de Retrofit para implementar una integración con un servidor remoto.
+ * Implementación de un sistema de validación y autenticación utilizando Dagger.
+* **Implementación de una interfaz de usuario para una aplicación de gestión de tareas**
+ * Desarrollo de la UI utilizando Android SDK y kotlin.
+ * Integración con Retrofit para implementar una API externa.
+
+**Certificaciones**
+
+* Exámenes de certificación en Kotlin y Android desarrolladores.

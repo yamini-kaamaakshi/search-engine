@@ -1,0 +1,45 @@
+**Alexandre Marchal**
+
+**Professionnel de la rédaction d'expériences et du développement logiciel**
+
+**Profil professionnel**
+Dédicué au développement d'interfaces utilisateur sophistiquées et des expériences utilisateur uniques, j'ai acquis une solide connaissance de l'écriture de code en langage Swift. Ma maîtrise de Xcode et TestFlight me permet de fournir des solutions innovantes pour les équipes de conception. 
+
+**Expérience professionnelle**
+
+Développeur iOS
+Société: Tech Innovations (2018 - 2022)
+
+* Collaboré à la mise en œuvre d'interfaces utilisateur innovantes avec SwiftUI
+* Développé et testé des expériences utilisateur personnalisées pour les clients de TestFlight
+* Travail étroit avec l'équipe de conception pour assurer une cohérence visuelle 
+Développeur iOS
+Société: StartUp Solutions (2022 - 2023)
+
+* Gestion du développement d'interfaces utilisateur et des expériences utilisateur
+* Conception et mise en œuvre de solutions personnalisées pour les clients
+* Suivi régulier des derniers développements de Xcode et TestFlight 
+Ingénieur Swift
+Société: Digital Innovation (2018)
+
+* Développement d'interfaces utilisateur et expériences utilisateur avec le langage Swift
+* Tests de l'interface utilisateur sur différents éditeurs, et tests de l'app
+* Création de rapports détaillés des progrès de développement pour la direction
+
+**Compétences techniques**
+
+* Langages de programmation : Swift 
+* Frameworks: SwiftUI, Xcode
+* Plateformes: TestFlight
+* Compétence en écrivure de code et en résolution de problèmes 
+
+**Formation**
+
+Bac+3 en informatique - École Polytechnique (2017)
+
+**Projet de développement d'expériences utilisateur** 
+Décembre 2020
+
+* Développement, avec TestFlight, de la version finale d'une expérience utilisateur
+* Expérimentation de test et amélioration du produit selon les retours des utilisateurs
+* Documentation détaillée de chaque étape du processus

@@ -1,0 +1,53 @@
+Felix Müller
+
+**Professioneller Überblick**
+
+Als erfahrener Android-Entwickler mit umfangreichen Erfahrungen in der Verwendung von Kotlin und den neuesten Technologien im Bereich Android, habe ich eine starke Leidenschaft für die Entwicklung komplexer, benutzerfreundlicher Software. Mit einem starken Fokus auf Codekwalität, Zusammenarbeit und Kundenorientierung, bin ich in der Lage, innovative Lösungen zu entwickeln, die den Bedürfnissen meiner Kunden gerecht werden.
+
+**Arbeitserfahrung**
+
+**Senior Android-Entwickler**
+Google LLC (2020 - 2022)
+
+* Fuhr ein Team von Entwicklern bei der Entwicklung neuer Android-Lösungen
+* Verantwortung für die Implementierung komplexer Funktionen mithilfe von Kotlin und MVVM-Architektur
+* Zusammenarbeit mit dem Design-Team für die Realisierung von Materialdesign-Einrichtungen
+
+**Android-Entwickler**
+Xing AG (2018 - 2020)
+
+* Entwickelte neue Funktionen für den Xing-Web-Browser mithilfe von Kotlin und Android Studio
+* Implementierung von MVVM-Architektur für die Steuerung der Benutzeroberfläche
+
+**Junior Android-Entwickler**
+Mayer Consult (2016 - 2018)
+
+* Assiste bei der Entwicklung neuer Android-Lösungen, umfassend die Implementierung einfacher bis komplexer Funktionen
+* Durchführte Code-Reviews und unterstützte das Team bei der Verbesserung der Qualität des Codes
+
+**Technische Fähigkeiten**
+
+* Programmiersprachen:
+ + Kotlin
+ + Java
+* Entwicklungsumgebungen:
+ + Android Studio
+ + IntelliJ IDEA
+* Designtechnologien:
+ + Materialdesign
+ + Jetpack
+* Architekturmodelle:
+ + MVVM (Model-View-ViewModel)
+* Datenbanken:
+ + Room Persistence Library
+
+**Bildung**
+
+* Bachelor of Science in Informatik, Universität Hamburg (2016)
+
+**Projekte**
+
+* **Android-Native-Bibliothek für 3D-Modellierungssoftware**
+ Entwickelte eine Java-basierte Bibliothek, die es ermöglicht Benutzern, native Android-Funktionen in ihrer eigenen Software zu integrieren.
+* **Benutzerfreundliche Android-Umgebungen mit Kotlin und MVVM**
+ Entwickle eine Basisumgebung für Android-Entwickler, die durch Kotlin und MVVM strukturiert ist und sicherstellt, dass Benutzern benutzerfreundliche Interface-Oberflächen erstellt werden können.

@@ -1,0 +1,44 @@
+**Nombre: Lucas Adrián Ramírez García**
+
+**Resumen Profesionional:**
+Desarrollador Frontend con experiencia en desarrollo de interfaces de usuario dinámicas y eficientes utilizando tecnologías de vanguardia como Vue.js y Nuxt. Tiene dominio completo del lenguaje de programación JavaScript y sus framework relacionados, además de conocimientos avanzados en SCSS para el diseño y personalización de templates.
+
+**Experiencia Laboral:**
+
+* **Desarrollador Frontend**, XSoft Solutions (2018 - 2022)
+ + Desarrollé interfaces de usuario complejas y responsivas para proyectos de e-commerce y gestión de contenido.
+ + Implementé soluciones de performance utilizando técnicas de optimization de carga y renderización en Vue.js y Nuxt.
+ + Colaboré con el equipo de diseño para personalizar templates y styles SCSS, mejorando la experiencia del usuario.
+* **Colaborador**, CodeLab (2016 - 2018)
+ + Ayudé a desarrollar proyectos de innovación tecnológica utilizando JavaScript y frameworks relacionados.
+ + Implementé plugins y módulos personalizados en proyectos de Nuxt para mejorar su rendimiento y funcionalidad.
+ + Participé en sesiones de code review y contribuí a la mejora del códigobase.
+* **Estudiante**, Universidad Nacional (2014 - 2016)
+ + Estudié programación fundamental y desarrollo web en profundidad, con un énfasis en JavaScript y sus frameworks.
+
+**Habilidades Técnicas:**
+
+* Vue.js
+* JavaScript ( ES6+, async/await)
+* Nuxt
+* SCSS (Sass, Less, PostCSS)
+* HTML5 (semántico)
+* CSS3 (flexbox, grid)
+* Sass
+* Less
+* PostCSS
+* Webpack
+* Babel
+
+**Educación:**
+
+* **Universidad Nacional**, Ingeniería en Desarrollo de Software (2016)
+
+**Proyectos Personales:**
+
+* **E-commerce con Vue.js y Nuxt**: Un proyecto de comercio electrónico personalizado utilizando Vue.js como framework y Nuxt para el backend.
+ + Desarrollé una interfaz de usuario dinámica y responsiva, incluyendo módulos de búsqueda y carrito de compras.
+ + Implementé soluciones de performance avanzadas utilizando técnicas de cache y optimización de carga en Vue.js.
+* **Blog con SCSS y Sass**: Un blog personalizado construido desde cero utilizando CSS preprocessores como SCSS y Sass.
+ + Diseñé y implementé una plantilla de template personalizable, incluyendo módulos de sidebar y footbar.
+ + Realicé pruebas exhaustivas para asegurarme de que la aplicación estuviera funcionando correctamente.

@@ -1,0 +1,42 @@
+**Juan Carlos Gómez Pérez**
+
+**Resumen profesional:**
+Soy un desarrollador de software con experiencia en la creación de experiencias usuario, utilizando tecnologías como Flutter y Dart. Tengo dominio sobre BLoC y GetX para el desarrollo de sistemas escalables y eficientes. Busco colaboraciones que me permitan seguir creciendo como desarrollador.
+
+**Experiencia laboral:**
+
+* **Desarrollador Senior**, TechZone S.A. (2022 - 2023)
+ + Desarrollé varias experiencias en Flutter, asegurando una estabilidad y rendimiento óptimo.
+ + Implementé arquitecturas BLoC para mejorar la escalabilidad de los sistemas.
+ + Colaboré con el equipo de diseño para crear interfaces intuitivas.
+* **Desarrollador**, StartUp Inc. (2019 - 2022)
+ + Desarrollé varias experiencias en Flutter, enfocándome en la creación de interfaces y usuarios.
+ + Utilicé Dart para la gestión de datos y lógica de negocio.
+ + Integré GetX para automatizar la gestión de estado en mis proyectos.
+* **Internado**, DevTeam (2018)
+ + Desarrollé un proyecto personal utilizando Flutter y Dart.
+ + Aprendí sobre las buenas prácticas de diseño y desarrollo de software.
+
+**Habilidades técnicas:**
+
+* Flutter
+* Dart
+* BLoC
+* GetX
+* State management con Provider, etc.
+* Experiencia con SQLite y otros sistemas de gestión de bases de datos
+* Conocimientos básicos de GraphQL
+
+**Educación:**
+
+* **Título universitario**, Universidad Nacional (2018)
+ + Estudié Ciencias de la Computación y Tecnología de la Información.
+
+**Proyectos destacados:**
+
+* **Mesa de comidas**: Una aplicación para pedir comida, hecha con Flutter y Dart.
+ + Utilicé GetX para automatizar la gestión del estado en el proyecto.
+ + Implementé una API para obtener los datos de restaurante y pedido.
+* **Cronómetro**: Un proyecto de código abierto hecho con Flutter y Dart que cuenta tiempo hasta un objetivo personal.
+ + Utilicé BLoC para gestionar el estado del temporizador.
+ + Aprendí sobre las diferentes formas de implementar un temporizador en una aplicación.

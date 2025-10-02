@@ -157,19 +157,21 @@ export async function generateAnswer(query: string, relevantDocs: any[]) {
     return `Source: ${doc.filename || doc.source}\nContent: ${doc.content}`;
   }).join('\n\n');
 
-  const prompt = `You are a search assistant that can only answer questions based on the provided document context. You must strictly adhere to the following rules:
+  const prompt = `You are a search assistant helping to find relevant CVs/resumes. Based on the provided CVs below, create a helpful summary of the candidates found.
 
-1. ONLY use information from the provided context below
-2. If the information is not available in the context, respond with "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question."
-3. Do NOT use any external knowledge or information not present in the context
-4. Always cite the source filename when providing information
-
-Context from uploaded documents:
+Context - Relevant CVs:
 ${context}
 
-User Question: ${query}
+User Query: ${query}
 
-Answer based ONLY on the above context:`;
+Instructions:
+1. Summarize the key qualifications and experience from each CV
+2. Mention the candidate names and their roles
+3. Highlight relevant skills and technologies
+4. Keep the response concise and professional
+5. Always cite the source filename
+
+Provide a summary of the candidates found:`;
 
   return await callOllama(prompt);
 }

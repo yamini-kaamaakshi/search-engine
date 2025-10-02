@@ -1,0 +1,44 @@
+**Ahmed Hassan Ali**
+
+**Professional Summary:**
+Highly skilled Full Stack Developer with expertise in crafting scalable, efficient, and user-centric experiences using React Native, Node.js, MongoDB, and AWS. Proven track record of delivering high-quality solutions on time, with a passion for staying up-to-date with emerging technologies.
+
+**Work Experience:**
+
+* **Senior Full Stack Developer**, Tech Solutions Inc. (2020-Present)
+ + Led the development of multiple feature-rich projects using React Native, Node.js, and MongoDB
+ + Collaborated with cross-functional teams to identify business needs and deliver tailored solutions
+ + Ensured seamless deployment of applications on AWS, utilizing cloud-based services for scalability and reliability
+* **Full Stack Developer**, GreenTech Solutions (2018-2020)
+ + Contributed to the development of multiple React Native-based projects, ensuring compatibility across various platforms
+ + Worked closely with MongoDB administrators to design and implement efficient data storage solutions
+ + Participated in code reviews and ensured adherence to coding standards and best practices
+* **Junior Full Stack Developer**, Startup Ventures (2016-2018)
+ + Assisted in the development of Node.js-based projects, utilizing Express.js for routing and middleware
+ + Gained experience with MongoDB data modeling and query optimization techniques
+ + Participated in code reviews and provided constructive feedback to colleagues
+
+**Technical Skills:**
+
+* Programming languages: JavaScript (React Native), Node.js, TypeScript
+* Frameworks: React Native, Next.js, Express.js
+* Databases: MongoDB, PostgreSQL
+* Cloud Services: AWS (EC2, S3, Lambda), Google Cloud Platform (Cloud Functions)
+* Agile methodologies: Scrum, Kanban
+* Version control systems: Git, SVN
+
+**Education:**
+
+* Bachelor of Science in Computer Science, Cairo University (2015-2019)
+
+**Projects:**
+
+* **E-commerce Platform**: A React Native-based e-commerce platform utilizing MongoDB for data storage and AWS for cloud deployment. Implemented a payment gateway using Stripe and ensured seamless checkout experiences.
+* **Real-time Chat Application**: A Node.js-based real-time chat application using WebSockets and MongoDB for data storage. Utilized Express.js for routing and middleware, with a focus on scalability and performance.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified JavaScript Developer (CJD)
+
+Note: The dates and company names are fictional and used only for demonstration purposes.

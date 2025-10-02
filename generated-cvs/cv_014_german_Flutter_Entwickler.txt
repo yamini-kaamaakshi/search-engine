@@ -1,0 +1,30 @@
+Sebastian Meyer
+
+**Berufliche Zusammenfassung:**
+
+Als erfahrener Entwickler mit Schwerpunkt auf Flutter und Dart baue ich innovative digitale Lösungen für mein Team und meine Kunden. Mit umfangreichen Erfahrungen in der Verwendung von Riverpod und SQLite fühle ich mich als Experte für state-of-the-art-Entwicklungen sicher. Ich bin stets bemüht, die bestmöglichen Ergebnisse zu erzielen, indem ich auf den Anforderungen meiner Kunden eingeleitet werden.
+
+**Berufserfahrung:**
+
+* Flutter Entwickler bei Bitrise GmbH (2021 - 2023)
+ + Entwickelt und gepflegt ich komplexe Flutter-Anwendungen mit starkem Schwerpunkt auf Riverpod-Integration
+ + Arbeiten als Teil einer starken Teammitgliedschaft an Projekten, die ständig wachsende Anforderungen unter Berücksichtigung von technischen und kreativen Aspekten erfüllen
+ + Beteilige mich regelmäßig an Code-Reviews und weiterentwickle meine Fähigkeiten durch kontinuierliche Weiterbildung
+* Freelance-Entwickler (2020 - 2021)
+ + Erfolgreich für verschiedene Kunden bei der Erstellung hochwertiger Flutter-Lösungen gelitten
+ + Führe Verhandlungen mit neuen Kunden, um Möglichkeiten für neue Projekte zu erkunden und meine Kompetenzen unter Beweis zu stellen
+ + Betreibe ein eigenständiges Projektmanagement über die Anwendung von Kanban-Verfahren
+* Interner Entwickler bei Siemens AG (2018 - 2020)
+ + Verantwortlich für die Erstellung eines großen, komplexen Flutter-Projekts im Bereich der Produktentwicklung
+ + Beteilige mich an der Integration unterschiedlicher Komponenten und Systeme
+ + Unterstütze Prozesse von Entwickler-Teammitgliedern in der Zusammenarbeit mit anderen Abteilungen
+
+**Technische Fähigkeiten:**
+
+* Flutter
+* Dart
+* Riverpod
+* SQLite
+* Kotlin
+* TypeScript/JavaScript (Basic)
+* Git (Professionell)

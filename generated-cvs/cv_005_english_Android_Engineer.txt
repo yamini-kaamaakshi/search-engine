@@ -1,0 +1,41 @@
+**Abdullahi Idris**
+
+**Professional Summary:**
+Highly skilled Android Engineer with a strong background in Kotlin development, utilizing cutting-edge technologies such as Jetpack Compose and Room to deliver high-performance, data-driven solutions.
+
+**Work Experience:**
+
+**Senior Android Developer, TechForge (2020-Present)**
+
+- Led the development of multiple high-profile projects using Kotlin and Android Studio, resulting in significant improvements in productivity and user experience.
+- Collaborated with cross-functional teams to integrate third-party APIs, enhancing overall system reliability and performance.
+- Implemented robust data management solutions utilizing Room Persistence Library.
+
+**Android Engineer, NovaTech (2018-2020)**
+
+- Contributed to the development of several Android-based projects using Kotlin and Android Studio, focusing on UI/UX enhancements and optimization.
+- Worked closely with designers to implement design systems, ensuring seamless integration between UI components and backend services.
+- Participated in code reviews and ensured adherence to best practices and coding standards.
+
+**Junior Android Developer, FusionCorp (2016-2018)**
+
+- Developed and tested various Android-based projects using Kotlin and Android Studio, honing skills in software development and debugging techniques.
+- Assisted senior engineers with tasks such as architecture design, code optimization, and performance analysis.
+
+**Technical Skills:**
+
+- Programming languages: Kotlin
+- Development environments: Android Studio
+- UI/UX frameworks: Jetpack Compose
+- Data storage: Room Persistence Library
+- Agile methodologies: Scrum
+- Version control systems: Git
+
+**Education:**
+
+- Bachelor of Science in Computer Science, University of Westminster (2015)
+
+**Projects:**
+
+- **Smart Home Automation System**: Developed a comprehensive home automation system utilizing Kotlin and Android Studio, incorporating features like voice-controlled lighting and temperature management.
+- **Real-time Data Analytics Platform**: Designed and implemented a real-time data analytics platform using Jetpack Compose, Room Persistence Library, and Apache Kafka.

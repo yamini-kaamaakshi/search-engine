@@ -1,0 +1,41 @@
+**Nombre Completo:** Juan Pedro Gómez Hernández
+
+**Resumen Profesional:**
+Experiencia amplia en el desarrollo de experiencias usuario con Swift y los elementos del SDK iOS. Con una sólida comprensión de CoreData y Combine, he logrado implementar soluciones escalables y seguras para proyectos de alto rendimiento.
+
+**Experiencia Laboral**
+
+**Desarrollador iOS**, ByteTech (2018 - 2022)
+
+- Diseñé e implementé interfaces de usuario intuitivas utilizando Swift y los elementos del SDK iOS.
+- Integración de CoreData para almacenamiento y gestión de datos a gran escala.
+- Colaboración estrecha con el equipo de calidad para asegurar la experiencia del usuario final.
+
+**Ingeniero Swift**, Efectiva Solutions (2015 - 2018)
+
+- Desarrollé varias características críticas para una plataforma de comercio electrónico utilizando Swift y los elementos del SDK iOS.
+- Implementé protocolos de respuesta a eventos utilizando Combine para mejorar la escalabilidad de la aplicación.
+- Contribución importante al desarrollo de la arquitectura de la empresa mediante el diseño eficiente de sistemas.
+
+**Estudiante de Ingeniería en Ciencias de la Computación**, Universidad Nacional de Ingenierías (2010 - 2015)
+
+ **Habilidades Técnicas**
+
+- Lenguaje de programación: Swift
+- Elementos del SDK iOS: Core Data, Combine, UIKit
+- Experiencia con gestión de errores y seguridad en aplicaciones iOS
+
+**Educación**
+
+- Grado en Ciencias de la Computación, Universidad Nacional de Ingenierías (2015)
+- Cursos de especialización en Desarrollo de Experiencias de Usuario, Universidad Nacional de Ingenierías (2018)
+
+ **Proyectos Personales**
+
+- **Sistema de gestión de inventario** desarrollado utilizando Swift y CoreData. El sistema permite el seguimiento y la gestión de artículos en tiempo real.
+  - Diseño e implementación de una base de datos centrada en la aplicación para almacenamiento de datos.
+  - Creación de interfaces para inicio, búsqueda, registro y modificación de inventario.
+
+- **Sistema de notificaciones push** integrado mediante Swift y Combine. El sistema utiliza tokens de dispositivo para personalizar los mensajes según las preferencias del usuario.
+  - Configuración y gestión de subscription de tokens.
+  - Implementación de un servidor para envío de notificaciones push de manera remota.

@@ -1,0 +1,44 @@
+**Carlos Antonio Pérez Hernández**
+**Desarrollador Front-end Experto**
+
+**Resumen Profesional**
+
+Soy un desarrollador front-end con amplia experiencia en la creación de interfaces de usuario dinámicas y escalables utilizando React Native, TypeScript y otras tecnologías. Mi expertise se centra en el diseño y desarrollo de experiencias de usuario personalizadas para plataformas de código abierto. Estoy comprometido con la calidad y la innovación en todas mis proyectos.
+
+**Experiencia Laboral**
+
+**Desarrollador Front-end, Efecto Digital (2018 - 2022)**
+
+* Desarrollé interfaces de usuario robustas y escalables para diversas plataformas utilizando React Native y TypeScript.
+* Implementé mecanismos de navegación avanzados utilizando Navigation y almacenamiento de datos utilizando AsyncStorage.
+* Colaboré con equipos de diseño y desarrollo para crear experiencias de usuario consistentes y atractivas.
+
+**Desarrollador Junior, TechSoft (2016 - 2018)**
+
+* Aprendí y aplicé conceptos básicos de React Native y TypeScript en proyectos de pequeña escala.
+* Desarrollé componentes reutilizables y personalizables para mejorar la eficiencia del código.
+* Trabajé estrechamente con otros desarrolladores para resolver problemas y mejorar la calidad del software.
+
+**Asistente de Desarrollo, Universidad Nacional (2015 - 2016)**
+
+* Estudié programación en lenguajes como JavaScript y Python.
+* Realicé proyectos personales utilizando tecnologías como HTML/CSS y React.
+* Colaboré con otros estudiantes en proyectos grupales para aplicar conceptos teóricos en la práctica.
+
+**Habilidades Técnicas**
+
+* **React Native**: Desarrollo de interfaces de usuario dinámicas y escalables, navegación avanzada y almacenamiento de datos.
+* **TypeScript**: Programación orientada a objetos con tipo de datos estrechamente ligado a TypeScript.
+* **Navigation**: Implementación de mecanismos de navegación avanzados para plataformas de código abierto.
+* **AsyncStorage**: Almacenamiento de datos en localidad utilizando React Native.
+* **JavaScript**: Desarrollo de interfaces de usuario dinámicas y escalables, navegación avanzada y almacenamiento de datos.
+* **HTML/CSS**: Diseño y desarrollo de interfaces de usuario consistentes y atractivas.
+
+**Educación**
+
+* Licenciatura en Ingeniería de Software, Universidad Nacional (2015).
+
+**Proyectos Relevantes**
+
+* Desarrollé un proyecto personal utilizando React Native para una aplicación de gestión de tareas.
+* Colaboré con otros desarrolladores en un proyecto de código abierto utilizando React Native y TypeScript.

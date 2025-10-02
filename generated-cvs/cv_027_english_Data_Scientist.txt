@@ -1,0 +1,44 @@
+**Sofia Patel**
+**Data Scientist & Machine Learning Engineer**
+
+**Summary:**
+Highly skilled Data Scientist and ML Engineer with expertise in developing predictive models and data-driven solutions using Python, TensorFlow, Pandas, and Jupyter. Proven track record of delivering insights that drive business growth. Passionate about staying up-to-date with the latest technologies and methodologies.
+
+**Work Experience:**
+
+**Senior Data Scientist, NeuroSpark (2022 - Present)**
+
+* Led a team of data scientists in developing predictive models for a leading healthcare company using Python, TensorFlow, and Pandas
+* Implemented data pipelines using Apache Beam and Jupyter notebooks to process large datasets
+* Collaborated with cross-functional teams to develop data-driven solutions that drove business growth
+
+**Data Scientist, Insight Data (2019 - 2022)**
+
+* Developed and deployed machine learning models using TensorFlow and Scikit-learn for a leading finance company
+* Built data visualizations using Pandas, Matplotlib, and Seaborn to communicate insights to stakeholders
+* Worked closely with product managers to integrate data-driven solutions into product roadmap
+
+**Junior Data Analyst, DataSphere (2018 - 2019)**
+
+* Assisted in the development of predictive models using Python and R for a leading e-commerce company
+* Created data visualizations using D3.js and Matplotlib to communicate insights to stakeholders
+* Contributed to the development of data pipelines using Apache Spark and Jupyter notebooks
+
+**Technical Skills:**
+
+* Programming languages: Python, R
+* Machine learning frameworks: TensorFlow, Scikit-learn
+* Data manipulation libraries: Pandas, NumPy
+* Data visualization tools: Matplotlib, Seaborn, D3.js
+* Web development frameworks: Flask
+* Database management systems: MySQL, PostgreSQL
+
+**Education:**
+
+* **Master of Science in Data Science**, University of California, Berkeley (2017 - 2019)
+* **Bachelor of Engineering in Computer Science**, Indian Institute of Technology, Mumbai (2013 - 2017)
+
+**Projects:**
+
+* **Predictive Maintenance for Industrial Equipment**: Developed a predictive model using TensorFlow and Python to predict equipment failure times. The model was deployed on a cloud-based platform using Apache Airflow.
+* **Data-Driven Insights for Customer Churn Prediction**: Built a machine learning model using Pandas, Matplotlib, and Scikit-learn to predict customer churn. The insights were visualized using D3.js and communicated to stakeholders through a web-based dashboard.
