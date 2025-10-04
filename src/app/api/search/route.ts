@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { searchDocuments, generateAnswer } from '../../../lib/simple-search';
+import { searchDocuments, generateAnswer } from '../../../lib/cohere-search';
 
 export async function POST(request: NextRequest) {
   try {
@@ -38,7 +38,7 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Generate an answer using Ollama
+    // Generate an answer summary
     const answer = await generateAnswer(query, validDocs);
 
     // Sort by score and return top results

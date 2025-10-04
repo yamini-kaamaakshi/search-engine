@@ -1,50 +1,37 @@
-**Sébastien Dupont**
+## CURRICULUM VITAE
 
-**Professionnel de l'innovation numérique**
+### Simon Gauthier
 
-Décerné pour sa maîtrise du développement d'expériences d'utilisateur unique et engageantes à travers des plateformes hybrides. Expérimenté dans la création de solutions scalables et de performances optimales. Passionné par l'amélioration constante de la qualité et de la rapidité des processus de développement.
+#### Développeur React Native Expérimenté
 
-**Expérience professionnelle**
+Développeur React Native passionné avec 5 ans d'expérience dans la création d'interfaces utilisateur fluides et performantes. Expertise dans la construction d'applications multiplateformes, en mettant l'accent sur l'expérience utilisateur et la modularité du code.
 
-**Développeur React Native (2018 - Présent)**
+#### Expérience Professionnelle
 
-* Création de nouvelles fonctionnalités pour diverses plateformes hybrides, en utilisant React Native et Redux Toolkit
-* Développement et maintenance d'un large éventail d'interfaces utilisateur pour des clients nationaux et internationaux
-* Mise en œuvre deNative Modules pour intégrer des modules native pour accéder à des fonctionnalités avancées telles que la reconnaissance faciale, le gestionnaire de fichiers et les capacités de localisation
+**Développeur React Native Senior, TechInnov Solutions (2022-présent)**
+- Conçu et développé des solutions logicielles React Native pour divers clients, incluant une plateforme de commerce électronique et une application de gestion de tâches.
+- Collaboré avec les équipes de design pour traduire les maquettes en interfaces réactives et attrayantes.
+- Intégré des modules natifs pour améliorer les fonctionnalités de l'appareil et optimiser les performances.
 
-**Développeur Java (2015 - 2018)**
+**Ingénieur Logiciel, Digital Horizons (2020-2022)**
+- Participé à la refonte de l'architecture d'une application existante en utilisant React Native, améliorant la maintenabilité et l'extensibilité.
+- Mis en œuvre Redux Toolkit pour gérer l'état de l'application, assurant une logique d'interface utilisateur cohérente et réactive.
+- Collaboré étroitement avec l'équipe de testeurs pour garantir la qualité du code et la résolution rapide des bogues.
 
-* Conception et développement de solutions métier pour les clients du secteur financière
-* Intégration de technologies tierces telles que Spring Boot et Docker pour améliorer la flexibilité et la scalabilité des applications
-* Déploiement et maintenance d'un système de gestion de projet collaboratif pour plusieurs équipes
+**Développeur Junior, SoftTech Solutions (2018-2020)**
+- Apporté une contribution précieuse au sein d'une équipe agile, développant et maintenant des applications React Native pour des clients du secteur des services financiers.
+- Acquérir une solide compréhension des meilleures pratiques de développement React Native et des normes de codage.
 
-**Développeur junior (2013 - 2015)**
+#### Compétences Techniques
+- **React Native** : Expertise dans la création d'interfaces utilisateur réactives et la gestion des composants.
+- **Redux Toolkit** : Expérience dans la gestion de l'état de l'application complexe et la logique métier.
+- **Modules Natifs** : Intégration réussie de modules pour accéder aux fonctionnalités spécifiques de l'appareil.
+- JavaScript, TypeScript, Git, RESTful APIs, Jest (tests unitaires).
 
-* Assistance à la mise en œuvre de solutions numériques pour diverses entreprises nationales
-* Apprentissage des bases du développement web et mobile en utilisant des technologies telles que HTML, CSS, JavaScript et React Native
-* Contribution à la création d'un module commun de développement pour une plateforme hybride
+#### Formation
+- **Licence Informatique**, Université de Lyon, 2016-2018
+- Projets académiques mettant en valeur les compétences en programmation orientée objet et en conception d'interfaces utilisateur.
 
-**Compétences techniques**
-
-* React Native (16.0.1)
-* Redux Toolkit (1.2.7)
-* Native Modules (pour accéder aux fonctionnalités native tels que la reconnaissance faciale, le gestionnaire de fichiers et les capacités de localisation)
-* JavaScript (ECMAScript 2015)
-* Python (3.8.0)
-* HTML/CSS (5.0)
-* Git (2.22.0)
-
-**Éducation**
-
-* Bachelor en Sciences Informatiques, Université Paris Sud (2009 - 2014)
-* Diplôme en Développement Web, école de développeurs (2011 - 2013)
-
-**Projets personnels**
-
-* **Plateforme hybride d'expérience utilisateur** (2020)
- + Création d'une plateforme hybride avec React Native et Redux Toolkit pour un client national
- + Développement de fonctionnalités de reconnaissance faciale et de gestionnaire de fichiers pour cette plateforme
- + Implémentation deNative Modules pour accéder aux capacités avancées de la plateforme
-* **Système de gestion de projet collaboratif** (2017)
- + Création d'un système de gestion de projet collaboratif en utilisant Spring Boot, Docker et Git
- + Déploiement et maintenance du système pour plusieurs équipes
+#### Projets
+- **Gestionnaire de Finances Personnelles** : Application React Native permettant aux utilisateurs de suivre leurs dépenses et revenus, avec des graphiques interactifs et des notifications personnalisées.
+- **Portail d'Actualités** : Plateforme de nouvelles multiplateformes avec une personnalisation avancée et des fonctionnalités hors ligne.

@@ -1,9 +1,19 @@
 import axios from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
+import dotenv from 'dotenv';
 
-const OLLAMA_HOST = process.env.OLLAMA_HOST || 'http://localhost:11434';
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL || 'llama3.2:3b';
+// Load environment variables from .env.local
+dotenv.config({ path: path.join(process.cwd(), '.env.local') });
+
+const COHERE_API_KEY = process.env.COHERE_API_KEY;
+const COHERE_API_URL = 'https://api.cohere.ai/v1';
+
+if (!COHERE_API_KEY) {
+  console.error('ERROR: COHERE_API_KEY environment variable is not set');
+  console.error('Please add COHERE_API_KEY to your .env.local file');
+  process.exit(1);
+}
 
 interface CVProfile {
   language: string;
@@ -91,27 +101,36 @@ Important:
 Generate ONLY the CV text, no additional commentary.`;
 
   try {
-    const response = await axios.post(`${OLLAMA_HOST}/api/generate`, {
-      model: OLLAMA_MODEL,
-      prompt: prompt,
-      stream: false,
-      options: {
-        temperature: 0.9, // Higher temperature for more variety
-        top_p: 0.95,
+    const response = await axios.post(
+      `${COHERE_API_URL}/chat`,
+      {
+        model: 'command-r-plus-08-2024',
+        message: prompt,
+        max_tokens: 800,
+        temperature: 0.9,
       },
-    });
+      {
+        headers: {
+          'Authorization': `Bearer ${COHERE_API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+      }
+    );
 
-    return response.data.response;
+    return response.data.text.trim();
   } catch (error) {
-    console.error(`Error generating CV ${index}:`, error);
+    if (axios.isAxiosError(error)) {
+      console.error(`Error generating CV ${index}:`, error.response?.data || error.message);
+    } else {
+      console.error(`Error generating CV ${index}:`, error);
+    }
     throw error;
   }
 }
 
 async function main() {
-  console.log('Starting CV generation...');
-  console.log(`Using Ollama at: ${OLLAMA_HOST}`);
-  console.log(`Model: ${OLLAMA_MODEL}\n`);
+  console.log('Starting CV generation with Cohere...');
+  console.log(`Using Cohere API\n`);
 
   // Create CVs directory if it doesn't exist
   const cvsDir = path.join(process.cwd(), 'generated-cvs');
@@ -140,8 +159,8 @@ async function main() {
       generated++;
       console.log(`✓ Saved: ${filename}\n`);
 
-      // Small delay to avoid overwhelming Ollama
-      await new Promise(resolve => setTimeout(resolve, 500));
+      // Small delay to avoid rate limiting
+      await new Promise(resolve => setTimeout(resolve, 1000));
     } catch (error) {
       console.error(`✗ Failed to generate CV ${i + 1}\n`);
     }

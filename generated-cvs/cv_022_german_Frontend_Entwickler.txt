@@ -1,43 +1,41 @@
-Sehr geehrte Damen und Herren,
+## Name: Jan-Philipp Müller
 
-Ich freue mich, Ihnen meinen Lebenslauf vorzustellen.
+## Frontend-Entwickler mit Fokus auf moderne Web-Technologien
 
-**Profielle Zusammenfassung**
+Ein erfahrener Frontend-Spezialist mit Leidenschaft für reaktive und skalierbare Web-Lösungen. Besondere Expertise im Erstellen von intuitiven und ansprechenden Benutzeroberflächen, mit einem Auge für Design und Nutzererfahrung.
 
-Als erfahrenender Frontend-Entwickler mit starker Leidenschaft für moderne Webentwicklung habe ich eine breite Palette an Technologien erworben, um komplexe Benutzeroberflächen zu erstellen. Mit Reaktor (React) und den damit verbundenen Tools wie Redux, Webpack und Jest bin ich in der Lage, effiziente und skalierbare Lösungen für Kunden zu entwickeln.
+## Berufserfahrung
 
-**Berufliche Erfahrungen**
+**Senior Frontend-Entwickler, WebDev GmbH (2020 - heute)**
+- Führende Rolle im Frontend-Team bei der Entwicklung und Wartung einer komplexen E-Commerce-Plattform.
+- Implementierung einer reaktiven Benutzeroberfläche mit Redux zur Verwaltung des globalen Zustands, was zu einer verbesserten Leistung und Benutzererfahrung führte.
+- Mitarbeit an der Optimierung des Build-Prozesses mit Webpack, um die Ladezeiten der Seite zu verbessern und die allgemeine Effizienz zu steigern.
 
-Frontend-Entwickler bei BitStadium GmbH (2020 - 2022)
-- Erstellung von modernen Webanwendungen mit React und Redux
-- Implementierung von state management Lösungen mit Redux
-- Optimierung von Webperformance mit Webpack
+**Frontend-Entwickler, DigitalTech AG (2017-2020)**
+- Zusammenarbeit mit einem agilen Team bei der Entwicklung von Webanwendungen für Kunden aus verschiedenen Branchen.
+- Hauptverantwortung für die Umsetzung von UI-Designs mit React, gewährleistende konsistente und reaktive Benutzererfahrung auf verschiedenen Geräten.
+- Implementierung von Unit-Tests mit Jest, um Code-Qualität und -Stabilität zu gewährleisten.
 
-Freiberufler (2018 - 2020)
-- Entwicklung von Single-Page-Anwendungen mit Reaktor
-- Erstellung komplexer Benutzeroberflächen für Kunden in der IT-Branche
-- Implementierung von unit tests und Integrationstests mit Jest
+**Junior Web-Entwickler, StartUp Solutions GmbH (2015-2017)**
+- Einstieg in die Webentwicklung, mit Fokus auf HTML, CSS und JavaScript.
+- Unterstützung bei der Erstellung und Wartung von Websites für kleine und mittelständische Unternehmen.
+- Gelegentliche Aufgaben in der Frontend-Entwicklung mit jQuery und Bootstrap.
 
-Webentwickler bei Codex GmbH (2015 - 2018)
-- Entwicklung von Webanwendungen mit HTML5, CSS3 und JavaScript
-- Erstellung von interaktiven Benutzeroberflächen für Kunden in der Werbung
-- Implementierung von responsive Designs mit modernen Browser
+## Technische Fähigkeiten
+- **React:** Profunde Kenntnisse in der Erstellung und Verwaltung komplexer UI-Komponenten, Nutzung von JSX und State Management.
+- **Redux:** Erfahrung in der Implementierung von Redux-Stores für die Verwaltung von Anwendungszuständen, einschließlich der Verwendung von Actions und Reducern.
+- **Webpack:** Kenntnisse im Konfigurieren und Anpassen von Webpack-Build-Prozessen, einschließlich der Optimierung von Bundle-Größen und Ladezeiten.
+- **Jest:** Praxis in der Erstellung umfassender Test-Suites mit Jest, um Code-Abdeckung und -Stabilität sicherzustellen.
+- **HTML/CSS:** Experte im Schreiben von semantischem HTML und effektivem CSS, mit Fokus auf Barrierefreiheit und responsivem Design.
 
-**Technische Fähigkeiten**
+## Ausbildung
+- Bachelor of Science in Informatik, Technische Universität Berlin (2012-2015)
 
-- Reaktor (React) und Zustandsmanagement mit Redux
-- Webpack und Optimierung von Webperformance
-- Jest und unit testing
-- HTML5, CSS3, JavaScript
-- Moderner Browser wie Chrome, Firefox und Safari
+## Projekte
+**Online-Bildungsplattform (2021)**
+- Entwicklung einer Online-Lernplattform mit interaktiven Kursen und nutzerfreundlicher Oberfläche.
+- Umsetzung eines responsiven Designs, das auf verschiedenen Geräten funktioniert, und Integration von Video- und Quiz-Modulen.
 
-**Bildung**
-
-Diplom in Informatik an der Universität Mainz (2015)
-
-**Projekte**
-
-- "Ehrliche Bewertungen" - Eine Webanwendung zum Sammeln und Teilen von Produktbewertungen. Diese Anwendung wird mit React und Redux entwickelt.
-- "Portfolio-Website" - Eine persönliche Webpräsenz für mich als Frontend-Entwickler, die ich mit Reaktor erstellt habe.
-
-Ich freue mich darauf, meine Fähigkeiten mit Ihnen zu teilen und gemeinsam innovative Lösungen für künftige Projekte zu entwickeln.
+**Personalisierter News-Aggregator (2019)**
+- Erstellung eines personalisierten Nachrichten-Feed-Prototyps mit React, der Inhalte basierend auf den Interessen des Benutzers anzeigt.
+- Nutzung von Redux zur Verwaltung der Benutzerpräferenzen und des Nachrichten-Zustands.

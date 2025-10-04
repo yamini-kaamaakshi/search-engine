@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Semantic CV Search Engine with Cohere
 
-## Getting Started
+A Next.js application that demonstrates **semantic search** using **Cohere's AI models**. This project showcases how semantic search finds relevant CVs based on **intent and meaning** rather than keyword matching.
 
-First, run the development server:
+## 🎯 Key Feature: Relevance Search with Indirect Information
 
+**Query:** "Show me top 5 mobile developers"
+
+**What the system finds:**
+- CVs with **iOS** expertise (Swift, UIKit, SwiftUI)
+- CVs with **Android** skills (Kotlin, Jetpack Compose)
+- CVs with **React Native** or **Flutter** experience
+- Cross-platform developers
+
+**Important:** The CVs don't contain "mobile" or "mobile developer" - the system understands that iOS, Android, React Native, and Flutter are mobile technologies!
+
+## 🚀 Setup
+
+### 1. Install Dependencies
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Configure Cohere API
+```bash
+cp .env.example .env.local
+# Edit .env.local and add your COHERE_API_KEY
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Get your free API key: https://dashboard.cohere.com/api-keys
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3. Generate Sample CVs
+```bash
+npm run generate-cvs
+```
 
-## Learn More
+This creates 100 multilingual CVs in `generated-cvs/` with iOS, Android, React Native, Flutter, Backend, Frontend, DevOps, and Data Science roles.
 
-To learn more about Next.js, take a look at the following resources:
+### 4. Run the Application
+```bash
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Usage
 
-## Deploy on Vercel
+1. **Upload CVs**: Upload the generated CVs from `generated-cvs/` folder
+2. **Search Semantically**: Try queries like:
+   - "mobile developers" → Finds iOS, Android, React Native, Flutter
+   - "Apple ecosystem" → Finds iOS, Swift developers
+   - "Google platform" → Finds Android, Kotlin developers
+   - "cross-platform" → Finds React Native, Flutter developers
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🏗️ Architecture
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Embeddings**: Cohere `embed-english-v3.0` (1024-dim vectors)
+- **Semantic Ranking**: Cohere `rerank-english-v3.0`
+- **CV Generation**: Cohere `command-r-plus-08-2024`
+- **Storage**: In-memory document store with embeddings
+- **Document Processing**: PDF, DOCX, TXT support
+
+## 🔍 How It Works
+
+1. **Document Upload** → Text extraction → Chunking → Cohere embeddings → Store
+2. **Search Query** → Cohere rerank API → Semantic relevance scoring → Top results
+
+The magic is in **Cohere Rerank** which understands:
+- iOS = Mobile development
+- Android = Mobile development
+- Swift + UIKit = iOS development
+- Kotlin + Jetpack = Android development
+
+## 📚 Resources
+
+- [Cohere Documentation](https://docs.cohere.com/)
+- [Cohere Embed API](https://docs.cohere.com/reference/embed)
+- [Cohere Rerank API](https://docs.cohere.com/reference/rerank)

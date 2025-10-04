@@ -1,45 +1,38 @@
-**CV du Développeur d'Excellence**
+## Jean-Luc Dubois
 
-**Résumé professionnel**
-Découvrez mon expertise dans l'implémentation de solutions innovantes en utilisant Kotlin et les dernières technologies Android. Avec une approche centrale sur la sécurité et la performance, j'ai développé des expériences réussies à travers plusieurs projets. Mon objectif est de continuer à grandir avec des équipes passionnées par l'innovation.
+### Résumé professionnel
+Développeur Android expérimenté avec une expertise approfondie en programmation Kotlin et en écosystème Android. Compétent dans la conception et le développement de solutions logicielles robustes, en mettant l'accent sur l'efficacité et la qualité du code. Passionné par l'innovation technologique, toujours à l'affût des dernières tendances dans le développement Android.
 
-**Expérience professionnelle**
+### Expérience professionnelle
 
-* **Ingénieur Kotlin**, États-Unis (2022 - Présent)
- + Conception et mise en œuvre de solutions Android utilisation Kotlin
- + Intégration de Coroutines pour améliorer la performance et la sécurité
- + Développement de fonctionnalités avancées avec Firebase, garantissant une expérience utilisateur unique
-* **Développeur Android**, France (2018 - 2022)
- + Création d'interfaces utilisateur intuitives avec Android Jetpack
- + Découverte et implémentation de nouvelles technologies Android pour améliorer la performance et les fonctionnalités
- + Collaboration avec une équipe de développeurs pour la mise en œuvre de projet stratégiques nationales
-* **Développeur Junior**, Allemagne (2015 - 2018)
- + Acquisition des compétences fondamentales en programmation Java
- + Développement de solutions basées sur les technologies Android, Android Things et React Native
- + Connaissance approfondie du cycle de vie d'une application, depuis la conception jusqu'à la livraison
+**Développeur Android Senior, TechInnov Inc. (2021-présent)**
+- Pris la tête d'une équipe de développeurs pour concevoir et développer une suite d'outils Android pour l'automatisation industrielle, atteignant plus de 10 000 utilisateurs.
+- Implémenté des fonctionnalités complexes utilisant Android Jetpack et Coroutines pour assurer une expérience utilisateur réactive et fluide.
+- Intégré Firebase pour la gestion des données en temps réel, améliorant ainsi la synchronisation et la collaboration entre les utilisateurs.
 
-**Compétences techniques**
+**Ingénieur Kotlin, SoftWare Labs (2018-2021)**
+- Collaboré avec une équipe agile pour développer des solutions logicielles personnalisées pour des clients de divers secteurs.
+- Responsable de la conception et du développement d'une application de gestion de projets utilisant Kotlin et Firebase, permettant une collaboration efficace au sein des équipes.
+- Réalisé des tests rigoureux et assuré la maintenance du code pour garantir des performances optimales.
 
-* Kotlin
-* Android Jetpack (Architecture composante)
-* Coroutines
-* Firebase (Authentification, Storage, Cloud Functions)
-* React Native
-* Java
-* C++
-* HTML/CSS
-* MySQL/PostgreSQL
-* Git et versionnage de code
+**Développeur Android Junior, DigiTech Solutions (2016-2018)**
+- A participé au développement d'une plateforme Android pour le suivi des actifs d'entreprise, y compris la géolocalisation et la gestion des stocks.
+- Acquérir une solide compréhension de la programmation Kotlin et des meilleures pratiques de développement Android.
+- Contribué à la documentation et aux processus de contrôle de version pour assurer une collaboration efficace au sein de l'équipe.
 
-**Formation**
+### Compétences techniques
+- **Langages de programmation** : Kotlin (expert), Java, SQL
+- **Technologies Android** : Android Jetpack, Coroutines, Firebase, Retrofit, Room
+- **Outils de développement** : Android Studio, Git, JUnit, Gradle
+- **Méthodologies** : Agile, Scrum, TDD
 
-* **Diplôme d'ingénieur**, École polytechnique, 2015 - 2018
+### Formation
+**MSc. Informatique, Université de Lyon (2014-2016)**
+Thèse sur l'optimisation des algorithmes de recherche pour les applications en temps réel.
 
-**Projets personnels**
+**BSc. Ingénierie Logicielle, Université de Toulouse (2010-2014)**
+Projet de fin d'études sur le développement d'une interface utilisateur Android pour un système de surveillance environnementale.
 
-* **Développement d'une solution de reconnaissance vocale avec TensorFlow et Kotlin**, France (2020)
- + Conception et réalisation d'un modèle de reconnaissance vocale personnalisé
- + Intégration du modèle à une application Android pour un usage pratique
-* **Création d'une plateforme de gestion de projet en ligne avec React Native et Firebase**, Allemagne (2017)
- + Développement d'une plateforme de gestion de projet complète sur React Native et Firebase
- + Test et amélioration continue du produit
+### Projets
+- **SmartHub** : Développement d'un hub domotique open-source utilisant Android Jetpack et Firebase, permettant aux utilisateurs de contrôler et de surveiller leurs appareils intelligents à domicile.
+- **GreenTracker** : Conception et implémentation d'une plateforme Android pour le suivi des initiatives durables au sein d'une communauté, avec un système de récompenses et de classement.

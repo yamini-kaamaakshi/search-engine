@@ -1,8 +1,14 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { v4 as uuidv4 } from 'uuid';
-import { generateEmbedding } from './embeddings';
-import { storeDocumentInQdrant, deleteDocumentFromQdrant, getAllDocumentsFromQdrant, initializeCollection, type StoredDocument } from './qdrant';
+import { generateCohereEmbedding } from './cohere-service';
+import {
+  storeDocument,
+  getAllDocuments,
+  deleteDocumentsByParentId,
+  getDocumentsByParentId,
+  type StoredDocument
+} from './document-store';
 
 export interface ProcessedDocument {
   id: string;
@@ -23,9 +29,6 @@ const UPLOADS_DIR = path.join(process.cwd(), 'uploads');
 if (!fs.existsSync(UPLOADS_DIR)) {
   fs.mkdirSync(UPLOADS_DIR, { recursive: true });
 }
-
-// Initialize Qdrant collection on module load
-initializeCollection().catch(console.error);
 
 export async function processFile(filePath: string, originalName: string): Promise<FileProcessingResult> {
   try {
@@ -74,8 +77,11 @@ export async function processFile(filePath: string, originalName: string): Promi
     // Split document into chunks for better search
     const chunks = splitDocumentIntoChunks(document);
 
-    // Store each chunk in Qdrant with embeddings
+    // Store each chunk with Cohere embeddings
     for (const chunk of chunks) {
+      // Generate embedding for the chunk using Cohere
+      const embedding = await generateCohereEmbedding(chunk.content);
+
       const storedDoc: StoredDocument = {
         id: chunk.id,
         filename: chunk.filename,
@@ -83,14 +89,12 @@ export async function processFile(filePath: string, originalName: string): Promi
         type: chunk.type as 'pdf' | 'docx' | 'txt' | 'qa',
         uploadDate: chunk.uploadDate,
         chunkIndex: chunk.chunkIndex,
-        parentDocumentId: document.id
+        parentDocumentId: document.id,
+        embedding: embedding
       };
 
-      // Generate embedding for the chunk
-      const embedding = await generateEmbedding(chunk.content);
-
-      // Store in Qdrant
-      await storeDocumentInQdrant(storedDoc, embedding);
+      // Store in document store
+      await storeDocument(storedDoc);
     }
 
     // Clean up the temporary file
@@ -216,26 +220,25 @@ function generateFileId(): string {
 
 export async function getUploadedDocuments(): Promise<ProcessedDocument[]> {
   try {
-    const points = await getAllDocumentsFromQdrant();
+    const allDocs = getAllDocuments();
     const documentsMap = new Map<string, ProcessedDocument>();
 
     // Group chunks back into documents
-    for (const point of points) {
-      const payload = point.payload as unknown as StoredDocument;
-      const parentId = payload.parentDocumentId || payload.id;
+    for (const doc of allDocs) {
+      const parentId = doc.parentDocumentId || doc.id;
 
       if (!documentsMap.has(parentId)) {
         documentsMap.set(parentId, {
           id: parentId,
-          filename: payload.filename,
-          content: payload.content,
-          type: payload.type as 'pdf' | 'docx' | 'txt' | 'unknown',
-          uploadDate: payload.uploadDate
+          filename: doc.filename,
+          content: doc.content,
+          type: doc.type as 'pdf' | 'docx' | 'txt' | 'unknown',
+          uploadDate: doc.uploadDate
         });
       } else {
         // Append chunk content to existing document
-        const doc = documentsMap.get(parentId)!;
-        doc.content += ' ' + payload.content;
+        const existingDoc = documentsMap.get(parentId)!;
+        existingDoc.content += ' ' + doc.content;
       }
     }
 
@@ -248,19 +251,8 @@ export async function getUploadedDocuments(): Promise<ProcessedDocument[]> {
 
 export async function deleteDocument(fileId: string): Promise<boolean> {
   try {
-    // Get all chunks for this document
-    const points = await getAllDocumentsFromQdrant();
-    const chunksToDelete = points.filter(point => {
-      const payload = point.payload as unknown as StoredDocument;
-      return payload.parentDocumentId === fileId;
-    });
-
-    // Delete all chunks
-    for (const chunk of chunksToDelete) {
-      await deleteDocumentFromQdrant(chunk.id.toString());
-    }
-
-    return chunksToDelete.length > 0;
+    const deletedCount = deleteDocumentsByParentId(fileId);
+    return deletedCount > 0;
   } catch (error) {
     console.error('Error deleting document:', error);
     return false;
@@ -269,23 +261,15 @@ export async function deleteDocument(fileId: string): Promise<boolean> {
 
 export async function getDocumentById(fileId: string): Promise<ProcessedDocument | undefined> {
   try {
-    const points = await getAllDocumentsFromQdrant();
-    const chunks = points.filter(point => {
-      const payload = point.payload as unknown as StoredDocument;
-      return payload.parentDocumentId === fileId;
-    });
+    const chunks = getDocumentsByParentId(fileId);
 
     if (chunks.length === 0) return undefined;
 
     // Sort chunks by index and combine content
-    chunks.sort((a, b) => {
-      const aPayload = a.payload as StoredDocument;
-      const bPayload = b.payload as StoredDocument;
-      return (aPayload.chunkIndex || 0) - (bPayload.chunkIndex || 0);
-    });
+    chunks.sort((a, b) => (a.chunkIndex || 0) - (b.chunkIndex || 0));
 
-    const firstChunk = chunks[0].payload as StoredDocument;
-    const combinedContent = chunks.map(chunk => (chunk.payload as StoredDocument).content).join(' ');
+    const firstChunk = chunks[0];
+    const combinedContent = chunks.map(chunk => chunk.content).join(' ');
 
     return {
       id: fileId,

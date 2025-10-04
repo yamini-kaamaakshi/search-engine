@@ -1,40 +1,45 @@
-**Résumé d'un Ingénieur DevOps**
+## Jean-Pierre Leroy
 
-**Nom complet :**
-Frédéric Dupont
+### Ingénieur DevOps
 
-**Résumé professionnel :**
-Ingénieur expérimenté en DevOps, spécialisé dans l'implémentation de solutions scalable et sécurisées pour les systèmes de mise en production d'entreprise. Ma compétence en gestion des pipelines de déploiement, en automatisation des tâches et en optimisation des performances cloud. Utilise couramment les technologies Microsoft Azure, Kubernetes et Jenkins.
+#### Résumé professionnel :
+Expert DevOps passionné, avec une solide expérience dans la mise en œuvre et l'automatisation des processus de développement et de déploiement. Compétences approfondies dans les technologies cloud, la conteneurisation et les outils d'intégration continue. Axé sur l'amélioration de l'efficacité des opérations logicielles et sur la fourniture de solutions fiables et évolutives.
 
-**Expérience professionnelle :**
+#### Expérience professionnelle :
+**DevOps Engineer, CloudTech Innovations (2021-présent)**
+- J'ai conçu et implémenté une architecture cloud sur Azure, incluant le provisionnement de ressources, la configuration de réseaux virtuels et la gestion de conteneurs avec Kubernetes.
+- Automatisation du processus de déploiement continu en utilisant Jenkins pour intégrer, tester et déployer les applications dans un environnement cloud hybride.
+- Gestion de la configuration à l'aide d'Ansible pour assurer la cohérence des environnements de développement, de test et de production.
 
-* **Ingénieur DevOps chez IBM France** (2020 - 2023)
- + Réalisé la mise en production de systèmes de gestion de contenus sur Azure, optimisant la performance et la fiabilité
- + Développé et mis en œuvre une infrastructure Kubernetes pour les applications cloud native
- + Collaboré avec l'équipe de qualité pour l'implémentation de processus de détection et de réparation des erreurs dans les pipelines Jenkins
-* **DevOps Engineer chez Orange S.A.** (2018 - 2020)
- + Assuré la mise en production de systèmes de gestion de données sur Azure, tout en garantissant la sécurité et la scalabilité
- + Travailé avec l'équipe de déploiement pour l'implémentation d'une solution Ansible pour automatiser les tâches de maintenance des serveurs
- + Participé à la mise en place d'un système de monitoring pour les applications cloud, grâce à l'utilisation de Prometheus et Grafana
-* **Développeur chez Capgemini** (2015 - 2018)
- + Collaboré avec l'équipe de développement pour l'implémentation d'une solution de gestion des processus métier sur une plateforme web
- + Développé et testé des applications Web utilisant le framework Node.js et la bibliothèque Express
+**Ingénieur DevOps, SoftWare Inc. (2018-2021)**
+- Collaboration avec les équipes de développement et d'exploitation pour mettre en place une stratégie DevOps efficace, réduisant les temps de déploiement de 30%.
+- Création de scripts pour l'automatisation des tâches de gestion des serveurs et des conteneurs Docker.
+- Surveillance et optimisation des performances des applications en production, en utilisant des outils de surveillance du cloud.
 
-**Compétences techniques :**
+**Administrateur Système, TechSolutions (2016-2018)**
+- Administration et maintenance des serveurs Linux et des environnements de réseau virtuel.
+- Gestion des mises à jour et des correctifs de sécurité sur les systèmes.
+- Implémentation de solutions de sauvegarde et de restauration pour garantir la disponibilité des données.
 
-* Azure : gestion des ressources, déploiement, gestion des accès, sécurité et surveillance
-* Kubernetes : gestion de conteneurs, déploiement, résolution des problèmes
-* Jenkins : automatisation des tests, construction et déploiement des projets
-* Ansible : automatisation des tâches de maintenance, configuration des serveurs
-* Python : développement de scripts pour la mise en production et les opérations d'IT
-* PowerShell : utilisation courante pour la gestion des réseaux et des systèmes
-* SQL Server : gestion des bases de données, requêtes et optimisation des performances
+#### Compétences techniques :
+- **Cloud Computing :** Azure (expert), AWS (intermédiaire), GCP (notions de base)
+- **Orchestration et Conteneurisation :** Kubernetes, Docker
+- **Outils DevOps :** Jenkins, Ansible, Git, Terraform
+- **Systèmes d'exploitation :** Linux (expert), Windows Server
+- **Réseaux :** SDN, Load Balancing, Sécurité réseau
 
-**Formation :**
+#### Formation :
+**Université de Lyon, Master en Informatique (2014-2016)**
+- Spécialisation en Ingénierie Logicielle et Systèmes Distribués.
+- Projet de recherche sur l'orchestration de conteneurs dans les environnements cloud.
 
-* **DUT Informatique et Techniques d'Entreprise**, Université Paris-Sud (2014-2018)
+**Diplôme d'Ingénieur en Informatique, École Polytechnique de Paris (2012-2014)**
+- Cours avancés en architecture des systèmes, réseaux et sécurité.
 
-**Projets :**
+#### Projets :
+**Plateforme d'analyse de données distribuée**
+- Développement d'une plateforme pour le traitement de données massives en utilisant Kubernetes et Hadoop.
+- Implémentation d'un pipeline de données automatisé pour l'ingestion et le traitement des données en temps réel.
 
-* **Déploiement automatisé d'applications cloud-native sur Azure** : réalisation d'une solution pour automatiser la mise en production des applications cloud-native sur Azure, en utilisant Jenkins et Ansible
-* **Système de monitoring pour les applications cloud** : conception et mise en place d'un système de monitoring pour les applications cloud, en utilisant Prometheus et Grafana
+**Migration vers le Cloud Azure**
+- Migration réussie d'une infrastructure locale vers Azure pour une entreprise de commerce électronique, améliorant la disponibilité et la scalabilité.

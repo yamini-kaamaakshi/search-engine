@@ -1,51 +1,35 @@
-Sehr geehrte Damen und Herren,
+## Leonie Müller
 
-Ich freue mich, Ihnen meinen Lebenslauf vorzustellen.
+### Software-Entwicklerin mit Schwerpunkt iOS und Swift
 
-**Professionelle Zusammenfassung**
+Eine erfahrene Entwicklerin mit einer Leidenschaft für das Erstellen interaktiver und visuell ansprechender Benutzeroberflächen unter Verwendung der neuesten Technologien im iOS-Ökosystem. Besondere Stärken liegen in der Gestaltung von Animationen und Augmented Reality-Erlebnissen, wobei stets auf sauberen Code und effiziente Architektur Wert gelegt wird.
 
-Als erfahrener iOS-Entwickler mit mehrjähriger Erfahrung in der Verwendung von Swift und UIKit bin ich spezialisiert auf die Entwicklung von intuitiven und ansprechenden Benutzeroberflächen für iOS-Geräte. Meine Kenntnisse in CoreAnimation und ARKit ermöglichen es mir, innovative und interaktive Experienzen zu schaffen.
+### Berufserfahrung
 
-**Berufserfahrung**
+**Senior iOS Entwicklerin, XTech Innovations GmbH (2020-heute)**
+- Hauptverantwortliche Entwicklerin für die Neuentwicklung einer AR-basierten Lernplattform für Kinder, die die visuelle Lernmethode revolutioniert.
+- Implementierung komplexer AR-Szenarien unter Verwendung von ARKit, einschließlich räumlicher Audio- und 3D-Objektplatzierung.
+- Optimierung der Benutzeroberflächen-Animationen mit CoreAnimation, um ein flüssiges und ansprechendes Nutzererlebnis zu schaffen.
 
-iOS-Entwickler
-XYZ Software GmbH (2020 - 2023)
+**iOS Swift Entwickler, SmartSoft Solutions (2017-2020)**
+- Zusammenarbeit in einem agilen Team an verschiedenen Kundenprojekten, darunter ein preisgekröntes E-Learning-System.
+- Implementierung einer modularen und skalierbaren Code-Architektur unter Verwendung von Swift, die die Wiederverwendbarkeit von Code über mehrere Projekte hinweg ermöglichte.
+- Enge Zusammenarbeit mit Designern, um hochwertige Benutzeroberflächen zu erstellen, und Umsetzung von detaillierten Animationen mit UIKit.
 
-* Entwickelte eine Reihe von iOS-Anwendungen für Unternehmen und Privatpersonen, die auf den Bedürfnissen der Zielgruppe zugeschnitten waren
-* Verantwortlich für die Optimierung von Leistungen, Stabilität und Benutzererfahrung
-* Kooperierte mit dem Design-Team, um innovative Benutzeroberflächen zu entwickeln
+**iOS Praktikantin, TechStudio (2016-2017)**
+- Unterstützte die Entwicklung einer Fitness-App mit Fokus auf UI-Design und Benutzererfahrung.
+- Erlernte die Grundlagen der iOS-Entwicklung und erwarb praktische Kenntnisse in Swift und Xcode.
+- Arbeitete an der Implementierung von CoreGraphics-basierten Grafiken und einfachen Animationen.
 
-iOS-Entwickler
-ABC Technologie (2018 - 2020)
+### Technische Fähigkeiten
+- **Programmiersprachen**: Swift (fortgeschritten), Objective-C (Grundkenntnisse)
+- **Frameworks**: UIKit, ARKit, CoreAnimation, CoreGraphics
+- **Tools**: Xcode, Git, Fastlane, TestFlight
 
-* Entwickelte eine iOS-Anwendung für ein Unternehmen im Bereich des Gesundheitswesens
-* Verantwortlich für die Implementierung von CoreAnimation und ARKit-Funktionen
-* Übernahm die Funktionen eines erfahrenen Entwicklers, um die Umsetzung der Projektziele zu unterstützen
+### Bildung
+- Bachelor of Science in Informatik, Technische Universität Berlin (2013-2016)
+- Fortgeschrittene Kurse in Mobile Computing und Human-Computer Interaction
 
-Freiberufler (2016 - 2018)
-
-* Entwickelte eine Reihe von iOS-Anwendungen für Privatpersonen und Unternehmen
-* Verantwortlich für die Entwicklung von Lösungen für häufige Benutzeranfragen
-
-**Technische Fähigkeiten**
-
-* Programmiersprache: Swift
-* GUI-Bibliothek: UIKit
-* Animation- und Effekttechnologie: CoreAnimation
-* AR-Entwickelt: ARKit
-* Xcode-Entwicklungsumgebungen
-* Versionierung: Git, SVN
-
-**Bildung**
-
-* Diplom im Informatik-Studium an der Universität von [Name] (2016)
-
-**Projekte**
-
-* **AR-Experience**: Eine interaktive AR-Anwendung für die Untersuchung von Objekten in einer virtuellen Umgebung
- + Verantwortlich für die Implementierung von ARKit-Funktionen und CoreAnimation-Effekten
- + Gestaltet: Benutzeroberfläche, Benutzererfahrung, UI-Design
-
-* **Swift-Studiengang**: Eine App zur Lernhilfe im Swift-Lernen
- + Verantwortlich für die Entwicklung des Hauptcodes und der UI-Implementierung
- + Gestaltet: Benutzeranfrage-Hilfe, Benutzeroberfläche
+### Projekte
+- **AR-Lernspiel**: Entwickelte ein Augmented Reality-Spiel für Kinder, das historische Stätten zum Leben erweckt. Verfügbar auf GitHub: [Link].
+- **SwiftUI-Experiment**: Erforschte die Möglichkeiten von SwiftUI mit einem experimentellen Design-Projekt, das animierte, reaktive Benutzeroberflächen demonstriert.

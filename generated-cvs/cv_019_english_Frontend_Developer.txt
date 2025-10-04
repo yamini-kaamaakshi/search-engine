@@ -1,56 +1,36 @@
-**Alexei Petrov**
-**Frontend Developer**
+**CV: Adam Johansen, Frontend Developer**
 
 **Professional Summary:**
-
-Highly skilled Frontend Developer with over 5 years of experience in building fast, scalable, and responsive web applications using React, TypeScript, and Next.js. Proven track record of delivering high-quality solutions on time and collaborating effectively with cross-functional teams. Proficient in Tailwind CSS for styling and UI design.
+A seasoned Frontend Developer with a passion for creating seamless and engaging user interfaces. Expertise lies in building responsive web applications using React and its ecosystem, with a strong background in TypeScript and modern JavaScript frameworks. Skilled in delivering pixel-perfect designs and ensuring optimal user experiences.
 
 **Work Experience:**
 
-**Senior Frontend Developer, XYZ Corporation (2020 - 2022)**
+**Senior Frontend Developer, WebTech Innovations (2022–Present)**
+- Led the frontend development team in the creation of an enterprise-level SaaS platform, resulting in a 20% increase in user engagement.
+- Implemented a modular component library using React and TypeScript, streamlining development and ensuring UI consistency across the platform.
+- Optimized website performance by refactoring legacy code with modern React patterns, improving page load times by 30%.
 
-* Led the development of multiple React-based web applications using TypeScript and Next.js
-* Collaborated with designers to implement responsive designs and efficient layout solutions
-* Improved code quality and efficiency by implementing best practices and coding standards
-* Trained junior developers on modern frontend technologies
+**Frontend Engineer, DigitalCraft Studios (2019–2022)**
+- Developed and maintained several client websites using React and Next.js, focusing on server-side rendering and static site generation.
+- Collaborated with designers to implement a new design system using Tailwind CSS, enhancing the visual appeal and accessibility of web applications.
+- Mentored junior developers and conducted code reviews to ensure high-quality frontend code.
 
-**Frontend Developer, ABC Startups (2018 - 2020)**
-
-* Developed multiple web applications using React, TypeScript, and Next.js for e-commerce platforms
-* Implemented features such as dynamic loading, lazy loading, and infinite scrolling
-* Worked closely with QA engineers to ensure cross-functional collaboration
-* Created custom components and reusable code blocks to improve development efficiency
-
-**Junior Frontend Developer, DEF Agency (2016 - 2018)**
-
-* Contributed to the development of multiple web applications using React and JavaScript
-* Learned HTML5, CSS3, and CSS preprocessors such as Sass
-* Assisted in creating high-quality documentation for open-source projects
+**Junior Frontend Developer, CodeSpark Inc. (2017–2019)**
+- Assisted in the development and maintenance of a web-based learning platform, ensuring cross-browser compatibility and responsive design.
+- Implemented interactive features using React and JavaScript, improving user engagement by 15%.
+- Conducted A/B testing and provided recommendations to enhance the platform's usability.
 
 **Technical Skills:**
-
-* Programming languages: JavaScript, TypeScript
-* Frameworks: React, Next.js
-* Libraries and tools: Tailwind CSS, Webpack, Babel
-* Databases: MongoDB, PostgreSQL
-* Agile methodologies: Scrum, Kanban
-* Operating Systems: Windows, macOS, Linux
+- **Frontend:** React, React Hooks, TypeScript, Next.js, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Material-UI.
+- **Tools:** Git, npm, Webpack, Babel, Chrome DevTools, Figma.
+- **Methodologies:** Agile, Scrum, Test-Driven Development.
 
 **Education:**
-
-* Bachelor's Degree in Computer Science, Moscow State University (2015 - 2019)
+- **Bachelor of Computer Science, University of California, Los Angeles (2013–2017)**
+- *Relevant Courses:* Web Development, User Interface Design, Data Structures, Algorithms.
 
 **Projects:**
+- **Personal Portfolio Website:** Designed and developed a personal portfolio showcasing my skills and projects using React and Tailwind CSS.
+- **Open-Source Contribution:** Contributed to an open-source React UI library, adding new components and improving accessibility.
 
-1. **E-commerce Platform:** Developed a React-based e-commerce platform using Next.js and MongoDB for storing customer data.
-2. **Social Media Platform:** Built a social media platform using React, TypeScript, and Tailwind CSS for styling and UI design.
-
-**Certifications:**
-
-* Certified Scrum Master (CSM)
-* Certified JavaScript Developer (CJD)
-
-**Languages:**
-
-* English (native speaker)
-* Russian (fluent)
+**References available upon request.**

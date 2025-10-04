@@ -1,63 +1,43 @@
-John Peter Smith
+## Oliver Schmidt, Software Developer
 
-Professional Summary:
+### Professional Summary:
+A skilled software developer with a passion for Apple platforms and a strong background in Swift and Objective-C. Expertise in building robust, user-friendly software solutions, with a focus on delivering exceptional user experiences. Proficient in the entire development lifecycle, from design to deployment, and experienced in working collaboratively within Agile teams.
 
-Highly skilled iOS Engineer with a strong background in Swift development and Apple platform expertise. Proven track record of delivering high-quality solutions on time, with a focus on user experience and performance. Utilize latest technologies such as SwiftUI to enhance the overall development process.
+### Work Experience:
 
-Work Experience:
+**Senior iOS Engineer, TechCraft Innovations (2020-Present)**
+- Led the development of a suite of iOS applications for a major healthcare provider, resulting in a 20% increase in patient engagement.
+- Implemented advanced UI/UX designs using SwiftUI, creating intuitive and visually appealing interfaces.
+- Mentored junior developers and conducted code reviews to ensure high-quality code standards.
 
-iOS Engineer
-ABC Corporation (2020-Present)
+**Swift Developer, SoftWareTech (2018-2020)**
+- Collaborated with a cross-functional team to build an iOS-based payment processing system, utilizing Swift and UIKit.
+- Developed robust data management systems, ensuring secure and efficient transactions.
+- Implemented new features and enhancements, improving the app's performance and user satisfaction.
 
-- Develop and maintain iOS applications using Swift, Objective-C, and Xcode.
-- Collaborate with cross-functional teams to design and implement new features.
-- Conduct unit testing, integration testing, and UI/UX testing to ensure quality and stability.
-- Participate in code reviews and contribute to the improvement of the overall codebase.
+**iOS Apprentice, Apple Inc. (2016-2018)**
+- Assisted senior engineers in designing and developing iOS applications for internal use, gaining exposure to Xcode and Objective-C.
+- Conducted thorough testing and debugging, ensuring the quality and stability of the software.
+- Participated in daily stand-up meetings, contributing to the team's Agile development process.
 
-Swift Developer
-XYZ Startups (2018-2020)
+### Technical Skills:
+- **Programming Languages:** Swift (proficient), Objective-C (advanced), JavaScript (basic)
+- **Development Environments:** Xcode, AppCode, Git
+- **UI Frameworks:** UIKit, SwiftUI, Storyboards
+- **Software Architecture:** MVC, MVVM, VIPER
+- **Version Control:** Git, GitHub, Bitbucket
+- **Testing:** Unit Testing, UI Testing, TDD
 
-- Designed and developed iOS applications using Swift and Xcode, ensuring optimal performance and user experience.
-- Implemented features such as push notifications, location services, and camera integration.
-- Worked closely with designers to translate designs into functional prototypes.
-- Participated in code reviews and assisted in the training of junior team members.
+### Education:
+**Bachelor of Computer Science, University of California, Berkeley (2014-2016)**
+- Major: Computer Science, Minor: Human-Computer Interaction
+- Relevant Courses: Software Engineering, Mobile Systems, UI/UX Design
 
-Platform Developer
- DEF Consulting (2016-2018)
+### Projects:
+**MedTracker (2021)**
+- Developed a personal health management app, allowing users to track medications and health metrics.
+- Utilized Core Data for local data storage and implemented a custom UI using SwiftUI.
 
-- Contributed to the development of iOS projects using Objective-C and Xcode.
-- Created and maintained documentation for various SDKs and third-party libraries.
-- Assisted in the testing and debugging process, including identifying and resolving issues.
-- Participated in team meetings and contributed to discussions on design and technical decisions.
-
-Education:
-
-- Bachelor's Degree in Computer Science
- University of Technology (2015)
-
-Technical Skills:
-
-- Programming Languages: Swift, Objective-C
-- Integrated Development Environment: Xcode
-- User Interface Frameworks: UIKit, SwiftUI
-- Version Control Systems: Git
-- Agile Methodologies: Scrum
-
-Related Technologies:
-
-- macOS Development
-- watchOS Development
-- tvOS Development
-- Swift Package Manager
-
-Projects:
-
-1. Personal Project (2020)
-
-- Developed a todo list app using Swift and Xcode, incorporating features such as authentication and push notifications.
-- Published the project on GitHub for public review and feedback.
-
-2. Open-Source Contribution (2019)
-
-- Contributed to an open-source project providing a Swift wrapper for a popular SDK, enhancing its compatibility with Apple's latest platforms.
-- Engaged with the community through comments and pull requests, fostering collaboration and code improvement.
+**SwiftUI Prototyping Tool (2020)**
+- Created a prototyping tool for designers, enabling rapid UI prototyping without coding.
+- Implemented a drag-and-drop interface, allowing designers to build interfaces using SwiftUI components.

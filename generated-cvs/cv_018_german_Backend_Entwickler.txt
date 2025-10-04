@@ -1,43 +1,43 @@
-Name: Lars Friedrich Schmidt
+## Maximilian Weber – Softwareentwickler
 
-Berufserfahrung:
+### Zusammenfassung
 
-Senior Backend Entwickler, ContiBank (2019 --heute)
+Erfahrener Backend-Entwickler mit einem Schwerpunkt auf robusten und skalierbaren Lösungen. Expertise in der Entwicklung mit Go, gRPC und Microservices-Architekturen, sowie fundierte Kenntnisse in der Arbeit mit PostgreSQL-Datenbanken. Stellt durch die Implementierung moderner Softwarepraktiken die Entwicklung hochwertiger und zuverlässiger Systeme sicher.
 
-* Führe die Entwicklung von Datenbanken und Microservices im Unternehmen fort
-* Verantwortlich für das Implementieren von gRPC-Schnittstellen zwischen verschiedenen Systemen
-* Leite Teams bei der Umsetzung neuer Technologien und Standards in Bezug auf Sicherheit und Skalierbarkeit
+### Berufserfahrung
 
-Backend Entwickler, Codex (2017-2019)
+**Senior Backend Entwickler, TechSolutions GmbH (2021–heute)**
+- Verantwortlich für die Konzeption und Entwicklung einer hochskalierbaren Backend-Plattform für E-Commerce-Anwendungen, basierend auf Go und Microservices.
+- Implementierung von gRPC-Diensten für die sichere Kommunikation zwischen Modulen, was zu einer verbesserten Performance und Skalierbarkeit führte.
+- Optimierung von Datenbankabfragen und Indexierung, was zu einer 20%igen Steigerung der Gesamtleistung des Systems beitrug.
 
-* Arbeite an der Weiterentwicklung der Datenbankabfragesprache, einschließlich Optimierung von Queries
-* Beteilige mich bei der Implementierung eines PostgreSQL-Weltraums für eine Cloud-provider-Funktion
-* Stehe für die Umsetzung neuer Features im Zusammenhang mit Mikroservices vor
+**Backend Entwickler, DigitalTech AG (2018–2021)**
+- Arbeitete im Team an der Migration einer Legacy-Anwendung zu einer Microservices-Architektur mit Go.
+- Implementierung von effizienten Datenvalidierungs- und -verarbeitungsprozessen, was die Datengenauigkeit und Systemstabilität verbesserte.
+- Integration der PostgreSQL-Datenbank mit den Backend-Diensten, einschließlich der Entwicklung von benutzerdefinierten Erweiterungen für spezifische Geschäftslogik.
 
-Junior Backend Entwickler, eComzone (2015-2017)
+**Junior Softwareentwickler, SoftwareLab GmbH (2016–2018)**
+- Unterstützung bei der Wartung und Verbesserung eines Enterprise-Software-Systems.
+- Implementierung von Skripten zur Automatisierung von Build- und Deployment-Prozessen, was die Effizienz des Entwicklungsteams steigerte.
+- Mitarbeit an der Entwicklung einer RESTful API für die Integration mit Drittanbieter-Diensten.
 
-* Führe Code-Rückgaben durch und unterstütze den Entwicklungsprozess
-* Arbeite an der Implementierung von Datenbank-Schnittstellen für eine neue Einkaufsanwendung
-* Beteilige mich an der Optimierung von Skalierbarkeit und Leistung
+### Technische Fähigkeiten
 
-Bildung:
+- **Programmiersprachen:** Go (Fortgeschritten), Python, C++
+- **Datenbanken:** PostgreSQL (Erfahren), MySQL, MongoDB
+- **Architekturen:** Microservices, gRPC, RESTful APIs
+- **Tools:** Docker, Kubernetes, Git, Jenkins
 
-* Hochschulabschluss in Informatik, Universität Berlin (2015)
+### Bildung
 
-Fachkenntnisse:
+**Bachelor of Science in Informatik, Technische Universität Berlin (2012–2016)**
+- Abschlussarbeit: "Effiziente Datenverarbeitung in verteilten Systemen mit Go"
 
-* Programmiersprachen: Go, C, Java
-* Datenbankmanagement: PostgreSQL, MongoDB
-* Netzwerktechnologie: TCP/IP, HTTP/1.1
-* Mikroservices-Architektur
-* gRPC-Schnittstellen
+### Projekte
 
-Projekte:
+**E-Commerce-Plattform-Migration**
+- Leitete ein Projekt zur Migration einer E-Commerce-Plattform zu einer modernen Microservices-Architektur.
+- Durch die Einführung von gRPC-Kommunikation und der Optimierung von Datenbankvorgängen wurde die Leistung um 30% gesteigert und die Systemausfallzeiten reduziert.
 
-* Implementierung einer Go-Bibliothek für eine neue Datenbank-Query-Sprache
- + Entwickelte ein 1000-basiertes Framework um die Komplexität von Abfragen zu reduzieren
- + Stelle sicher, dass die Library für verschiedene Databases kompatibel ist
-
-* Einrichtung eines PostgreSQL-Weltraums für eine Cloud-provider-Funktion
- + Beteilige mich bei der Auswahl und Konfiguration des optimalen Postgres-Clusters
- + Implementierung von automatischer Backups und Replication
+**Open-Source-Beiträge**
+- Aktiver Beitragender zu mehreren Open-Source-Projekten im Go-Ökosystem, insbesondere in den Bereichen Web-Frameworks und Datenbank-Tools.

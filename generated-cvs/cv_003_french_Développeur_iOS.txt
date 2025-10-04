@@ -1,39 +1,38 @@
-**Thomas Dupont**
+**Thomas Dubois**
 
-**Professionnel Summary**
-Développeur expert en Swift et ingénieur de l'expérience utilisateur, avec une passion pour créer des produits innovants et robustes. Auteur certifié TestFlight. Capacité à travailler efficacement en équipe pour développer et livrer des solutions complexes.
+Développeur iOS passionné, expert en programmation Swift et en création d'interfaces utilisateur innovantes. Fort d'une expérience de 5 ans dans le développement de logiciels, je suis spécialisé dans la conception d'expériences utilisateur fluides et esthétiques sur la plateforme iOS.
 
-**Expérience Professionnelle**
+## Expérience Professionnelle
 
-* **Développeur iOS**
-   - Ex-Apple Inc. (2020-2023)
-     - Conception, développement, test et déplacement de produits sur TestFlight
-     - Amélioration continue de la qualité et efficacité du code
-     - Collaboration avec les équipes de design, marketing et production
-* **Ingénieur**
-   - StartupX (2018-2020)
-     - Conception et développement d'éléments de base pour des produits de pointe en Swift et SwiftUI
-     - Implémentation de fonctionnalités innovantes sur TestFlight
-     - Collaboration avec les équipes de produit et marketing pour améliorer les expériences utilisateur
-*   **Développeur Junior**
-     - Entreprise X (2016-2018)
-         - Acquisition d'expertise en Swift, Xcode et principes de programmation objet
-         - Conception et développement de prototypes avec SwiftUI
-         - Intégration dans les équipes de test de qualité pour identifier les bugs système
+**Développeur iOS Senior, Technovate Labs (2021-présent)**
+- Conduit la conception et le développement d'une suite d'outils iOS pour la gestion de projets, améliorant l'efficacité de l'équipe de 25%.
+- Implémenté un système de notifications push en temps réel, augmentant l'engagement des utilisateurs de 30%.
+- Assuré la formation et le mentorat des nouveaux développeurs sur les meilleures pratiques Swift et SwiftUI.
 
-**Compétences Techniques**
+**Ingénieur Logiciel, SwiftTech Innovations (2018-2021)**
+- Collaboré avec une équipe agile pour développer et lancer plusieurs applications iOS, atteignant des notes élevées sur l'App Store.
+- Créé des interfaces utilisateur intuitives et visuellement attrayantes en utilisant SwiftUI, améliorant l'expérience utilisateur globale.
+- Optimisé le code pour améliorer les performances et la stabilité des applications.
 
-*   Programmation : Swift 5.x
-*   Gestion de la interface utilisateur : SwiftUI
-*   Développement d'expérience utilisateur: Présence sur TestFlight pour déplacement et expérimentation régulière.
-*   Logiciels intégrés : Xcode
-*   Frameworks et bibliothèques : Core Data, Realm et les meilleures pratiques de développement Swift
+**Développeur iOS Junior, SoftCode Solutions (2017-2018)**
+- Aidé à la conception et à la mise en œuvre d'une application iOS pour le suivi des dépenses, avec des fonctionnalités de synchronisation cloud.
+- Travaillé sur l'intégration de services tiers pour l'authentification et les notifications.
 
-**Éducation**
+## Compétences Techniques
+- **Swift** : Expertise dans la programmation Swift, y compris la conception de modèles de données et l'implémentation de fonctionnalités complexes.
+- **SwiftUI** : Création d'interfaces utilisateur attrayantes et réactives, maîtrisant les principes de design adaptatif.
+- **Xcode** : Maîtrise de l'environnement de développement, y compris le débogage, le profilage et la gestion de projets.
+- **TestFlight** : Expérience dans la gestion de tests bêta et la collecte de commentaires utilisateurs.
+- Connaissances en Git, RESTful APIs, et intégration de services cloud.
 
-- École d'ingénieur spécialisée en informatique (2015-2016)
+## Formation
+**Université de Technologie Numérique, Licence en Informatique (2013-2017)**
+- Spécialisation en développement de logiciels et systèmes d'exploitation.
+- Projet de fin d'études sur l'optimisation de l'expérience utilisateur dans les applications iOS.
 
-**Projets Personnels**
+## Projets
+**SmartHome Hub (2022)**
+- Développement d'une application iOS pour contrôler et automatiser les appareils domestiques intelligents, avec une interface utilisateur personnalisable.
 
-*   Développement d'un jeu avec SwiftUI en utilisant les dernières features, ce qui s'est révélé être une opportunité de développement innovante et de création artisanale pour l'expérience utilisateur.
-*   Amélioration continue du code avec des tests unitaires et de integration automatisés via Swift Package Manager.
+**iHealth Tracker (2019)**
+- Conception et implémentation d'une application de suivi de santé, incluant des graphiques de données et des rappels personnalisés.

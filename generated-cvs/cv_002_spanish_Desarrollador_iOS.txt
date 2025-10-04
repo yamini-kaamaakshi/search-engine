@@ -1,39 +1,37 @@
-**Name:** Carlos Alberto Pérez García
+## CV - Álvaro Rodríguez Ruiz
 
-**Professional Summary:**
-Experiencia y habilidades en desarrollo de software especializado en plataformas iOS, con fuerte enfoque en la implementación de sistemas con Swift, CoreData y Combine. He trabajado en proyectos que requieren una solución eficiente y escalable, utilizando las últimas tecnologías disponibles.
+### Resumen Profesional
+Desarrollador iOS con más de 5 años de experiencia, especializado en la creación de soluciones innovadoras y eficientes para la plataforma iOS. Experto en Swift, con habilidades en la integración de frameworks y la optimización de rendimiento. Comprometido con el desarrollo de software de alta calidad, garantizando una experiencia de usuario fluida y segura.
 
-**Work Experience:**
+### Experiencia Laboral
 
-* **Desarrollador iOS**, TechMango (Junio 2020 - actualidad)
- + Desarrollo de software para iOS con Swift y CoreData, lo que me permite crear experiencias de usuario personalizadas y seguras.
- + Implementación de arquitecturas de datos escalables utilizando el SDK de iOS y la biblioteca Combine.
- + Colaboración estrecha con la equipo de diseño para garantizar una experiencia del usuario coherente y atractiva.
-* **Ingeniero Swift**, NovaTech (Septiembre 2018 - Junio 2020)
- + Diseño y desarrollo de software de alta calidad utilizando Swift, CoreData y iOS SDK.
- + Implementación de sistemas de gestión de datos y seguridad para aplicaciones corporativas.
- + Participación en la formación y mentoría de nuevos empleados para asegurar una transición suave al equipo.
-* **Ayudante de Desarrollo**, SoftZone (Abril 2017 - Septiembre 2018)
- + Asistencia técnica en el desarrollo de software de varias áreas, incluyendo iOS, Android y web.
- + Creación y mantenimiento de sistemas de pruebas automatizadas utilizando herramientas como Appium.
+**Desarrollador iOS Senior, TecnoSoft (2022-presente)**
+- Lideré el rediseño y refactorización de la arquitectura de la aplicación principal de la empresa, mejorando la eficiencia y la escalabilidad.
+- Implementé nuevas características utilizando Combine para la gestión de flujos de datos asíncronos, asegurando una experiencia de usuario receptiva.
+- Formé y mentoreé a un equipo de 3 desarrolladores junior, mejorando sus habilidades en Swift y buenas prácticas de programación.
 
-**Technical Skills:**
+**Ingeniero de Software iOS, DevTech Solutions (2019-2022)**
+- Colaboré en el desarrollo de múltiples proyectos para clientes del sector financiero, incluyendo aplicaciones de banca móvil y gestión de inversiones.
+- Me encargué de la integración de APIs y servicios de terceros, asegurando la seguridad y privacidad de los datos.
+- Optimicé el rendimiento de las aplicaciones utilizando técnicas de gestión de memoria y profiling.
 
-* Desarrollo en Swift
-* Uso del SDK de iOS para implementar funcionalidades complejas
-* Implementación de arquitecturas de datos escalables con CoreData
-* Uso de la biblioteca Combine para manejar flujos de datos y eventos
-* Conocimiento de otros lenguajes como Python, Java y C++
-* Conocimiento de bases de datos relacionales (MySQL, PostgreSQL) y NoSQL (MongoDB)
+**Desarrollador iOS, StartApp (2017-2019)**
+- Participé en el desarrollo de una aplicación de realidad aumentada para el sector educativo, utilizando tecnologías de vanguardia como ARKit.
+- Creé interfaces de usuario intuitivas y atractivas, siguiendo las directrices de diseño de Apple.
+- Implementé funcionalidades de persistencia de datos utilizando CoreData, garantizando la integridad y seguridad de la información.
 
-**Education:**
+### Habilidades Técnicas
+- **Swift:** Experto en el lenguaje, con dominio de conceptos avanzados como protocolos, closures, y programación funcional.
+- **iOS SDK:** Profundo conocimiento de los frameworks nativos, incluyendo UIKit, Foundation, y CoreGraphics.
+- **CoreData:** Experiencia en la gestión de bases de datos relacionales en iOS, utilizando CoreData para almacenamiento local.
+- **Combine:** Implementación de flujos de datos reactivos y manejo de asincronía en aplicaciones iOS.
+- **Control de Versiones:** Git, GitHub, GitLab.
+- **Herramientas de Desarrollo:** Xcode, Fastlane, CocoaPods.
 
-* Licenciatura en Informática, Universidad Nacional Autónoma de México (2017-2021)
- + Estudios generales en teoría de la computación, sistemas operativos y programación.
+### Educación
+**Universidad de Tecnología e Innovación, 2015-2017**
+Grado en Ingeniería de Software, con especialización en Desarrollo Móvil.
 
-**Projects:**
-
-* **Ejemplo de Arquitectura de Datos con CoreData y Combine**: Desarrollo de un ejemplo básico de una arquitectura de datos escalable utilizando CoreData y Combine para manejar flujos de datos y eventos.
- + Utilizó tecnologías como Swift, iOS SDK, CoreData y la biblioteca Combine para crear una solución eficiente.
-* **Desafío de Desarrollo de Software**: Implementación de un sistema de gestión de usuarios en un proyecto basado en un sistema web con Swift y CoreData.
- + Requisitó la implementación de funcionalidades complejas como autenticación y autorización, utilizando el SDK de iOS.
+### Proyectos Destacados
+- **iLearnAR:** Aplicación de realidad aumentada para educación interactiva, ganadora del premio al Mejor Proyecto de Realidad Aumentada en la conferencia DevCon 2018.
+- **FinTech Suite:** Conjunto de aplicaciones para el sector financiero, incluyendo una app de inversiones y una plataforma de pagos móviles.

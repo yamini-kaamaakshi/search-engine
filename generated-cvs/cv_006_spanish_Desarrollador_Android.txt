@@ -1,39 +1,46 @@
-**Nombre completo:** Juan Pablo García Hernández
+# Juan Carlos García Rodríguez
 
-**Resumen profesional:**
-Soy un desarrollador de software con experiencia en desarrollo de aplicaciones para Android utilizando Kotlin y otros frameworks relacionados. He trabajado en proyectos que requieren la integración de tecnologías como Retrofit y Dagger para mejorar la escalabilidad y seguridad de las soluciones. Me enfoco en la creación de soluciones eficientes y escalables para empresas y startups.
+## Resumen Profesional
 
-**Experiencia laboral:**
+Desarrollador Android experimentado con más de cinco años de trayectoria en la creación de soluciones innovadoras utilizando Kotlin y el ecosistema Android. Poseo un profundo conocimiento de la arquitectura de software y un historial comprobado en el diseño e implementación de aplicaciones robustas y escalables. Mi enfoque está en escribir código limpio y eficiente, y en garantizar una experiencia de usuario excepcional.
 
-* **Desarrollador Android**, Etiqa Technologies (2018-2022)
- + Desarrollé aplicaciones para Android utilizando Kotlin, específicamente focándome en la creación de interfases de usuario intuitivas y la integración con servicios web utilizando Retrofit.
- + Implementé la arquitectura modular utilizando Dagger para mejorar la escalabilidad y mantenibilidad de las soluciones.
-* **Ingeniero de software**, NeoTech (2016-2018)
- + Colaboré en el desarrollo de proyectos de código abierto utilizando Android SDK y Kotlin, específicamente enfocado en la creación de bibliotecas de terceros.
- + Realizé pruebas unitarias y de integración utilizando JUnit y Espresso para garantizar la calidad del software.
-* **Internado**, Tech Innovations (2015)
- + Realicé el desarrollo de una aplicación para Android utilizando Android SDK y Java, enfocado en la creación de una interfaz de usuario intuitiva y fácil de usar.
+## Experiencia Laboral
 
-**Habilidades técnicas:**
+**Desarrollador Sénior Android, TechSolutions Inc. (2022-presente)**
+- Lideré el desarrollo de una plataforma de entretenimiento en streaming para Android TV, alcanzando un alto rendimiento y una interfaz intuitiva.
+- Implementé arquitecturas limpias utilizando Dagger para la gestión de dependencias, mejorando la modularidad y la mantenibilidad del código.
+- Colaboré en la transición del equipo a un enfoque de desarrollo ágil, mejorando la eficiencia del proceso.
 
-* Lenguaje de programación Kotlin
-* Android SDK
-* Retrofit
-* Dagger
-* Spring Boot
-* JUnit
-* Espresso
+**Ingeniero de Software Android, SoftTech Innovations (2019-2022)**
+- Desarrollé varias aplicaciones de consumo masivo con un enfoque en la experiencia de usuario, alcanzando millones de descargas en la Google Play Store.
+- Trabajé con APIs REST utilizando Retrofit para la comunicación con servidores backend, garantizando una gestión eficiente de datos.
+- Participé en la adopción de prácticas de integración continua, mejorando la calidad del código y reduciendo errores.
 
-**Educación:**
+**Desarrollador Android Junior, DroidDev Studios (2017-2019)**
+- Formé parte de un equipo ágil desarrollando aplicaciones Android nativas desde cero.
+- Adquirí experiencia en el uso del Android SDK, creando interfaces atractivas y funcionales.
+- Contribuí a la implementación de pruebas unitarias y de interfaz, asegurando la calidad de las aplicaciones.
 
-* **Universidad Nacional Autónoma de México (UNAM)**, Licenciatura en Ciencias de la Computación (2015)
- + Estudié en el departamento de Ingeniería de Software y me especialicé en la creación de aplicaciones para Android.
+## Habilidades Técnicas
 
-**Proyectos relevantes:**
+- **Kotlin:** Experto en el lenguaje, con dominio de conceptos avanzados como corrutinas, extensiones y arquitectura MVVM.
+- **Android SDK:** Profunda comprensión de los componentes y herramientas del SDK, incluyendo Activities, Fragments, y gestión de ciclo de vida.
+- **Retrofit:** Experiencia en la creación de interfaces RESTful y gestión de peticiones asíncronas.
+- **Dagger:** Conocimiento práctico en la implementación de la inyección de dependencias, promoviendo código modular y testeable.
+- Herramientas: Git, Gradle, JUnit, Android Studio.
 
-* **Desarrollo de una biblioteca de terceros para Android**, NeoTech (2017-2018)
- + Creé una biblioteca de terceros para Android utilizando Kotlin que se enfoca en la creación de una interfaz de usuario intuitiva y fácil de usar.
- + Integré la biblioteca con servicios web utilizando Retrofit y implementé la arquitectura modular utilizando Dagger.
-* **Desarrollo de una aplicación de gestión de proyectos**, Etiqa Technologies (2020-2022)
- + Desarrollé una aplicación para Android que permite a los usuarios gestionar proyectos y asignar tareas de manera efectiva.
- + Utilicé Kotlin y Retrofit para la integración con servicios web y Dagger para la implementación de la arquitectura modular.
+## Educación
+
+**Ingeniería en Sistemas, Universidad Técnica Nacional (2013-2017)**
+- Título: Ingeniero en Sistemas Computacionales.
+- Proyecto de graduación: "Optimización de rutas de transporte público utilizando algoritmos genéticos".
+
+## Proyectos Destacados
+
+**SmartHome Controller (2021)**
+- Desarrollé una aplicación Android para controlar dispositivos IoT en el hogar, permitiendo la gestión remota de luces, termostatos y dispositivos de seguridad.
+- Utilicé Retrofit para comunicarse con un servidor central, garantizando una experiencia de usuario en tiempo real.
+
+**Android Widgets Suite (2018)**
+- Creé una colección de widgets personalizados para Android, incluyendo gráficos interactivos y menús contextuales.
+- Este proyecto demostró mi capacidad para diseñar interfaces intuitivas y personalizables.

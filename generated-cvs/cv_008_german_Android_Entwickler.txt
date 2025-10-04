@@ -1,42 +1,37 @@
-Maximilian Schneider
+## Benjamin Maier
 
-**Professionelle Zusammenfassung**
-Ich bin ein erfahrener Entwickler mit Fokus auf Android-Dienste, der sich in den Schreibstilen Material Design und MVVM auszeichnet. Mit umfangreicher Erfahrung in Kotlin und Android Studio habe ich mich auf die Erstellung komplexer und leistungsfähiger Dienste spezialisiert. Ich bin für die Implementierung von Robustheit, Sicherheit und skalierbarkeit an den Diensten.
+### Softwareentwickler – Android und Kotlin-Experte
 
-**Berufserfahrung**
+Ein engagierter und erfahrener Android-Entwickler mit einem starken Hintergrund in der Entwicklung robuster und skalierbarer Android-Anwendungen. Fachkenntnisse in Kotlin, Android Studio und modernen Design-Prinzipien, mit dem Ziel, benutzerfreundliche und innovative Lösungen zu schaffen.
 
-* **Android-Entwickler**, Team X GmbH (2019 - 2022)
- + Entwickelte komplexe Android-Dienste in Kotlin, wobei ich mich auf Material Design und MVVM konzentrierte
- + Implementierte Sicherheitsfunktionen und Fehlerbehandlungsmuster für verbesserte Robustheit der Dienste
- + Arbeitete eng mit dem Entwicklungsteam zusammen, um sicherzustellen, dass die Dienste den Anforderungen der Kunden entsprachen
-* **Kotlin-Entwickler**, Tech Solutions (2016 - 2019)
- + Führte Entwicklungsprojekte in Kotlin durch und implementierte neue Features für verschiedene Systeme
- + Prüfte die Funktionalität der Codebase auf Richtigkeit, Lesbarkeit und Konsistenz
- + Worked alongside the QA team to ensure stable and reliable releases of new software
-* **Freiberufler**, Solo (2015 - 2016)
- + Führte verschiedene Entwicklungsprojekte in Kotlin und Java durch
- + Realisierte neue Features und Verbesserungen für bestehende Systeme
+### Berufserfahrung
 
-**Technische Fähigkeiten**
+#### Senior Android Entwickler, TechInnovate GmbH, 2021–heute
+- Führung eines Teams von Entwicklern bei der Gestaltung und Implementierung von Android-Lösungen für verschiedene Branchen, einschließlich FinTech und E-Commerce.
+- Einführung von MVVM-Architekturmustern, um den Code-Qualitäts- und Wartbarkeitsstandards zu entsprechen.
+- Zusammenarbeit mit UX-Designern, um ein nahtloses und ansprechendes Benutzererlebnis mit Material Design-Prinzipien zu schaffen.
 
-* Kotlin
-* Android Studio
-* Material Design
-* MVVM
-* Robustheit und Sicherheit
-* Scalerfähigkeit
-* Datenbanken (Room Persistence Library)
-* Webdienste (Ktor)
+#### Android Entwickler, SoftTech Solutions, 2018–2021
+- Entwicklung und Wartung von Android-Anwendungen für eine Reihe von Kunden, mit Schwerpunkt auf der Verbesserung der Benutzerfreundlichkeit und Leistung.
+- Migration des Code-Stacks von Java zu Kotlin, was zu einer Steigerung der Produktivität und einer besseren Code-Lesbarkeit führte.
+- Implementierung von Test-Driven Development (TDD) Praktiken, um die Code-Qualität und -Stabilität sicherzustellen.
 
-**Ausbildung**
+#### Junior Programmierer, CodeCrafters, 2016–2018
+- Begonnen als Trainee-Entwickler und schnell aufgestiegen, um Android-Projekte zu unterstützen.
+- Zusammenarbeit mit Senior-Entwicklern bei der Gestaltung und Implementierung von Android-Schnittstellen, um die Anforderungen der Kunden zu erfüllen.
+- Beteiligung an der Code-Überprüfung und an der Gewährleistung der Einhaltung der branchenüblichen Praktiken.
 
-* Bachelor's in Informatik, Universität der Künste Berlin (2014 - 2018)
+### Technische Fähigkeiten
+- **Programmiersprachen:** Kotlin (fortgeschritten), Java (gut), Python (Grundkenntnisse)
+- **Entwicklungsumgebungen:** Android Studio (Experte), IntelliJ IDEA (fortgeschritten)
+- **Design-Frameworks:** Material Design, Jetpack Compose
+- **Architekturmuster:** MVVM, MVP
+- **Version Control:** Git, GitHub
 
-**Projekte**
+### Ausbildung
+- Bachelor of Science in Informatik, Technische Universität München, 2014–2018
+- Zertifizierung in Android-Entwicklung, Google Developer Academy, 2017
 
-* **Dienst für die Überwachung von Fitnessgeräten**: Erstellung eines Android-Dienstes mit Material Design und MVVM-Frameworks zur Überwachung von Fitnessgeräten.
- + Implementierte Funktionen wie Registrierung, Login und Zustandsumfang
- + Integrierte den Datenbankmechanismus Room Persistence Library für die Speicherung der Datan
-
-* **Dienst für die Anzeige von Sportwettbewerben**: Entwickelte einen Android-Dienst mit Kotlin und Material Design für das Anzeigen von Sportwettbewerben
- + Fügte Funktionen wie Navigation durch Wettbewerbe und Verwaltung des Wettbewerbsscalars hinzu
+### Projekte
+- **E-Commerce-Plattform:** Entwicklung einer Android-Anwendung für einen Online-Marktplatz, der eine nahtlose Einkaufserfahrung mit personalisierten Empfehlungen bietet. Umsetzung von Filtern und Suchfunktionen, um ein effizientes Produktdurchsuchen zu ermöglichen.
+- **FinTech-App:** Kollaboration mit einem FinTech-Startup, um eine sichere Android-Anwendung für mobiles Banking zu entwickeln, die Geldtransfers und Kontoverwaltung ermöglicht. Implementierung von Verschlüsselungsmaßnahmen, um die Datensicherheit zu gewährleisten.

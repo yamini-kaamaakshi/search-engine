@@ -1,50 +1,48 @@
-**Rohan Rajesh**
+[Your Name]
+Software Developer | Node.js Enthusiast
 
-**Professional Summary:**
-Highly skilled Backend Developer with expertise in Node.js, Express, and PostgreSQL. Proven track record of delivering scalable and efficient backend solutions. Strong passion for Docker containerization and DevOps practices.
+Professional Summary:
+A dedicated software developer with a passion for building scalable and efficient server-side applications. Skilled in designing and developing robust backend systems using Node.js and related technologies. Eager to contribute to innovative projects and drive technological advancements.
 
-**Work Experience:**
+Work Experience:
 
-**Backend Developer, TechCorp (2020 - 2022)**
+Senior Node.js Developer | ABC Tech Solutions | 2021–Present
+- Designed and implemented a high-performance RESTful API using Node.js and Express, reducing response times by 20%.
+- Integrated PostgreSQL database with the backend system, optimizing data retrieval and storage for a large-scale e-commerce platform.
+- Containerized the application using Docker, ensuring seamless deployment and environment consistency.
+- Mentored junior developers and conducted code reviews to maintain high code quality.
 
-- Designed and implemented RESTful APIs using Express and Node.js
-- Collaborated with cross-functional teams to develop and deploy data-driven applications on PostgreSQL databases
-- Implemented continuous integration and delivery pipelines using Docker containers and Jenkins
+Node.js Engineer | XYZ Software | 2018–2021
+- Developed and maintained backend services for a social networking platform, supporting over 500,000 monthly active users.
+- Implemented authentication and authorization mechanisms using JSON Web Tokens (JWT) to ensure secure user data access.
+- Collaborated with the frontend team to define and implement efficient API endpoints.
+- Conducted performance tuning and load testing to ensure system scalability.
 
-**Node.js Engineer, NovaSpire Solutions (2018 - 2020)**
+Backend Developer | StartTech Innovations | 2016–2018
+- Worked as part of an agile team to develop a content management system using Node.js and PostgreSQL.
+- Implemented data validation and error handling mechanisms to ensure data integrity.
+- Created and maintained database schemas, ensuring optimal database performance.
 
-- Developed and maintained a complex Node.js-based web application with multiple microservices
-- Optimized server performance using caching mechanisms and load balancing techniques
-- Worked closely with the QA team to identify and resolve issues
+Technical Skills:
+- Node.js: Proficient in building server-side applications, event-driven programming, and handling asynchronous I/O.
+- Express.js: Experienced in designing RESTful APIs, middleware usage, and routing.
+- PostgreSQL: Skilled in database design, query optimization, and data modeling.
+- Docker: Knowledgeable in containerization, image creation, and deployment using Docker Compose.
+- Version Control: Git, GitHub, and GitLab for collaboration and version management.
+- Testing: Familiar with Jest and Mocha for unit and integration testing.
 
-**Frontend Developer, SparkLabs (2016 - 2018)**
+Education:
+Bachelor of Computer Science, [University Name], [Graduation Year]
+- Relevant Courses: Software Engineering, Database Management, Computer Networks.
+- Thesis: "Optimizing Node.js Performance for High-Traffic Web Applications."
 
-- Contributed to the development of a cutting-edge React-based frontend for a popular e-commerce platform
-- Collaborated with the backend team to ensure seamless integration between frontend and backend layers
-- Implemented responsive design patterns using CSS and HTML5
+Projects:
+"E-commerce Backend System"
+- Developed a full-stack e-commerce platform using Node.js, Express, and PostgreSQL, featuring product management, shopping cart functionality, and secure payment integration.
+- Implemented real-time inventory updates and order tracking.
 
-**Technical Skills:**
+"Social Network API"
+- Created a RESTful API for a social media platform, supporting user profiles, posts, and comments.
+- Integrated third-party authentication services for social logins.
 
-* Programming languages: JavaScript (ES6+), TypeScript
-* Frameworks: Express, Node.js
-* Databases: PostgreSQL, MongoDB
-* Containerization: Docker, Kubernetes
-* Operating Systems: Linux (Ubuntu), Windows Server
-* Agile methodologies: Scrum, Kanban
-* Version control systems: Git
-
-**Education:**
-
-* Bachelor of Science in Computer Science, XYZ University (2016)
-
-**Projects:**
-
-* **E-commerce Platform:** Built a full-stack e-commerce platform using Node.js, Express, and PostgreSQL. Implemented features such as product categorization, search functionality, and customer management.
-* **Blog Platform:** Developed a blog platform using React, Node.js, and PostgreSQL. Designed a responsive UI and implemented user authentication and comment moderation systems.
-
-**Certifications:**
-
-* Certified Scrum Master (CSM)
-* Docker Certified Associate (DCA)
-
-Note: The information provided is fictional and for demonstration purposes only.
+References available upon request.

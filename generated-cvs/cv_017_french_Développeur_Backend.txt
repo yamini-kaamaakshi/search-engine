@@ -1,45 +1,41 @@
-Nom : Léon Richard
+# Nicolas Dupont
 
-Professional Summary :
-Développeur expérimenté avec une solide expertise en Java, Spring Boot et technologies Open Source, ayant développé des solutions efficaces pour les grandes entreprises. Aventure dans l'écriture de code réactif et optimisé à l'aide du framework Spring Boot. Connaissance approfondie de MongoDB et expérimentation avec Kubernetes.
+## Développeur Backend expérimenté avec une passion pour la création de solutions logicielles évolutives et robustes. Expert en conception d'architectures backend, en utilisant Java et les technologies associées pour fournir des systèmes de haute performance.
 
-Work Experience :
+## Expérience professionnelle
 
-Ingénieur Développeur
-BullitSoft SAS (2018 - 2022)
+**Développeur Senior Backend, TechPro Solutions (2021 - présent)**
+- Conception et développement d'une plateforme de gestion de données en utilisant Spring Boot, permettant une intégration transparente avec des bases de données MongoDB.
+- Mise en place d'une architecture microservices pour améliorer l'évolutivité et la maintenabilité du système.
+- Gestion du déploiement de conteneurs Docker et Kubernetes pour assurer un environnement de production stable et fiable.
 
-- Responsabilités : Maintien des systèmes informatiques en continu pour une grande base client, connaissance approfondie de la gestion de bases de données MongoDB. Intégration d’une bibliothèque Java côté client.
-- Contribution à un projet impliquant l’élaboration d’un système de gestion de livres, en utilisant Spring Boot.
+**Ingénieur Logiciel, WebTech Innovations (2018 - 2021)**
+- Collaboration avec l'équipe backend pour développer des API RESTful en Java, assurant la sécurité et la performance des transactions financières.
+- Implémentation de solutions de gestion de données NoSQL avec MongoDB pour gérer des ensembles de données complexes.
+- Participation à la migration de l'infrastructure vers Kubernetes, améliorant ainsi la gestion des ressources et la scalabilité.
 
-Développeur Junior
-TechSolutions (2015 - 2018)
+**Développeur Junior, Software Solutions Inc. (2016 - 2018)**
+- Développement et maintenance d'applications backend Java pour divers projets clients.
+- Travail en étroite collaboration avec l'équipe de développement frontend pour intégrer les fonctionnalités backend.
+- Introduction aux pratiques DevOps et à l'automatisation du déploiement.
 
-- Responsabilités : Conception et développement d'un système web en utilisant Java et Spring. Gestion des tâches et suivis de la qualité du code.
-- Participation à l'équipe pour la mise en place d'une solution d'automatisation de workflow à l'aide d'un script dédié.
+## Compétences techniques
+- **Langages** : Java (expert), Python (intermédiaire)
+- **Frameworks** : Spring Boot, Spring MVC, Hibernate
+- **Bases de données** : MongoDB, MySQL
+- **Conteneurs et Orchestration** : Docker, Kubernetes
+- **Outils** : Git, Jenkins, Maven
 
-Développeur Étudiant
-Futurium Academy (2012 - 2015)
+## Formation
+**Licence Informatique, Université de Lyon (2013-2016)**
+- Spécialisation en développement logiciel et architectures distribuées.
+- Projet de fin d'études sur la mise en place d'un système de recommandation distribué.
 
-- Responsabilités : Conception et développement de plusieurs logiciels personnels en utilisant Java. Gestion des projets avec gestion de versions Git.
-- Organisation de conférences sur la programmation objet dans les établissements scolaires.
+## Projets
+**Système de gestion de contenu (CMS)**
+- Développement d'un CMS personnalisé en Java et Spring Boot pour une startup de médias, permettant une gestion efficace du contenu et des utilisateurs.
+- Intégration avec MongoDB pour un stockage flexible et évolutif.
 
-Education :
-
-Diplôme Supérieur en Informatique de l'Université des Métiers (UdM), 2015
-
-Technical Skills :
-
-* Langages de programmation : Java
-* Frameworks et bibliothèques : Spring Boot, MongoDB
-* Gestion de version : Git
-* Plateformes Open Source : Kubernetes
-* Compétence en développement concurrente : Eclipse, IntelliJ IDEA
-
-Projects :
-
-- Projet d'un outil de gestion de projet basé sur Spring Boot. L'outil est conçu pour faciliter la prise en charge des tâches et les rappels du personnel.
-  - Rôle : Développeur
-  - Durée : Juin 2019 - Février 2022
-- Conception d'une application web utilisant MongoDB. L'application permet aux utilisateurs de créer et de partager leurs propres collections de données.
-
-Certifications : Certificat en Programmation Java (Coursera)
+**Plateforme d'analyse de données**
+- Conception et implémentation d'une plateforme d'analyse de données en temps réel pour une entreprise de commerce électronique, utilisant Spring Boot et MongoDB.
+- Création de pipelines de traitement de données pour fournir des insights en temps réel.

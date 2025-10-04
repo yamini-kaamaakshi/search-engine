@@ -1,42 +1,35 @@
-**Resumen**
+# CV - Álvaro Gómez de la Torre
 
-Tengo más de 5 años de experiencia en el desarrollo de soluciones web dinámicas utilizando Python y tecnologías como Django y Redis. Mi enfoque se centra en mejorar la escalabilidad y la seguridad de los sistemas backend. Estoy siempre buscando nuevas formas de mejorar mi habilidad para diseñar y implementar arquitecturas robustas.
+## Resumen Profesional
+Desarrollador backend con más de cinco años de experiencia en la creación de soluciones escalables y de alto rendimiento utilizando Python y su ecosistema. Poseo un sólido conocimiento en la arquitectura y desarrollo de aplicaciones web, destacando en el uso de frameworks como Django. Me apasiona trabajar en equipo y aportar soluciones innovadoras para superar desafíos técnicos.
 
-**Experiencia laboral**
+## Experiencia Laboral
 
-**Desarrollador Backend - Sociedad de Comunicaciones Telefónica (2018-2020)**
+**Desarrollador Senior, Empresa XYZ, 2022-presente**
+- Lideré la migración de la base de datos de la compañía a MySQL, mejorando la eficiencia y la seguridad de los datos.
+- Implementé una infraestructura de caché con Redis para optimizar la velocidad de respuesta de las API.
+- Desarrollé una plataforma de gestión de contenido utilizando Django, permitiendo una administración eficiente de recursos digitales.
 
-* Desarrollé varios componentes backend en Django que integraron la base de datos de MySQL con Redis para mejorar el rendimiento y la escalabilidad.
-* Implementé métodos de procesamiento de datos en serie utilizando Apache Beam, lo que mejoró significativamente la velocidad de los datos.
-* Collaboré en la creación de una API REST que proporcionó acceso a los datos a través de un cliente web.
+**Desarrollador Backend, StartUp Tech, 2020-2022**
+- Colaboré en el diseño e implementación de una plataforma de comercio electrónico utilizando Python y Django.
+- Gestioné la integración de sistemas de pago y seguridad, garantizando transacciones seguras.
+- Optimicé las consultas a la base de datos para mejorar el rendimiento general del sitio web.
 
-**Desarrollador Backend - Grupo Financiero Santander (2020-2022)**
+**Desarrollador Junior, Agencia Digital, 2018-2020**
+- Trabajé en el mantenimiento y actualización de diversos proyectos web basados en Django.
+- Participé en la creación de API RESTful para la integración con aplicaciones externas.
+- Realicé pruebas y depuración de código, garantizando la calidad y estabilidad de los sistemas.
 
-* Diseñé y desarrollé varios sistemas backend utilizando Python y Django, lo que me permitió trabajar con múltiples bases de datos y sistemas.
-* Optimizé la seguridad de los sistemas implementando métodos de autenticación y autorización usando OAuth y JWT.
-* Trabajé en la creación de un sistema de notificaciones en tiempo real utilizando Redis para mejorar la experiencia del usuario.
+## Habilidades Técnicas
+- **Lenguajes**: Python (experto), C/C++, JavaScript.
+- **Frameworks**: Django (avanzado), Flask, FastAPI.
+- **Bases de Datos**: MySQL (avanzado), PostgreSQL, Redis (intermedio).
+- **Herramientas**: Git, Docker, AWS (básico).
 
-**Desarrollador Backend - Consultoría Tecnológica (2022-Presente)**
+## Formación Académica
+**Ingeniería en Informática, Universidad de Madrid, 2014-2018**
+- Proyectos finales destacados: "Sistema de Recomendación de Contenido" y "Plataforma de Aprendizaje Automático".
 
-* Asistí a varias empresas en el desarrollo de soluciones web personalizadas utilizando tecnologías como Django y Python.
-* Implementé métodos de monitoreo y análisis de rendimiento para mejorar la eficiencia de los sistemas.
-* Desarrollé varios componentes backend que mejoraron la escalabilidad y la seguridad de las plataformas.
-
-**Habilidades técnicas**
-
-* Lenguajes de programación: Python
-* Frameworks web: Django
-* Bases de datos: MySQL, Redis
-* Tecnologías adyacentes:
- + Apache Kafka (desarrollo y configuración)
- + Elasticsearch (desarrollo y configuración)
- + Docker (administración y depuración)
-
-**Educación**
-
-* Licenciatura en Ciencias Computacionales, Universidad Complutense de Madrid (2015-2019)
-
-**Proyectos relevantes**
-
-* Desarrollo de un sistema de recomendaciones para productos utilizando Django y MySQL.
-* Implementación de un sistema de notificaciones en tiempo real utilizando Redis y Python.
+## Proyectos Destacados
+- **E-commerce de Moda**: Desarrollo de una plataforma de comercio electrónico para una marca de moda, incluyendo gestión de inventario, carrito de compras y sistema de recomendaciones personalizadas.
+- **Blog de Viajes**: Creación de un blog dinámico con funcionalidades avanzadas de búsqueda y filtrado, utilizando Django y MySQL.

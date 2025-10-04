@@ -1,14 +1,41 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { v4 as uuidv4 } from 'uuid';
-import { qdrantClient, COLLECTION_NAME, initializeCollection } from '../src/lib/qdrant';
-import { generateOllamaEmbedding } from '../src/lib/ollama-embeddings';
+import axios from 'axios';
+import FormData from 'form-data';
+import dotenv from 'dotenv';
+
+// Load environment variables
+dotenv.config({ path: path.join(process.cwd(), '.env.local') });
+
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000';
+
+async function uploadCV(filePath: string, filename: string): Promise<boolean> {
+  try {
+    const form = new FormData();
+    const fileStream = fs.createReadStream(filePath);
+    form.append('file', fileStream, filename);
+
+    const response = await axios.post(`${API_URL}/api/upload`, form, {
+      headers: {
+        ...form.getHeaders(),
+      },
+      maxContentLength: Infinity,
+      maxBodyLength: Infinity,
+    });
+
+    return response.data.success;
+  } catch (error) {
+    if (axios.isAxiosError(error)) {
+      console.error(`Error: ${error.response?.data?.error || error.message}`);
+    } else {
+      console.error(`Error:`, error);
+    }
+    return false;
+  }
+}
 
 async function uploadCVs() {
-  console.log('Starting CV upload to Qdrant...\n');
-
-  // Initialize collection
-  await initializeCollection();
+  console.log(`Starting CV upload to ${API_URL}...\n`);
 
   // Check for both test-cvs and generated-cvs directories
   const testCvsDir = path.join(process.cwd(), 'test-cvs');
@@ -49,90 +76,43 @@ async function uploadCVs() {
   let uploaded = 0;
   let failed = 0;
 
-  for (let i = 0; i < cvFiles.length; i++) {
-    const filename = cvFiles[i];
+  // Upload first 20 CVs for testing
+  const filesToUpload = cvFiles.slice(0, 20);
+
+  for (let i = 0; i < filesToUpload.length; i++) {
+    const filename = filesToUpload[i];
     const filepath = path.join(cvsDir, filename);
 
-    try {
-      console.log(`[${i + 1}/${cvFiles.length}] Processing: ${filename}`);
+    console.log(`[${i + 1}/${filesToUpload.length}] Uploading ${filename}...`);
 
-      // Read CV content
-      const content = fs.readFileSync(filepath, 'utf-8');
+    const success = await uploadCV(filepath, filename);
 
-      // Generate embedding using Ollama
-      console.log('  → Generating embedding...');
-      const embedding = await generateOllamaEmbedding(content);
-
-      console.log(`  → Embedding size: ${embedding.length}`);
-
-      // Store in Qdrant
-      console.log('  → Uploading to Qdrant...');
-      const documentId = uuidv4();
-
-      await qdrantClient.upsert(COLLECTION_NAME, {
-        wait: true,
-        points: [
-          {
-            id: documentId,
-            vector: embedding,
-            payload: {
-              filename: filename,
-              content: content,
-              type: 'cv',
-              uploadDate: new Date().toISOString(),
-            },
-          },
-        ],
-      });
-
+    if (success) {
       uploaded++;
-      console.log(`  ✓ Successfully uploaded\n`);
-
-      // Small delay to avoid overwhelming the system
-      await new Promise(resolve => setTimeout(resolve, 200));
-    } catch (error: any) {
+      console.log(`  ✓ Success\n`);
+    } else {
       failed++;
-      console.error(`  ✗ Failed: ${error.message}\n`);
+      console.log(`  ✗ Failed\n`);
     }
+
+    // Small delay to avoid overwhelming the server
+    await new Promise(resolve => setTimeout(resolve, 500));
   }
 
   console.log('\n' + '='.repeat(50));
   console.log('Upload Summary:');
-  console.log(`  Total CVs: ${cvFiles.length}`);
+  console.log(`  Total CVs: ${filesToUpload.length}`);
   console.log(`  Uploaded: ${uploaded}`);
   console.log(`  Failed: ${failed}`);
   console.log('='.repeat(50));
-
-  // Test search
-  console.log('\n🔍 Testing semantic search...\n');
-
-  const testQueries = [
-    'mobile developers',
-    'iOS developer with Swift experience',
-    'Android Kotlin engineer',
-    'backend developer with Python',
-    'frontend React developer',
-  ];
-
-  for (const query of testQueries) {
-    console.log(`Query: "${query}"`);
-    const queryEmbedding = await generateOllamaEmbedding(query);
-
-    const results = await qdrantClient.search(COLLECTION_NAME, {
-      vector: queryEmbedding,
-      limit: 3,
-      with_payload: true,
-    });
-
-    console.log(`  Found ${results.length} results:`);
-    results.forEach((result, idx) => {
-      const payload = result.payload as any;
-      console.log(`    ${idx + 1}. ${payload.filename} (score: ${result.score?.toFixed(4)})`);
-    });
-    console.log();
-  }
-
-  console.log('✓ Upload and testing complete!');
+  console.log('\n✓ Upload complete!');
+  console.log('\nYou can now test semantic search by visiting:');
+  console.log(`  ${API_URL}`);
+  console.log('\nTry searching for:');
+  console.log('  - "mobile developers"');
+  console.log('  - "iOS developer with Swift"');
+  console.log('  - "Android Kotlin engineer"');
+  console.log('  - "backend developer with Python"');
 }
 
 uploadCVs().catch(console.error);

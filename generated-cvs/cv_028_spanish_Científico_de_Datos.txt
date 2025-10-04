@@ -1,40 +1,37 @@
-**CV de Carlos Ramírez**
+# Pablo García, Científico de Datos
 
-**Resumen**
-Soy un científico de datos experimentado con más de 5 años de experiencia en el desarrollo y análisis de datos usando Python, PyTorch y scikit-learn. Tengo experiencia en la creación de modelos de aprendizaje automático y algoritmos de clasificación para resolver problemas complejos de datos. Estoy siempre buscando nuevas oportunidades para aplicar mis habilidades en entornos dinámicos.
+## Resumen Profesional
 
-**Experiencia Laboral**
+Científico de Datos con más de 5 años de experiencia en la industria, especializado en el análisis de datos y el desarrollo de soluciones de inteligencia artificial. Poseo habilidades avanzadas en programación con Python, diseño de algoritmos de aprendizaje automático y gestión de bases de datos. Mi objetivo es aplicar mis conocimientos en proyectos innovadores para generar impacto en el ámbito tecnológico.
 
-**Científico de Datos, Universidad de la República (2018-2022)**
+## Experiencia Laboral
 
-* Desarrollé y implementé algoritmos de aprendizaje automático para clasificar datos médicos con precisión del 95% o superior.
-* Analicé grandes conjuntos de datos utilizando PyTorch y scikit-learn, identificando patrones y tendencias que ayudaron a entender mejor los fenómenos científicos.
-* Colaboré en proyectos de investigación para desarrollar modelos predictivos que ayudaran a mejorar la toma de decisiones en campos como la medicina y la biología.
+**Data Science Consultant, DataInnovate Consulting (2022-presente)**
+- Lideré proyectos de consultoría para clientes del sector financiero, desarrollando modelos predictivos para la detección de fraudes y la gestión de riesgos.
+- Implementé algoritmos de aprendizaje automático utilizando PyTorch y scikit-learn para la clasificación de patrones y la predicción de series temporales.
+- Optimicé bases de datos SQL para mejorar el rendimiento y la escalabilidad de los sistemas de análisis de datos.
 
-**Desarrollador de Datos, Google Cloud (2022-Presente)**
+**Científico de Datos, TechInsights (2020-2022)**
+- Colaboré en un equipo multidisciplinario para desarrollar una plataforma de análisis de datos para el sector de la salud, utilizando Python y SQL.
+- Realicé tareas de limpieza y preprocesamiento de datos, asegurando la calidad y consistencia de los conjuntos de datos.
+- Diseñé y entrené modelos de aprendizaje automático para la detección temprana de enfermedades y la predicción de resultados clínicos.
 
-* Diseñé y optimicé bases de datos de SQL para almacenar y procesar grandes conjuntos de datos con alta velocidad.
-* Implementé modelos de aprendizaje automático utilizando PyTorch y scikit-learn para mejorar la precisión de los resultados en aplicaciones de inteligencia artificial.
-* Trabajé en equipo con científicos de datos y expertos en desarrollo para crear soluciones personalizadas para clientes.
+**Analista de Datos, DataTech Solutions (2018-2020)**
+- Realicé análisis de datos y generé informes para la toma de decisiones en una empresa de comercio electrónico.
+- Desarrollé scripts en Python para la automatización de tareas de extracción y transformación de datos.
+- Implementé técnicas de visualización de datos para la creación de dashboards interactivos.
 
-**Estudiante de Maestría, Universidad Nacional (2015-2018)**
+## Habilidades Técnicas
+- **Python**: Dominio avanzado en programación, incluyendo librerías de análisis de datos y aprendizaje automático (NumPy, Pandas, Matplotlib).
+- **PyTorch**: Experiencia en el desarrollo de redes neuronales y modelos de aprendizaje profundo.
+- **scikit-learn**: Implementación de algoritmos de aprendizaje automático para clasificación, regresión y clustering.
+- **SQL**: Conocimientos avanzados en gestión de bases de datos relacionales, incluyendo optimización de consultas y diseño de esquemas.
+- **Git**, **Docker**, **Cloud Computing**: Experiencia en herramientas de control de versiones, contenedores y computación en la nube.
 
-* Estudié teorias y técnicas de aprendizaje automático con un énfasis en la computación y el análisis de datos.
-* Desarrollé habilidades en Python, PyTorch y scikit-learn, lo que me permitió comprender los conceptos fundamentales del aprendizaje automático.
+## Educación
+- **Maestría en Ciencia de Datos, Universidad de Barcelona (2020)**. Tesis: "Aplicaciones de Aprendizaje Profundo en el Análisis de Imágenes Médicas".
+- **Licenciatura en Ingeniería Informática, Universidad Autónoma de Madrid (2018)**. Proyecto final: "Sistema de Recomendación basado en Aprendizaje por Refuerzo".
 
-**Habilidades Técnicas**
-
-* **Lenguajes de programación**: Python
-* **Frameworks y bibliotecas**: PyTorch, scikit-learn
-* **Bases de datos**: SQL, MySQL
-* **Teoría de la computación**: Algoritmos de clasificación, aprendizaje automático
-
-**Educación**
-
-* Maestría en Ciencias de Datos, Universidad Nacional (2018)
-* Licenciatura en Informática, Universidad de la República (2015)
-
-**Proyectos Relevantes**
-
-* **Desarrollo de modelos predictivos de riesgo crediticio**: Desarrollé un modelo de aprendizaje automático utilizando PyTorch y scikit-learn para predecir el riesgo de crédito en una base de datos de millones de registros.
-* **Análisis de los efectos del clima sobre la producción agrícola**: Analicé grandes conjuntos de datos utilizando Python, PyTorch y scikit-learn para identificar patrones y tendencias que ayudaron a entender mejor los efectos del clima en la producción agrícola.
+## Proyectos Destacados
+- **Sistema de Detección de Anomalías en Redes Financieras**: Desarrollé un modelo de detección de fraudes utilizando técnicas de aprendizaje no supervisado, logrando una reducción significativa en falsos positivos.
+- **Plataforma de Análisis de Datos Clínicos**: Colaboré en la creación de una herramienta de inteligencia artificial para el diagnóstico temprano de enfermedades cardiovasculares, mejorando la precisión diagnóstica en un 15%.
