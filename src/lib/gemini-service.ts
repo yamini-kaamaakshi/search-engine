@@ -95,7 +95,7 @@ export async function rerankDocumentsWithGemini(
   }
 
   try {
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash-latest' });
 
     // Create a prompt that asks Gemini to rank the documents
     const prompt = `You are a STRICT relevance scoring system for job/CV matching. Score based on PRIMARY job role match.
