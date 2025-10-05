@@ -1,46 +1,39 @@
-# Juan Carlos García Rodríguez
+## CURRICULUM VITAE
 
-## Resumen Profesional
+### Información Personal
+Nombre: Álvaro Rodríguez Sánchez
 
-Desarrollador Android experimentado con más de cinco años de trayectoria en la creación de soluciones innovadoras utilizando Kotlin y el ecosistema Android. Poseo un profundo conocimiento de la arquitectura de software y un historial comprobado en el diseño e implementación de aplicaciones robustas y escalables. Mi enfoque está en escribir código limpio y eficiente, y en garantizar una experiencia de usuario excepcional.
+### Resumen Profesional
+Desarrollador Android altamente calificado con una amplia experiencia en la creación de soluciones innovadoras utilizando el lenguaje Kotlin. Poseo un sólido dominio del ecosistema Android, incluyendo el SDK, y he implementado exitosamente arquitecturas robustas con Retrofit y Dagger. Mi enfoque está en el desarrollo de software eficiente y escalable, garantizando una experiencia de usuario excepcional.
 
-## Experiencia Laboral
+### Experiencia Laboral
 
-**Desarrollador Sénior Android, TechSolutions Inc. (2022-presente)**
-- Lideré el desarrollo de una plataforma de entretenimiento en streaming para Android TV, alcanzando un alto rendimiento y una interfaz intuitiva.
-- Implementé arquitecturas limpias utilizando Dagger para la gestión de dependencias, mejorando la modularidad y la mantenibilidad del código.
-- Colaboré en la transición del equipo a un enfoque de desarrollo ágil, mejorando la eficiencia del proceso.
+**Desarrollador Senior Android, TechSolutions Inc. (2022-presente)**
+- Lideré el desarrollo de una plataforma de comercio electrónico para dispositivos Android, logrando un aumento del 20% en las ventas móviles.
+- Implementé arquitecturas limpias y modulares utilizando Dagger para mejorar la mantenibilidad y la escalabilidad.
+- Colaboré en un equipo ágil para la entrega continua de funcionalidades, garantizando la calidad con pruebas unitarias y de integración.
 
-**Ingeniero de Software Android, SoftTech Innovations (2019-2022)**
-- Desarrollé varias aplicaciones de consumo masivo con un enfoque en la experiencia de usuario, alcanzando millones de descargas en la Google Play Store.
-- Trabajé con APIs REST utilizando Retrofit para la comunicación con servidores backend, garantizando una gestión eficiente de datos.
-- Participé en la adopción de prácticas de integración continua, mejorando la calidad del código y reduciendo errores.
+**Ingeniero de Software Android, DevTech Ltd. (2018-2022)**
+- Desarrollé varias aplicaciones Android para clientes del sector bancario y de telecomunicaciones.
+- Integré servicios RESTful utilizando Retrofit para la gestión de datos en tiempo real.
+- Mejoré la eficiencia del código mediante la optimización del rendimiento y la reducción de errores.
 
-**Desarrollador Android Junior, DroidDev Studios (2017-2019)**
-- Formé parte de un equipo ágil desarrollando aplicaciones Android nativas desde cero.
-- Adquirí experiencia en el uso del Android SDK, creando interfaces atractivas y funcionales.
-- Contribuí a la implementación de pruebas unitarias y de interfaz, asegurando la calidad de las aplicaciones.
+**Desarrollador Junior Android, StartApp Studio (2016-2018)**
+- Participé en el diseño y desarrollo de una aplicación Android para gestión de tareas, con una interfaz intuitiva y funciones personalizadas.
+- Trabajé en estrecha colaboración con el equipo de diseño para crear una experiencia de usuario atractiva.
+- Aprendí y apliqué buenas prácticas de programación y patrones de diseño en el entorno Android.
 
-## Habilidades Técnicas
+### Habilidades Técnicas
+- **Kotlin**: Experto en el desarrollo de aplicaciones Android nativas con Kotlin, creando soluciones robustas y eficientes.
+- **Android SDK**: Profundo conocimiento del kit de desarrollo, incluyendo Activities, Fragments, y manejo de ciclos de vida.
+- **Retrofit**: Experiencia en la integración de APIs RESTful utilizando Retrofit para la comunicación de datos.
+- **Dagger**: Implementación exitosa de inyección de dependencias con Dagger para una arquitectura limpia y escalable.
+- Otros: Familiaridad con Git, Firebase, y herramientas de testing como JUnit y Espresso.
 
-- **Kotlin:** Experto en el lenguaje, con dominio de conceptos avanzados como corrutinas, extensiones y arquitectura MVVM.
-- **Android SDK:** Profunda comprensión de los componentes y herramientas del SDK, incluyendo Activities, Fragments, y gestión de ciclo de vida.
-- **Retrofit:** Experiencia en la creación de interfaces RESTful y gestión de peticiones asíncronas.
-- **Dagger:** Conocimiento práctico en la implementación de la inyección de dependencias, promoviendo código modular y testeable.
-- Herramientas: Git, Gradle, JUnit, Android Studio.
+### Educación
+- **Licenciatura en Ingeniería Informática**, Universidad de Sevilla, 2014-2018
+- Cursos relevantes: Programación Orientada a Objetos, Arquitectura de Software, Bases de Datos.
 
-## Educación
-
-**Ingeniería en Sistemas, Universidad Técnica Nacional (2013-2017)**
-- Título: Ingeniero en Sistemas Computacionales.
-- Proyecto de graduación: "Optimización de rutas de transporte público utilizando algoritmos genéticos".
-
-## Proyectos Destacados
-
-**SmartHome Controller (2021)**
-- Desarrollé una aplicación Android para controlar dispositivos IoT en el hogar, permitiendo la gestión remota de luces, termostatos y dispositivos de seguridad.
-- Utilicé Retrofit para comunicarse con un servidor central, garantizando una experiencia de usuario en tiempo real.
-
-**Android Widgets Suite (2018)**
-- Creé una colección de widgets personalizados para Android, incluyendo gráficos interactivos y menús contextuales.
-- Este proyecto demostró mi capacidad para diseñar interfaces intuitivas y personalizables.
+### Proyectos Destacados
+- **SmartHome Android App**: Aplicación Android para el control de dispositivos domésticos inteligentes. Utilicé Retrofit para la comunicación con la API del fabricante y Dagger para la gestión de dependencias.
+- **Android Task Manager**: Aplicación de gestión de tareas con funcionalidades avanzadas, incluyendo sincronización en la nube y notificaciones personalizadas.

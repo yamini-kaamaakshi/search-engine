@@ -1,38 +1,44 @@
-**Thomas Dubois**
+## CV de Antoine Martin
 
-Développeur iOS passionné, expert en programmation Swift et en création d'interfaces utilisateur innovantes. Fort d'une expérience de 5 ans dans le développement de logiciels, je suis spécialisé dans la conception d'expériences utilisateur fluides et esthétiques sur la plateforme iOS.
+### Résumé professionnel :
+Développeur iOS passionné avec une expertise en programmation Swift et la conception d'interfaces utilisateurs. Fort d'une expérience de cinq ans, je possède une solide compréhension de la création d'expériences utilisateur immersives sur la plateforme iOS. Je cherche à apporter mes compétences et mon enthousiasme à un rôle exigeant et innovant.
 
-## Expérience Professionnelle
+### Expérience professionnelle :
 
-**Développeur iOS Senior, Technovate Labs (2021-présent)**
-- Conduit la conception et le développement d'une suite d'outils iOS pour la gestion de projets, améliorant l'efficacité de l'équipe de 25%.
-- Implémenté un système de notifications push en temps réel, augmentant l'engagement des utilisateurs de 30%.
-- Assuré la formation et le mentorat des nouveaux développeurs sur les meilleures pratiques Swift et SwiftUI.
+**Développeur iOS senior, TechInnov (2022-présent)**
+- Pris la tête d'une équipe de développement iOS pour créer des solutions logicielles personnalisées pour des clients de divers secteurs.
+- Utilisé SwiftUI pour concevoir et implémenter des interfaces utilisateur intuitives et réactives, améliorant l'expérience utilisateur globale.
+- Collaboré étroitement avec les équipes de conception et de produit pour traduire les maquettes en interfaces fonctionnelles, en utilisant Xcode comme environnement de développement principal.
+- Implémenté des processus de test rigoureux en utilisant TestFlight pour assurer la qualité et la stabilité des applications avant leur lancement.
 
-**Ingénieur Logiciel, SwiftTech Innovations (2018-2021)**
-- Collaboré avec une équipe agile pour développer et lancer plusieurs applications iOS, atteignant des notes élevées sur l'App Store.
-- Créé des interfaces utilisateur intuitives et visuellement attrayantes en utilisant SwiftUI, améliorant l'expérience utilisateur globale.
-- Optimisé le code pour améliorer les performances et la stabilité des applications.
+**Ingénieur logiciel iOS, SoftSolutions (2019-2022)**
+- Développé et maintenu des applications iOS complexes, en mettant l'accent sur la performance et l'efficacité.
+- Travaillé en tandem avec les concepteurs pour créer des flux d'utilisateurs efficaces et des interfaces utilisateur attrayantes.
+- Intégré des API tierces pour étendre les fonctionnalités des applications, en garantissant la sécurité et la conformité des données.
+- Documenté et maintenu un code propre et modulaire pour faciliter la collaboration et les mises à jour futures.
 
-**Développeur iOS Junior, SoftCode Solutions (2017-2018)**
-- Aidé à la conception et à la mise en œuvre d'une application iOS pour le suivi des dépenses, avec des fonctionnalités de synchronisation cloud.
-- Travaillé sur l'intégration de services tiers pour l'authentification et les notifications.
+**Développeur junior iOS, StartApp (2017-2019)**
+- Collaboré avec une équipe agile pour développer et lancer plusieurs applications iOS dans des délais serrés.
+- Appris et appliqué les meilleures pratiques de programmation Swift et les directives de conception Apple.
+- Assuré le suivi et la résolution des bogues en utilisant Xcode et TestFlight pour une expérience utilisateur sans faille.
+- Participé à des revues de code et à des réunions de planification, contribuant aux décisions techniques et à la stratégie de l'équipe.
 
-## Compétences Techniques
-- **Swift** : Expertise dans la programmation Swift, y compris la conception de modèles de données et l'implémentation de fonctionnalités complexes.
-- **SwiftUI** : Création d'interfaces utilisateur attrayantes et réactives, maîtrisant les principes de design adaptatif.
-- **Xcode** : Maîtrise de l'environnement de développement, y compris le débogage, le profilage et la gestion de projets.
-- **TestFlight** : Expérience dans la gestion de tests bêta et la collecte de commentaires utilisateurs.
-- Connaissances en Git, RESTful APIs, et intégration de services cloud.
+### Compétences techniques :
+- **Langages** : Swift (expert), Objective-C (intermédiaire).
+- **Frameworks** : SwiftUI, UIKit, Foundation.
+- **Outils** : Xcode, TestFlight, Git, Fastlane.
+- **Connaissances supplémentaires** : Architecture MVC, MVVM, conception de patterns, intégration API.
 
-## Formation
-**Université de Technologie Numérique, Licence en Informatique (2013-2017)**
-- Spécialisation en développement de logiciels et systèmes d'exploitation.
-- Projet de fin d'études sur l'optimisation de l'expérience utilisateur dans les applications iOS.
+### Formation :
+**Licence Informatique, Université de Lyon (2014-2017)**
+- Cours axés sur la programmation orientée objet, les structures de données et l'architecture logicielle.
+- Projet de fin d'études : Développement d'un jeu éducatif pour enfants utilisant Swift et SpriteKit.
 
-## Projets
-**SmartHome Hub (2022)**
-- Développement d'une application iOS pour contrôler et automatiser les appareils domestiques intelligents, avec une interface utilisateur personnalisable.
+### Projets :
+**iWeatherApp (2021)**
+- Développement d'une application météo iOS avec des prévisions locales précises et des notifications en temps réel.
+- Intégration d'une API météo de pointe pour fournir des données météorologiques détaillées.
 
-**iHealth Tracker (2019)**
-- Conception et implémentation d'une application de suivi de santé, incluant des graphiques de données et des rappels personnalisés.
+**SwiftUI Prototypes (2020)**
+- Création de prototypes d'interface utilisateur en utilisant SwiftUI pour explorer de nouvelles idées de conception et d'expérience utilisateur.
+- Présentation de ces prototypes lors d'un hackathon interne, recevant des éloges pour l'innovation et l'esthétique.

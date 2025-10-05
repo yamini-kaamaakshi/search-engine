@@ -1,37 +1,37 @@
-## CV - Álvaro Rodríguez Ruiz
+## CV: Daniel García Rodríguez
 
-### Resumen Profesional
-Desarrollador iOS con más de 5 años de experiencia, especializado en la creación de soluciones innovadoras y eficientes para la plataforma iOS. Experto en Swift, con habilidades en la integración de frameworks y la optimización de rendimiento. Comprometido con el desarrollo de software de alta calidad, garantizando una experiencia de usuario fluida y segura.
+### Resumen Profesional:
+Experto desarrollador iOS con una sólida trayectoria en la creación de soluciones innovadoras para dispositivos Apple. Mi experiencia se centra en el uso de Swift para desarrollar software robusto y eficiente, integrando tecnologías clave como iOS SDK, CoreData y Combine. Poseo habilidades para liderar proyectos y trabajar en equipo, garantizando la entrega de productos de alta calidad.
 
-### Experiencia Laboral
+### Experiencia Laboral:
 
-**Desarrollador iOS Senior, TecnoSoft (2022-presente)**
-- Lideré el rediseño y refactorización de la arquitectura de la aplicación principal de la empresa, mejorando la eficiencia y la escalabilidad.
-- Implementé nuevas características utilizando Combine para la gestión de flujos de datos asíncronos, asegurando una experiencia de usuario receptiva.
-- Formé y mentoreé a un equipo de 3 desarrolladores junior, mejorando sus habilidades en Swift y buenas prácticas de programación.
+**Ingeniero de Software iOS, TechSolutions Inc. (2021-presente)**
+- Lideré el desarrollo de una plataforma de realidad aumentada para iOS, utilizando ARKit y CoreML, que resultó en un aumento del 20% en la interacción de los usuarios.
+- Implementé nuevas características en la aplicación principal de la empresa, mejorando la gestión de datos con CoreData y reduciendo los tiempos de carga en un 30%.
+- Colaboré en un equipo ágil para lanzar 3 versiones principales de la aplicación, mejorando continuamente la experiencia del usuario.
 
-**Ingeniero de Software iOS, DevTech Solutions (2019-2022)**
-- Colaboré en el desarrollo de múltiples proyectos para clientes del sector financiero, incluyendo aplicaciones de banca móvil y gestión de inversiones.
-- Me encargué de la integración de APIs y servicios de terceros, asegurando la seguridad y privacidad de los datos.
-- Optimicé el rendimiento de las aplicaciones utilizando técnicas de gestión de memoria y profiling.
+**Desarrollador iOS Senior, SoftTech Innovations (2018-2021)**
+- Diseñé y desarrollé módulos de la aplicación utilizando Swift, enfocándome en la optimización de rendimiento y la arquitectura MVVM.
+- Integré la biblioteca Combine para manejar flujos asíncronos, mejorando la gestión de errores y la estabilidad de la aplicación.
+- Participé en la formación de nuevos desarrolladores iOS, impartiendo talleres sobre buenas prácticas en Swift.
 
-**Desarrollador iOS, StartApp (2017-2019)**
-- Participé en el desarrollo de una aplicación de realidad aumentada para el sector educativo, utilizando tecnologías de vanguardia como ARKit.
-- Creé interfaces de usuario intuitivas y atractivas, siguiendo las directrices de diseño de Apple.
-- Implementé funcionalidades de persistencia de datos utilizando CoreData, garantizando la integridad y seguridad de la información.
+**Ingeniero iOS Júnior, AppsMart (2017-2018)**
+- Colaboré en el desarrollo de una aplicación de comercio electrónico para iOS, garantizando la calidad del código y la experiencia del usuario.
+- Implementé funciones de notificaciones push y gestión de preferencias de usuario utilizando iOS SDK.
+- Asistí en la transición de Objective-C a Swift, migrando código y mejorando la eficiencia de la aplicación.
 
-### Habilidades Técnicas
-- **Swift:** Experto en el lenguaje, con dominio de conceptos avanzados como protocolos, closures, y programación funcional.
-- **iOS SDK:** Profundo conocimiento de los frameworks nativos, incluyendo UIKit, Foundation, y CoreGraphics.
-- **CoreData:** Experiencia en la gestión de bases de datos relacionales en iOS, utilizando CoreData para almacenamiento local.
-- **Combine:** Implementación de flujos de datos reactivos y manejo de asincronía en aplicaciones iOS.
-- **Control de Versiones:** Git, GitHub, GitLab.
-- **Herramientas de Desarrollo:** Xcode, Fastlane, CocoaPods.
+### Habilidades Técnicas:
+- **Swift**: Experto en desarrollo con Swift, incluyendo patrones de diseño, programación funcional y manejo de errores.
+- **iOS SDK**: Profundo conocimiento de las API de iOS para acceder a funcionalidades del sistema y servicios de Apple.
+- **CoreData**: Experiencia en la gestión de bases de datos locales en iOS para almacenamiento de datos estructurados.
+- **Combine**: Habilidad para manejar flujos asíncronos y procesar datos en tiempo real.
+- Herramientas: Familiarizado con Xcode, Git, Fastlane, y tecnologías de integración continua.
 
-### Educación
-**Universidad de Tecnología e Innovación, 2015-2017**
-Grado en Ingeniería de Software, con especialización en Desarrollo Móvil.
+### Educación:
+**Universidad Tecnológica de Madrid, 2013-2017**
+- Grado en Ingeniería Informática, especializado en Sistemas de Información.
+- Proyecto Fin de Carrera: "Desarrollo de una herramienta de gestión de proyectos en Swift".
 
-### Proyectos Destacados
-- **iLearnAR:** Aplicación de realidad aumentada para educación interactiva, ganadora del premio al Mejor Proyecto de Realidad Aumentada en la conferencia DevCon 2018.
-- **FinTech Suite:** Conjunto de aplicaciones para el sector financiero, incluyendo una app de inversiones y una plataforma de pagos móviles.
+### Proyectos Destacados:
+- **Realidad Aumentada para Retail**: Desarrollé un prototipo de aplicación iOS que permite a los usuarios visualizar productos en 3D en su entorno real, utilizando ARKit y SceneKit.
+- **Gestión de Tareas Personalizada**: Creé una aplicación de productividad con una interfaz personalizable, utilizando SwiftUI y CoreData, disponible en la App Store.

@@ -1,35 +1,37 @@
-## Leonie Müller
+**David Müller**
 
-### Software-Entwicklerin mit Schwerpunkt iOS und Swift
+Softwareentwickler – Swift- und iOS-Experte
 
-Eine erfahrene Entwicklerin mit einer Leidenschaft für das Erstellen interaktiver und visuell ansprechender Benutzeroberflächen unter Verwendung der neuesten Technologien im iOS-Ökosystem. Besondere Stärken liegen in der Gestaltung von Animationen und Augmented Reality-Erlebnissen, wobei stets auf sauberen Code und effiziente Architektur Wert gelegt wird.
+Zusammenfassung:
+Als erfahrener iOS-Entwickler mit einem ausgeprägten Verständnis für Swift-Programmierung und UI/UX-Design habe ich mich auf die Entwicklung von innovativen Lösungen für mobile Geräte spezialisiert. Meine Expertise umfasst die Arbeit mit UIKit, CoreAnimation und ARKit, wodurch ich immersive und reaktionsschnelle Anwendungen schaffe. Mein Ziel ist es, die Benutzererfahrung auf iOS-Plattformen zu revolutionieren und visuell ansprechende, leistungsstarke Lösungen zu liefern.
 
-### Berufserfahrung
+Berufserfahrung:
 
-**Senior iOS Entwicklerin, XTech Innovations GmbH (2020-heute)**
-- Hauptverantwortliche Entwicklerin für die Neuentwicklung einer AR-basierten Lernplattform für Kinder, die die visuelle Lernmethode revolutioniert.
-- Implementierung komplexer AR-Szenarien unter Verwendung von ARKit, einschließlich räumlicher Audio- und 3D-Objektplatzierung.
-- Optimierung der Benutzeroberflächen-Animationen mit CoreAnimation, um ein flüssiges und ansprechendes Nutzererlebnis zu schaffen.
+*iOS-Entwickler, ARTech Innovations GmbH, 2020-heute*
+- Entwarf und implementierte eine Reihe von Augmented Reality (AR)-Anwendungen mit ARKit für die Immobilienbranche, was zu einer verbesserten Visualisierung und einer 20%igen Steigerung der Kundengewinnung führte.
+- Optimierte die Benutzeroberfläche bestehender iOS-Anwendungen, was zu einer 15%igen Verbesserung der Ladezeiten führte.
+- Führte Code-Reviews durch und betreute ein Team von Junior-Entwicklern, um die Code-Qualität und die Einhaltung von Best Practices zu gewährleisten.
 
-**iOS Swift Entwickler, SmartSoft Solutions (2017-2020)**
-- Zusammenarbeit in einem agilen Team an verschiedenen Kundenprojekten, darunter ein preisgekröntes E-Learning-System.
-- Implementierung einer modularen und skalierbaren Code-Architektur unter Verwendung von Swift, die die Wiederverwendbarkeit von Code über mehrere Projekte hinweg ermöglichte.
-- Enge Zusammenarbeit mit Designern, um hochwertige Benutzeroberflächen zu erstellen, und Umsetzung von detaillierten Animationen mit UIKit.
+*Swift-Programmierer, SoftWare Solutions AG, 2017-2020*
+- Arbeitete eng mit dem Design-Team zusammen, um ansprechende und benutzerfreundliche Schnittstellen mit UIKit zu erstellen, die die Nutzerbindung erhöhten.
+- Implementierte eine Reihe von Funktionen für ein E-Learning-System, einschließlich In-App-Käufen und Push-Benachrichtigungen, was zu einer verbesserten Nutzererfahrung führte.
+- Beteiligte sich an der Architektur und Entwicklung einer komplexen E-Commerce-Anwendung, die sich durch eine nahtlose Navigation und eine sichere Zahlungsabwicklung auszeichnete.
 
-**iOS Praktikantin, TechStudio (2016-2017)**
-- Unterstützte die Entwicklung einer Fitness-App mit Fokus auf UI-Design und Benutzererfahrung.
-- Erlernte die Grundlagen der iOS-Entwicklung und erwarb praktische Kenntnisse in Swift und Xcode.
-- Arbeitete an der Implementierung von CoreGraphics-basierten Grafiken und einfachen Animationen.
+*iOS-Entwicklungsassistent, DevTech GmbH, 2015-2017*
+- Unterstützte bei der Entwicklung und Wartung mehrerer iOS-Projekte für Kunden aus verschiedenen Branchen.
+- Implementierte CoreAnimation-Effekte, um die visuelle Erfahrung der Anwendungen zu verbessern.
+- Führte umfassende Tests und Fehlerbehebungen durch, um eine hohe Code-Qualität sicherzustellen.
 
-### Technische Fähigkeiten
+Technische Fähigkeiten:
 - **Programmiersprachen**: Swift (fortgeschritten), Objective-C (Grundkenntnisse)
-- **Frameworks**: UIKit, ARKit, CoreAnimation, CoreGraphics
-- **Tools**: Xcode, Git, Fastlane, TestFlight
+- **Frameworks**: UIKit, ARKit, CoreAnimation, AVFoundation
+- **Tools**: Xcode, Git, Fastlane
+- **Design-Konzepte**: MVC, MVVM, Design Patterns
 
-### Bildung
-- Bachelor of Science in Informatik, Technische Universität Berlin (2013-2016)
-- Fortgeschrittene Kurse in Mobile Computing und Human-Computer Interaction
+Ausbildung:
+- Bachelor of Science in Informatik, Technische Universität Berlin, 2012-2015
+- Weiterbildungskurse in iOS-Entwicklung und Swift-Programmierung, 2016-2017
 
-### Projekte
-- **AR-Lernspiel**: Entwickelte ein Augmented Reality-Spiel für Kinder, das historische Stätten zum Leben erweckt. Verfügbar auf GitHub: [Link].
-- **SwiftUI-Experiment**: Erforschte die Möglichkeiten von SwiftUI mit einem experimentellen Design-Projekt, das animierte, reaktive Benutzeroberflächen demonstriert.
+Projekte:
+- **Immobilien-AR-Plattform**: Entwickelte eine immersive AR-Anwendung, die es Benutzern ermöglicht, Immobilien virtuell zu erkunden, mit Funktionen wie 3D-Modellierung und Echtzeit-Rendering.
+- **Lern-App**: Erstellte eine personalisierte Lern-App mit adaptiven Lernpfaden und Gamification-Elementen, um das Engagement der Nutzer zu steigern.

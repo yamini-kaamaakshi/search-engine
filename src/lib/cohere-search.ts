@@ -20,7 +20,7 @@ interface SearchableDocument {
 export async function searchDocuments(query: string, limit: number = 5) {
   try {
     // Get all documents from storage
-    const allDocs = getAllDocuments();
+    const allDocs = await getAllDocuments();
 
     if (allDocs.length === 0) {
       console.log('No documents found in storage');

@@ -220,7 +220,7 @@ function generateFileId(): string {
 
 export async function getUploadedDocuments(): Promise<ProcessedDocument[]> {
   try {
-    const allDocs = getAllDocuments();
+    const allDocs = await getAllDocuments();
     const documentsMap = new Map<string, ProcessedDocument>();
 
     // Group chunks back into documents
@@ -251,7 +251,7 @@ export async function getUploadedDocuments(): Promise<ProcessedDocument[]> {
 
 export async function deleteDocument(fileId: string): Promise<boolean> {
   try {
-    const deletedCount = deleteDocumentsByParentId(fileId);
+    const deletedCount = await deleteDocumentsByParentId(fileId);
     return deletedCount > 0;
   } catch (error) {
     console.error('Error deleting document:', error);
@@ -261,7 +261,7 @@ export async function deleteDocument(fileId: string): Promise<boolean> {
 
 export async function getDocumentById(fileId: string): Promise<ProcessedDocument | undefined> {
   try {
-    const chunks = getDocumentsByParentId(fileId);
+    const chunks = await getDocumentsByParentId(fileId);
 
     if (chunks.length === 0) return undefined;
 

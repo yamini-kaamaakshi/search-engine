@@ -1,37 +1,38 @@
-## Benjamin Maier
+**Felix Müller**
 
-### Softwareentwickler – Android und Kotlin-Experte
+Softwareentwickler | Android- und Kotlin-Spezialist
 
-Ein engagierter und erfahrener Android-Entwickler mit einem starken Hintergrund in der Entwicklung robuster und skalierbarer Android-Anwendungen. Fachkenntnisse in Kotlin, Android Studio und modernen Design-Prinzipien, mit dem Ziel, benutzerfreundliche und innovative Lösungen zu schaffen.
+Zusammenfassung:
+Ich bin ein erfahrener Android-Entwickler mit einer Leidenschaft für sauberen Code und intuitive Benutzererfahrungen. Mit meiner Expertise in Kotlin und Android Studio habe ich an der Entwicklung robuster Android-Lösungen für verschiedene Branchen mitgewacht. Mein Fachwissen umfasst die Implementierung moderner Design-Patterns wie MVVM, um die Architektur von Android-Projekten zu optimieren und die Wartbarkeit zu verbessern.
 
-### Berufserfahrung
+Berufserfahrung:
 
-#### Senior Android Entwickler, TechInnovate GmbH, 2021–heute
-- Führung eines Teams von Entwicklern bei der Gestaltung und Implementierung von Android-Lösungen für verschiedene Branchen, einschließlich FinTech und E-Commerce.
-- Einführung von MVVM-Architekturmustern, um den Code-Qualitäts- und Wartbarkeitsstandards zu entsprechen.
-- Zusammenarbeit mit UX-Designern, um ein nahtloses und ansprechendes Benutzererlebnis mit Material Design-Prinzipien zu schaffen.
+**Senior Android Entwickler, TechInnovate GmbH (2020 - Gegenwart)**
+- Führte ein Team von Entwicklern an, um maßgeschneiderte Android-Lösungen für Unternehmenskunden zu liefern, wobei die Qualität und Termineinhaltung höchste Priorität hatten.
+- Implementierte eine neue Architektur unter Verwendung von MVVM, die zu einer Verbesserung der Code-Wartbarkeit und einer Reduzierung von Fehlern führte.
+- Arbeitete eng mit dem Design-Team zusammen, um das Material Design-Konzept umzusetzen und eine konsistente Benutzererfahrung über verschiedene Geräte hinweg zu gewährleisten.
 
-#### Android Entwickler, SoftTech Solutions, 2018–2021
-- Entwicklung und Wartung von Android-Anwendungen für eine Reihe von Kunden, mit Schwerpunkt auf der Verbesserung der Benutzerfreundlichkeit und Leistung.
-- Migration des Code-Stacks von Java zu Kotlin, was zu einer Steigerung der Produktivität und einer besseren Code-Lesbarkeit führte.
-- Implementierung von Test-Driven Development (TDD) Praktiken, um die Code-Qualität und -Stabilität sicherzustellen.
+**Android Entwickler, SmartTech Solutions (2017 - 2020)**
+- Entwarf und entwickelte Android-Anwendungen für verschiedene Branchen, einschließlich E-Commerce, FinTech und Lifestyle.
+- Integrierte Drittanbieter-APIs und Zahlungsgateways, um die Funktionalität der Anwendungen zu erweitern.
+- Implementierte Material Design-Prinzipien, um eine moderne und ansprechende Benutzeroberfläche zu schaffen.
 
-#### Junior Programmierer, CodeCrafters, 2016–2018
-- Begonnen als Trainee-Entwickler und schnell aufgestiegen, um Android-Projekte zu unterstützen.
-- Zusammenarbeit mit Senior-Entwicklern bei der Gestaltung und Implementierung von Android-Schnittstellen, um die Anforderungen der Kunden zu erfüllen.
-- Beteiligung an der Code-Überprüfung und an der Gewährleistung der Einhaltung der branchenüblichen Praktiken.
+**Junior Android Entwickler, DevStudio (2015 - 2017)**
+- Unterstützte das Android-Entwicklungsteam bei der Wartung und Verbesserung bestehender Anwendungen.
+- Erstellte wiederverwendbare Code-Module und Komponenten, um die Entwicklungseffizienz zu steigern.
+- Arbeitete aktiv an der Fehlerbehebung und der Implementierung von Benutzerfeedback.
 
-### Technische Fähigkeiten
-- **Programmiersprachen:** Kotlin (fortgeschritten), Java (gut), Python (Grundkenntnisse)
-- **Entwicklungsumgebungen:** Android Studio (Experte), IntelliJ IDEA (fortgeschritten)
-- **Design-Frameworks:** Material Design, Jetpack Compose
-- **Architekturmuster:** MVVM, MVP
+Technische Fähigkeiten:
+- **Programmiersprachen:** Kotlin (Fortgeschritten), Java (Grundkenntnisse)
+- **Entwicklungsumgebungen:** Android Studio (Experte), IntelliJ IDEA (Erfahrung)
+- **Design Patterns:** MVVM, Clean Architecture
+- **Design:** Material Design, XML Layouts, Custom Views
 - **Version Control:** Git, GitHub
 
-### Ausbildung
-- Bachelor of Science in Informatik, Technische Universität München, 2014–2018
-- Zertifizierung in Android-Entwicklung, Google Developer Academy, 2017
+Ausbildung:
+- **Bachelor of Science in Informatik**, Technische Universität Berlin (2012-2015)
+- **Zertifikat in Android-Entwicklung**, Online-Bootcamp (2015)
 
-### Projekte
-- **E-Commerce-Plattform:** Entwicklung einer Android-Anwendung für einen Online-Marktplatz, der eine nahtlose Einkaufserfahrung mit personalisierten Empfehlungen bietet. Umsetzung von Filtern und Suchfunktionen, um ein effizientes Produktdurchsuchen zu ermöglichen.
-- **FinTech-App:** Kollaboration mit einem FinTech-Startup, um eine sichere Android-Anwendung für mobiles Banking zu entwickeln, die Geldtransfers und Kontoverwaltung ermöglicht. Implementierung von Verschlüsselungsmaßnahmen, um die Datensicherheit zu gewährleisten.
+Projekte:
+- **SmartHome-Steuerungssystem:** Entwicklung einer Android-Anwendung zur Fernsteuerung und -überwachung von SmartHome-Geräten. Implementierung von Echtzeit-Benachrichtigungen und einer sicheren Datenübertragung.
+- **Fitness-Tracker-App:** Zusammenarbeit an einem Fitness-Tracking-Projekt, das Benutzern ermöglichte, ihre Workouts zu verfolgen und personalisierte Trainingspläne zu erstellen. Integration von Gesundheits-APIs für eine umfassende Benutzererfahrung.
