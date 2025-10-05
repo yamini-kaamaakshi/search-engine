@@ -7,11 +7,11 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "generate-cvs": "tsx scripts/generate-cvs-cohere.ts",
+    "generate-cvs": "tsx scripts/generate-cvs-gemini.ts",
     "upload-cvs": "tsx scripts/upload-cvs.ts"
   },
   "dependencies": {
-    "@qdrant/js-client-rest": "^1.15.1",
+    "@google/generative-ai": "^0.24.1",
     "@types/uuid": "^10.0.0",
     "dotenv": "^17.2.3",
     "formidable": "^3.5.4",

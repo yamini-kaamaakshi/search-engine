@@ -1,5 +1,4 @@
-import { getUploadedDocuments, splitDocumentIntoChunks } from './file-processor';
-import { rerankDocuments, type DocumentForRerank } from './cohere-service';
+import { rerankDocumentsWithGemini, type DocumentForRerank } from './gemini-service';
 import { getAllDocuments } from './document-store';
 
 interface SearchableDocument {
@@ -13,11 +12,11 @@ interface SearchableDocument {
 }
 
 /**
- * Search documents using Cohere's rerank API
+ * Search documents using Gemini's AI capabilities
  * This provides semantic search that understands context and intent
  * rather than just keyword matching
  */
-export async function searchDocuments(query: string, limit: number = 5) {
+export async function searchDocumentsWithGemini(query: string, limit: number = 5) {
   try {
     // Get all documents from storage
     const allDocs = await getAllDocuments();
@@ -40,17 +39,18 @@ export async function searchDocuments(query: string, limit: number = 5) {
       parentDocumentId: doc.parentDocumentId,
     }));
 
-    // Use Cohere rerank API to find most relevant documents
-    // This is where the magic happens - Cohere understands semantic meaning
+    // Use Gemini to find most relevant documents
+    // This is where the magic happens - Gemini understands semantic meaning
     // For example: "mobile developer" will match "iOS Engineer" or "Android Developer"
-    const rerankedDocs = await rerankDocuments(query, docsForRerank, limit);
+    const rerankedDocs = await rerankDocumentsWithGemini(query, docsForRerank, limit);
 
-    // Filter out results with very low relevance (below 2%)
-    // This removes documents that have no meaningful relevance to the query
-    const RELEVANCE_THRESHOLD = 0.02; // 2% minimum relevance
+    // Filter out results with low relevance (below 50%)
+    // Set threshold high enough to filter out unrelated roles
+    const RELEVANCE_THRESHOLD = 0.45; // 50% minimum relevance
     const filteredDocs = rerankedDocs.filter(doc => doc.relevance_score >= RELEVANCE_THRESHOLD);
 
     console.log(`Found ${filteredDocs.length} relevant documents (filtered from ${rerankedDocs.length} total)`);
+    console.log('Top scores:', rerankedDocs.map(d => ({ file: d.filename, score: d.relevance_score })));
 
     // Convert to search result format
     const results = filteredDocs.map(doc => ({
@@ -66,25 +66,22 @@ export async function searchDocuments(query: string, limit: number = 5) {
 
     return results;
   } catch (error) {
-    console.error('Error in Cohere search:', error);
+    console.error('Error in Gemini search:', error);
     throw error;
   }
 }
 
 /**
- * Generate an answer using search results
- * For now, this is a simple summary generator
- * In a production system, you could use Cohere's generate API here too
+ * Generate an answer using Gemini's generative capabilities
  */
-export async function generateAnswer(query: string, relevantDocs: any[]): Promise<string> {
+export async function generateAnswerWithGemini(query: string, relevantDocs: any[]): Promise<string> {
   if (!relevantDocs || relevantDocs.length === 0) {
     return "I couldn't find any relevant information in the uploaded documents. Please make sure you have uploaded documents related to your question.";
   }
 
   // Create a summary of the top results
   const summaries = relevantDocs.slice(0, 5).map((doc, index) => {
-    const scorePercent = Math.round((doc.score || 0) * 100);
-    return `${index + 1}. ${doc.filename} (${scorePercent}% relevant)\n   ${doc.content.substring(0, 200)}${doc.content.length > 200 ? '...' : ''}`;
+    return `${index + 1}. ${doc.filename}\n   ${doc.content.substring(0, 200)}${doc.content.length > 200 ? '...' : ''}`;
   });
 
   return `Found ${relevantDocs.length} relevant document${relevantDocs.length > 1 ? 's' : ''} for your query "${query}":\n\n${summaries.join('\n\n')}`;

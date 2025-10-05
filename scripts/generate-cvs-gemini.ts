@@ -1,18 +1,21 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import dotenv from 'dotenv';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // Load environment variables from .env.local
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
 
-const COHERE_API_KEY = process.env.COHERE_API_KEY;
-const COHERE_API_URL = 'https://api.cohere.ai/v1';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
-if (!COHERE_API_KEY) {
-  console.error('ERROR: COHERE_API_KEY environment variable is not set');
-  console.error('Please add COHERE_API_KEY to your .env.local file');
+if (!GEMINI_API_KEY) {
+  console.error('ERROR: GEMINI_API_KEY environment variable is not set');
+  console.error('Please add GEMINI_API_KEY to your .env.local file');
   process.exit(1);
 }
+
+// Initialize Gemini AI
+const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
 interface CVProfile {
   language: string;
@@ -100,27 +103,13 @@ Important:
 Generate ONLY the CV text, no additional commentary.`;
 
   try {
-    const response = await fetch(`${COHERE_API_URL}/chat`, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${COHERE_API_KEY}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        model: 'command-r-plus-08-2024',
-        message: prompt,
-        max_tokens: 800,
-        temperature: 0.9,
-      }),
-    });
+    const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
 
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
-      throw new Error(`Cohere API error: ${JSON.stringify(errorData)}`);
-    }
+    const result = await model.generateContent(prompt);
+    const response = result.response;
+    const text = response.text();
 
-    const data = await response.json();
-    return data.text.trim();
+    return text.trim();
   } catch (error) {
     if (error instanceof Error) {
       console.error(`Error generating CV ${index}:`, error.message);
@@ -132,8 +121,8 @@ Generate ONLY the CV text, no additional commentary.`;
 }
 
 async function main() {
-  console.log('Starting CV generation with Cohere...');
-  console.log(`Using Cohere API\n`);
+  console.log('Starting CV generation with Gemini AI...');
+  console.log(`Using Gemini API\n`);
 
   // Create CVs directory if it doesn't exist
   const cvsDir = path.join(process.cwd(), 'generated-cvs');

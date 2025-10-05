@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="639dec8a-4163-449f-bc97-a0353a849183" name="Changes" comment="removed unused files">
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_001_english_iOS_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_001_english_iOS_Engineer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_002_spanish_Desarrollador_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_002_spanish_Desarrollador_iOS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_003_french_Développeur_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_003_french_Développeur_iOS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_004_german_iOS_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_004_german_iOS_Entwickler.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_005_english_Android_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_005_english_Android_Engineer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_006_spanish_Desarrollador_Android.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_006_spanish_Desarrollador_Android.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_007_french_Développeur_Android.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_007_french_Développeur_Android.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_008_german_Android_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_008_german_Android_Entwickler.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_009_english_React_Native_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_009_english_React_Native_Developer.txt" afterDir="false" />
+    <list default="true" id="639dec8a-4163-449f-bc97-a0353a849183" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_031_french_Développeur_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test-cvs/cv_031_french_Développeur_iOS.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/cohere-search.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/cohere-search.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-cvs-cohere.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/search/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/search/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/cohere-search.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/cohere-service.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/document-store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/document-store.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/file-processor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/file-processor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/qdrant-client.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="relevance-search-cohere_embed" />
+        <entry key="$PROJECT_DIR$" value="relevance-search_cohere" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "relevance-search__cohere",
+    "git-widget-placeholder": "relevance-search__gemini",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "last_opened_file_path": "/Users/kaamaakshiyamini/search-engine",
@@ -72,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test-cvs" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />

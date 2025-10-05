@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { v4 as uuidv4 } from 'uuid';
-import { generateCohereEmbedding } from './cohere-service';
+import { generateGeminiEmbedding } from './gemini-service';
 import {
   storeDocument,
   getAllDocuments,
@@ -77,10 +77,10 @@ export async function processFile(filePath: string, originalName: string): Promi
     // Split document into chunks for better search
     const chunks = splitDocumentIntoChunks(document);
 
-    // Store each chunk with Cohere embeddings
+    // Store each chunk with Gemini embeddings
     for (const chunk of chunks) {
-      // Generate embedding for the chunk using Cohere
-      const embedding = await generateCohereEmbedding(chunk.content);
+      // Generate embedding for the chunk using Gemini
+      const embedding = await generateGeminiEmbedding(chunk.content);
 
       const storedDoc: StoredDocument = {
         id: chunk.id,

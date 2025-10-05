@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { searchDocuments, generateAnswer } from '../../../lib/cohere-search';
+import { searchDocumentsWithGemini, generateAnswerWithGemini } from '../../../lib/gemini-search';
 
 export async function POST(request: NextRequest) {
   try {
@@ -15,7 +15,7 @@ export async function POST(request: NextRequest) {
     console.log('Searching for:', query);
 
     // Search for relevant documents (increased to 10 for better results)
-    const relevantDocs = await searchDocuments(query, 10);
+    const relevantDocs = await searchDocumentsWithGemini(query, 10);
 
     if (relevantDocs.length === 0) {
       return NextResponse.json({
@@ -39,7 +39,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Generate an answer summary
-    const answer = await generateAnswer(query, validDocs);
+    const answer = await generateAnswerWithGemini(query, validDocs);
 
     // Sort by score and return top results
     const sortedDocs = validDocs.sort((a, b) => (b.score || 0) - (a.score || 0));
@@ -60,7 +60,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     console.error('Search error:', error);
     return NextResponse.json(
-      { error: 'Internal server error' },
+      { error: 'Internal server error', details: error instanceof Error ? error.message : 'Unknown error' },
       { status: 500 }
     );
   }
@@ -68,7 +68,7 @@ export async function POST(request: NextRequest) {
 
 export async function GET() {
   return NextResponse.json(
-    { message: 'Search API is running. Use POST method with query parameter.' },
+    { message: 'Semantic Search API (powered by Gemini AI) is running. Use POST method with query parameter.' },
     { status: 200 }
   );
 }
