@@ -1,43 +1,46 @@
-# Jean-Pierre Dupuis
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.fr | (+33) 6 12 34 56 78 | LinkedIn Profile URL
 
-## Développeur Frontend
+**Résumé Professionnel**
 
-### Résumé professionnel
-Développeur frontend passionné avec plus de 5 ans d'expérience dans la création d'interfaces utilisateur intuitives et réactives. Expertise dans la conception et le développement d'applications web modernes utilisant Angular, TypeScript et RxJS. Forte compréhension des principes de conception responsive et des bonnes pratiques de développement frontend.
+Développeur Frontend passionné et expérimenté, spécialisé dans la création d'interfaces utilisateur riches et interactives avec Angular. Expert en TypeScript, RxJS et Material UI, je suis capable de transformer des exigences complexes en solutions performantes et élégantes. Je suis constamment à la recherche de nouvelles façons d'améliorer l'expérience utilisateur et d'optimiser le code.
 
-### Expérience professionnelle
+**Expérience Professionnelle**
 
-**Développeur Frontend Senior, WebTech Solutions (2022-présent)**
-- Diriger une équipe de développeurs frontend pour créer une plateforme de commerce électronique de nouvelle génération.
-- Implémenté une architecture modulaire en utilisant Angular et TypeScript pour améliorer la maintenabilité et la scalabilité.
-- Créé une expérience utilisateur immersive en intégrant Material UI, garantissant une interface intuitive et cohérente.
+**Développeur Frontend, Digital Solutions S.A.R.L. 	Paris, France**
+Janvier 2020 – Présent
 
-**Développeur Frontend, DigiMedia Inc. (2019-2022)**
-- Collaboré avec les équipes de design et de développement backend pour la création de sites web d'entreprise.
-- Développé des interfaces utilisateur dynamiques en utilisant Angular et TypeScript, garantissant une expérience utilisateur fluide.
-- Optimisé le temps de chargement des pages en implémentant des stratégies de chargement paresseux et en utilisant RxJS pour la gestion des données asynchrones.
+*   Conception et développement de nouvelles fonctionnalités pour la plateforme principale de l'entreprise en utilisant Angular, TypeScript et RxJS, améliorant significativement l'expérience utilisateur.
+*   Mise en place de tests unitaires et d'intégration pour assurer la qualité et la robustesse du code.
+*   Collaboration étroite avec les designers UI/UX et les équipes backend pour garantir l'alignement des développements avec les spécifications du produit.
+*   Optimisation de la performance de l'interface utilisateur, résultant en une réduction de 20% du temps de chargement des pages.
+*   Migration progressive de l'ancienne codebase vers une architecture basée sur Angular 12, puis Angular 15, en utilisant les meilleures pratiques de développement.
 
-**Développeur Frontend Junior, SoftTech Innovations (2017-2019)**
-- Assisté l'équipe de développement dans la maintenance et l'amélioration d'applications web existantes.
-- Créé des composants réutilisables en utilisant HTML, CSS et JavaScript, suivant les directives de l'entreprise.
-- Introduit des tests unitaires et d'intégration pour garantir la stabilité du code frontend.
+**Développeur Frontend Junior, Innovatech Solutions			Lyon, France**
+Septembre 2017 – Décembre 2019
 
-### Compétences techniques
-- **Angular :** Expert en création d'applications web dynamiques, gestion des états, et architecture modulaire.
-- **TypeScript :** Forte compréhension des types statiques et de la programmation orientée objet.
-- **RxJS :** Expérience dans la gestion des flux de données asynchrones et la création d'observables.
-- **Material UI :** Compétences dans la conception d'interfaces utilisateur attrayantes et cohérentes.
-- Autres : Git, HTML5, CSS3, Jasmine, Protractor.
+*   Participation au développement de l'interface utilisateur d'une plateforme de gestion de contenu en utilisant Angular.
+*   Implémentation de composants réutilisables avec Material UI pour assurer la cohérence visuelle de la plateforme.
+*   Correction de bugs et amélioration de la stabilité de l'interface existante.
+*   Participation aux revues de code et aux sessions de formation pour améliorer mes compétences techniques.
 
-### Formation
-**Diplôme en Génie Logiciel, Université de Technologie de Lyon, 2017**
-- Cours axés sur la programmation orientée objet, les architectures logicielles et les méthodologies de développement agile.
+**Compétences Techniques**
 
-### Projets
-**E-commerce Platform (2023)**
-- Développement d'une plateforme de commerce électronique personnalisée pour un client de l'industrie de la mode, utilisant Angular et TypeScript.
-- Implémentation d'un système de gestion de catalogue et de panier d'achat, avec une interface utilisateur réactive.
+*   **Langages:** TypeScript, JavaScript (ES6+)
+*   **Frameworks/Librairies:** Angular (8, 12, 15), RxJS, Material UI
+*   **Outils:** Git, Webpack, npm, yarn, Jest, Cypress, Docker
+*   **Méthodologies:** Agile (Scrum, Kanban)
+*   **Autres:** HTML5, CSS3, REST APIs, Développement piloté par les tests (TDD)
 
-**Dynamic News Portal (2020)**
-- Conception et développement d'un portail d'actualités en temps réel, mettant à jour dynamiquement le contenu.
-- Utilisation de RxJS pour récupérer et mettre à jour les flux de données d'actualités en temps réel.
+**Formation**
+
+**Master Informatique, Spécialité Développement Web	Université Claude Bernard Lyon 1**
+Septembre 2015 – Juin 2017
+
+**Licence Informatique Université Jean Moulin Lyon 3**
+Septembre 2012 – Juin 2015
+
+**Projets Personnels**
+
+*   **Bibliothèque de Composants Angular:** Création d'une bibliothèque de composants Angular réutilisables avec Material UI, permettant de standardiser le développement d'interfaces utilisateur et d'accélérer le processus de création.
+*   **Blog Personnel:** Développement d'un blog personnel avec Angular, utilisant un backend sans serveur pour la gestion du contenu. Permet de démontrer mes compétences en développement Frontend et en gestion de projets.

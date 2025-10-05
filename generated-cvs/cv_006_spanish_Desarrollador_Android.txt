@@ -1,39 +1,49 @@
-## CURRICULUM VITAE
+**Juan Pérez García**
+juan.perez@email.com | +34 666 555 444 | LinkedIn Profile URL | GitHub Profile URL
 
-### Información Personal
-Nombre: Álvaro Rodríguez Sánchez
+**Resumen Profesional**
 
-### Resumen Profesional
-Desarrollador Android altamente calificado con una amplia experiencia en la creación de soluciones innovadoras utilizando el lenguaje Kotlin. Poseo un sólido dominio del ecosistema Android, incluyendo el SDK, y he implementado exitosamente arquitecturas robustas con Retrofit y Dagger. Mi enfoque está en el desarrollo de software eficiente y escalable, garantizando una experiencia de usuario excepcional.
+Desarrollador con experiencia en la creación de soluciones robustas y eficientes utilizando Kotlin y el entorno Android. Especializado en la arquitectura limpia y la integración de APIs mediante Retrofit, con un fuerte enfoque en la inyección de dependencias con Dagger para garantizar la mantenibilidad y la testabilidad del código.
 
-### Experiencia Laboral
+**Experiencia Profesional**
 
-**Desarrollador Senior Android, TechSolutions Inc. (2022-presente)**
-- Lideré el desarrollo de una plataforma de comercio electrónico para dispositivos Android, logrando un aumento del 20% en las ventas móviles.
-- Implementé arquitecturas limpias y modulares utilizando Dagger para mejorar la mantenibilidad y la escalabilidad.
-- Colaboré en un equipo ágil para la entrega continua de funcionalidades, garantizando la calidad con pruebas unitarias y de integración.
+**Ingeniero Kotlin, DevSolutions S.A.** | Madrid, España | Enero 2020 – Presente
 
-**Ingeniero de Software Android, DevTech Ltd. (2018-2022)**
-- Desarrollé varias aplicaciones Android para clientes del sector bancario y de telecomunicaciones.
-- Integré servicios RESTful utilizando Retrofit para la gestión de datos en tiempo real.
-- Mejoré la eficiencia del código mediante la optimización del rendimiento y la reducción de errores.
+*   Diseño e implementación de nuevas funcionalidades para la plataforma Android, optimizando el rendimiento y mejorando la experiencia del usuario.
+*   Desarrollo de APIs RESTful con Retrofit para la comunicación entre la plataforma Android y los servicios backend.
+*   Utilización de Dagger para la gestión de dependencias, promoviendo un código modular y fácilmente testable.
+*   Participación activa en la revisión de código y en la implementación de pruebas unitarias e instrumentadas.
+*   Colaboración con el equipo de diseño para traducir wireframes y mockups en interfaces de usuario funcionales y atractivas.
 
-**Desarrollador Junior Android, StartApp Studio (2016-2018)**
-- Participé en el diseño y desarrollo de una aplicación Android para gestión de tareas, con una interfaz intuitiva y funciones personalizadas.
-- Trabajé en estrecha colaboración con el equipo de diseño para crear una experiencia de usuario atractiva.
-- Aprendí y apliqué buenas prácticas de programación y patrones de diseño en el entorno Android.
+**Desarrollador Android, InnovaTech Consulting** | Barcelona, España | Septiembre 2017 – Diciembre 2019
 
-### Habilidades Técnicas
-- **Kotlin**: Experto en el desarrollo de aplicaciones Android nativas con Kotlin, creando soluciones robustas y eficientes.
-- **Android SDK**: Profundo conocimiento del kit de desarrollo, incluyendo Activities, Fragments, y manejo de ciclos de vida.
-- **Retrofit**: Experiencia en la integración de APIs RESTful utilizando Retrofit para la comunicación de datos.
-- **Dagger**: Implementación exitosa de inyección de dependencias con Dagger para una arquitectura limpia y escalable.
-- Otros: Familiaridad con Git, Firebase, y herramientas de testing como JUnit y Espresso.
+*   Participación en el desarrollo de la interfaz de usuario utilizando el Android SDK y las Jetpack Compose.
+*   Integración de diversas bibliotecas y frameworks de terceros para enriquecer la funcionalidad de la plataforma Android.
+*   Colaboración con el equipo de testing para identificar y solucionar errores, garantizando la calidad del producto final.
+*   Implementación de soluciones para el almacenamiento persistente de datos, incluyendo bases de datos locales y almacenamiento en la nube.
+*   Migración de código legado a Kotlin, mejorando la mantenibilidad y la legibilidad del código base.
 
-### Educación
-- **Licenciatura en Ingeniería Informática**, Universidad de Sevilla, 2014-2018
-- Cursos relevantes: Programación Orientada a Objetos, Arquitectura de Software, Bases de Datos.
+**Habilidades Técnicas**
 
-### Proyectos Destacados
-- **SmartHome Android App**: Aplicación Android para el control de dispositivos domésticos inteligentes. Utilicé Retrofit para la comunicación con la API del fabricante y Dagger para la gestión de dependencias.
-- **Android Task Manager**: Aplicación de gestión de tareas con funcionalidades avanzadas, incluyendo sincronización en la nube y notificaciones personalizadas.
+*   **Lenguajes:** Kotlin (Avanzado), Java (Intermedio)
+*   **Plataformas:** Android SDK (Experto)
+*   **Bibliotecas/Frameworks:** Retrofit (Experto), Dagger (Experto), JUnit, Mockito, Coroutines, Flow, Room, Jetpack Compose
+*   **Patrones de Diseño:** MVVM, MVP, Clean Architecture
+*   **Control de Versiones:** Git (Experto)
+*   **Metodologías:** Agile/Scrum
+
+**Educación**
+
+**Grado en Ingeniería Informática, Universidad Politécnica de Madrid** | Madrid, España | Septiembre 2013 – Junio 2017
+
+**Proyectos**
+
+**Gestor de Tareas (Proyecto Personal)**
+
+*   Desarrollo de un gestor de tareas personal utilizando Kotlin, Android SDK, Retrofit y Dagger.
+*   Implementación de funcionalidades para la creación, edición y gestión de tareas, con sincronización de datos en la nube.
+
+**Librería de UI Personalizada (Proyecto Open Source)**
+
+*   Creación y mantenimiento de una librería de componentes de interfaz de usuario personalizados para el Android SDK, disponible en GitHub.
+*   Desarrollo de componentes reutilizables y altamente configurables, facilitando la creación de interfaces de usuario consistentes y atractivas.

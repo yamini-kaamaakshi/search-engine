@@ -1,0 +1,49 @@
+**Daniel Schmidt**
+(123) 456-7890 | daniel.schmidt@email.com | linkedin.com/in/danielschmidt
+
+**Summary**
+
+A highly motivated and results-oriented Frontend Developer with several years of experience specializing in React and its ecosystem. Proficient in building scalable and maintainable user interfaces using modern technologies such as TypeScript, Next.js, and Tailwind CSS. Passionate about creating efficient and engaging user experiences.
+
+**Work Experience**
+
+**Frontend Developer | TechSolutions Inc. | New York, NY | June 2020 – Present**
+
+*   Developed and maintained user interfaces for various web platforms utilizing React, TypeScript, and Next.js.
+*   Implemented responsive designs and ensured cross-browser compatibility, significantly improving user accessibility.
+*   Collaborated with backend engineers and designers to deliver high-quality features and enhancements.
+*   Utilized Tailwind CSS to create maintainable and consistent styling across all projects.
+*   Contributed to code reviews and promoted best practices within the development team.
+
+**React Developer | WebCraft Studios | Chicago, IL | August 2018 – June 2020**
+
+*   Developed and implemented reusable React components, increasing code efficiency and reducing development time.
+*   Worked closely with UX/UI designers to translate wireframes and mockups into functional and visually appealing user interfaces.
+*   Participated in sprint planning and daily stand-up meetings using Agile methodologies.
+*   Contributed to improving website performance by optimizing code and assets.
+
+**Technical Skills**
+
+*   **Languages:** TypeScript, JavaScript (ES6+)
+*   **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, React Router, Axios, Styled-Components
+*   **Styling:** Tailwind CSS, CSS3, HTML5
+*   **Version Control:** Git (GitHub, GitLab, Bitbucket)
+*   **Testing:** Jest, React Testing Library
+*   **Bundlers/Build Tools:** Webpack, Babel, npm, yarn
+*   **Other:** RESTful APIs, Responsive Design, Cross-Browser Compatibility, Agile Methodologies
+
+**Education**
+
+**Bachelor of Science in Computer Science | University of Illinois | Champaign, IL | August 2014 – May 2018**
+
+**Projects**
+
+**Personal Portfolio Website | React, Next.js, Tailwind CSS | [Link to Website/GitHub (Optional)]**
+
+*   Designed and developed a personal portfolio to showcase skills and projects using React, Next.js, and Tailwind CSS.
+*   Implemented server-side rendering (SSR) for improved performance and SEO.
+
+**E-commerce Frontend Clone | React, Redux, Tailwind CSS | [Link to GitHub (Optional)]**
+
+*   Built a functional frontend clone of an e-commerce platform using React, Redux, and Tailwind CSS.
+*   Implemented features such as product listing, cart management, and checkout process (simulated).

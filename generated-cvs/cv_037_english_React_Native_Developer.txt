@@ -1,0 +1,50 @@
+**Elena Petrova**
+(123) 456-7890 | elena.petrova@email.com | linkedin.com/in/elenapetrova
+
+**Summary**
+
+A highly motivated and results-oriented Software Developer with 5+ years of experience specializing in cross-platform solutions using React Native. Proven ability to design, develop, and maintain performant and scalable user interfaces, leveraging strong expertise in JavaScript, Redux, and Expo.
+
+**Work Experience**
+
+**Cross-Platform Engineer | TechSolutions Inc. | San Francisco, CA | June 2020 – Present**
+
+*   Developed and maintained several user-facing features for the company's flagship product using React Native, contributing to a 30% increase in user engagement.
+*   Collaborated with a team of engineers to architect and implement new functionalities, ensuring adherence to best practices and code quality standards.
+*   Utilized Redux for state management, resulting in improved data flow and a more predictable user experience.
+*   Leveraged Expo to streamline the build and deployment process, reducing release cycles by 15%.
+*   Participated in code reviews, providing constructive feedback and ensuring maintainability of the codebase.
+
+**React Native Developer | Innovate Software Solutions | New York, NY | August 2018 – May 2020**
+
+*   Contributed to the development of a variety of client projects using React Native, focusing on creating intuitive and engaging user experiences.
+*   Worked closely with designers and product managers to translate wireframes and mockups into functional and visually appealing interfaces.
+*   Implemented complex UI components and integrated them with back-end APIs.
+*   Troubleshooted and resolved performance issues, optimizing the code for speed and efficiency.
+*   Wrote unit and integration tests to ensure code quality and prevent regressions.
+
+**Technical Skills**
+
+*   **Languages:** JavaScript (ES6+), HTML, CSS
+*   **Frameworks/Libraries:** React Native, Redux, React, Styled-Components, Jest, Enzyme, React Navigation
+*   **Platforms/Tools:** Expo, Git, GitHub, Jira, Confluence, REST APIs, GraphQL
+
+**Education**
+
+**Master of Science in Computer Science | Columbia University | New York, NY | 2016 – 2018**
+
+**Bachelor of Science in Software Engineering | Moscow State University | Moscow, Russia | 2012 – 2016**
+
+**Projects**
+
+**Personal Finance Tracker**
+
+*   Developed a personal finance tracker using React Native, allowing users to manage their budget and track expenses.
+*   Implemented features such as income and expense tracking, budgeting, and reporting.
+*   Utilized Redux for state management and Expo for build and deployment.
+
+**Recipe Sharing Platform**
+
+*   Created a recipe sharing platform built with React Native, enabling users to discover and share their favorite recipes.
+*   Implemented features such as user authentication, recipe search, and social sharing.
+*   Integrated with a REST API for data retrieval and storage.

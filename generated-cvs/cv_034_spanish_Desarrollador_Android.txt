@@ -1,0 +1,48 @@
+**Javier Rodríguez Pérez**
+javier.rodriguez@email.com | (+34) 612 345 678 | LinkedIn Profile URL (optional)
+
+**Resumen Profesional**
+
+Desarrollador con amplia experiencia en la creación de soluciones robustas y escalables para la plataforma Android utilizando Kotlin. Especializado en la arquitectura limpia, la inyección de dependencias y la integración de servicios web. Busco oportunidades para contribuir al desarrollo de productos innovadores y de alto impacto.
+
+**Experiencia Laboral**
+
+**Desarrollador Android Senior | Tech Solutions S.A. | Madrid | 2019 – Presente**
+
+*   Lideré el desarrollo de nuevas funcionalidades en la plataforma Android principal de la empresa, utilizando Kotlin y la Android SDK.
+*   Implementé la inyección de dependencias con Dagger para mejorar la testabilidad y el mantenimiento del código.
+*   Integré APIs RESTful utilizando Retrofit, optimizando el rendimiento y la gestión de errores.
+*   Participé en la revisión de código y la mentoría de desarrolladores junior.
+*   Colaboré en la definición de la arquitectura del proyecto y la selección de tecnologías.
+
+**Ingeniero Kotlin | InnovaTech Digital | Barcelona | 2017 – 2019**
+
+*   Desarrollé módulos y bibliotecas en Kotlin para la plataforma Android, enfocándome en la reutilización y la modularidad.
+*   Implementé pruebas unitarias y de integración para garantizar la calidad del código.
+*   Trabajé en la optimización del rendimiento de la interfaz de usuario y la gestión de la batería.
+*   Participé activamente en las reuniones de planificación y diseño del equipo.
+
+**Habilidades Técnicas**
+
+*   **Lenguajes:** Kotlin, Java
+*   **Plataformas:** Android SDK
+*   **Bibliotecas y Frameworks:** Retrofit, Dagger, Coroutines, JUnit, Mockito
+*   **Herramientas:** Android Studio, Git, Gradle, Jira, Confluence
+*   **Patrones de Diseño:** MVVM, Clean Architecture
+*   **Principios:** SOLID
+
+**Formación Académica**
+
+**Grado en Ingeniería Informática | Universidad Politécnica de Valencia | Valencia | 2013 – 2017**
+
+**Proyectos**
+
+**Gestor de Tareas Android (Proyecto Personal)**
+
+*   Desarrollé un gestor de tareas completo para la plataforma Android utilizando Kotlin, Retrofit y Dagger.
+*   Implementé una interfaz de usuario intuitiva y fácil de usar con componentes personalizados.
+*   Integré notificaciones push y sincronización de datos en segundo plano.
+
+**Contribución a la Biblioteca Open Source "KotlinUtils"**
+
+*   Contribuí con la implementación de nuevas funciones y mejoras a la biblioteca "KotlinUtils" para la plataforma Android, mejorando la eficiencia en la gestión de datos y colecciones.

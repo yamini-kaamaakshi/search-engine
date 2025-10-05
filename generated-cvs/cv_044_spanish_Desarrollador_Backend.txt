@@ -1,0 +1,48 @@
+**Javier Rodríguez García**
+javier.rodriguez@email.com | (+34) 612 345 678 | LinkedIn Profile URL (optional)
+
+**Resumen Profesional**
+
+Desarrollador Backend con más de 5 años de experiencia en el diseño, desarrollo e implementación de soluciones robustas y escalables utilizando Python y el framework Django.  Profundo conocimiento de bases de datos relacionales, en particular MySQL, y experiencia con sistemas de caché como Redis para optimizar el rendimiento de aplicaciones web.
+
+**Experiencia Laboral**
+
+**Desarrollador Backend, TecnoSoluciones Digitales, Madrid**
+Enero 2020 – Presente
+
+*   Participé en el desarrollo y mantenimiento de APIs RESTful robustas utilizando Django REST Framework, para dar soporte a diversas plataformas web.
+*   Diseñé e implementé modelos de datos eficientes en MySQL, optimizando consultas para mejorar el rendimiento general de las aplicaciones.
+*   Implementé estrategias de caching con Redis para reducir la latencia y mejorar la escalabilidad de la plataforma.
+*   Colaboré con el equipo de frontend para integrar las APIs y garantizar la correcta funcionalidad del sistema.
+*   Participé en la revisión de código y la realización de pruebas unitarias y de integración para asegurar la calidad del software.
+
+**Desarrollador Python, InnovaTech Solutions, Barcelona**
+Julio 2017 – Diciembre 2019
+
+*   Desarrollé y mantuve componentes backend utilizando Python y Django para un sistema de gestión de contenido.
+*   Contribuí a la migración de una base de datos heredada a una nueva estructura en MySQL.
+*   Implementé soluciones para el procesamiento de datos en tiempo real utilizando colas de mensajes y Redis.
+*   Participé en la planificación y diseño de nuevas funcionalidades del sistema, contribuyendo con soluciones innovadoras.
+*   Trabajé en un entorno de desarrollo ágil, participando en sprints y reuniones diarias.
+
+**Habilidades Técnicas**
+
+*   **Lenguajes de Programación:** Python
+*   **Frameworks:** Django, Django REST Framework
+*   **Bases de Datos:** MySQL, PostgreSQL (conocimiento básico)
+*   **Caché:** Redis
+*   **Control de Versiones:** Git
+*   **Testing:** Unittest, Pytest
+*   **Servidores Web:**  Nginx, Apache (conocimiento básico)
+*   **Despliegue:** Docker (conocimiento básico),  Amazon Web Services (AWS - conocimiento básico)
+*   **Metodologías:** Agile (Scrum)
+
+**Educación**
+
+**Ingeniería Informática, Universidad Politécnica de Valencia**
+Septiembre 2013 – Junio 2017
+
+**Proyectos Personales**
+
+*   **Sistema de Gestión de Inventario (Django):** Desarrollé un sistema web para gestionar el inventario de una pequeña empresa, utilizando Django, MySQL y Bootstrap.  Incluye funcionalidades de gestión de productos, proveedores y ventas. (Código disponible en GitHub - opcional)
+*   **API de Recomendación de Libros (Python/Flask):**  Creé una API para recomendar libros basándose en el historial de lectura del usuario, utilizando Python, Flask y una base de datos MySQL.  Incorpora algoritmos básicos de filtrado colaborativo.

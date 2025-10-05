@@ -1,36 +1,46 @@
-# Juan Carlos García
+**Juan Pérez García**
+juan.perez@email.com | (+34) 666 123 456 | LinkedIn Profile URL (optional) | GitHub Profile URL (optional)
 
-## Desarrollador de Software Especializado en Backend
+**Resumen Profesional**
 
-**Resumen Profesional:**
-Desarrollador backend con más de cinco años de experiencia en la creación de soluciones escalables y robustas. Experto en la arquitectura de software Python, con un enfoque en frameworks como Django para el desarrollo web. Amplia experiencia en la gestión de bases de datos MySQL y en la optimización del rendimiento utilizando Redis.
+Desarrollador Backend con experiencia en el diseño e implementación de soluciones escalables y eficientes utilizando Python y Django.  Profundo conocimiento en gestión de bases de datos relacionales (MySQL) y sistemas de caché distribuidos (Redis).  Apasionado por crear código limpio, mantenible y de alto rendimiento.
 
-**Experiencia Laboral:**
-- **Desarrollador Senior, TechSolutions (2022-presente):**
-  - Lideré el rediseño de la arquitectura backend de la plataforma de e-commerce, migrando de Ruby on Rails a Python/Django, lo que resultó en una mejora significativa en el rendimiento y la escalabilidad.
-  - Implementé un sistema de caché con Redis para acelerar las consultas de base de datos, reduciendo los tiempos de respuesta en un 30%.
-  - Gestioné un equipo de desarrolladores junior, ofreciendo mentoría y asegurando prácticas de código limpio y eficiente.
+**Experiencia Laboral**
 
-- **Desarrollador de Software, WebDev Studios (2019-2022):**
-  - Desarrollé y mantuve múltiples proyectos web utilizando Python y Django, incluyendo un portal educativo y una plataforma de gestión de eventos.
-  - Colaboré en la creación de APIs RESTful seguras y eficientes para integraciones con terceros.
-  - Optimicé las consultas de base de datos MySQL, mejorando la velocidad de carga de las páginas en un 25%.
+**Desarrollador Backend,  Innovación Tecnológica S.A.**  | Madrid, España |  Junio 2019 – Presente
 
-- **Programador Junior, SoftTech Innovations (2017-2019):**
-  - Trabajé en un equipo ágil para desarrollar soluciones backend personalizadas para clientes de diversos sectores.
-  - Contribución en la creación de scripts de automatización en Python para tareas de administración del sistema.
-  - Adquirí experiencia en la gestión de servidores y bases de datos MySQL.
+*   Diseño e implementación de APIs RESTful utilizando Django Rest Framework para la comunicación entre diferentes servicios.
+*   Optimización del rendimiento de la base de datos MySQL a través de la implementación de índices y la refactorización de consultas complejas.
+*   Desarrollo y mantenimiento de colas de tareas asíncronas utilizando Celery y Redis para la gestión de procesos en segundo plano.
+*   Implementación de pruebas unitarias y de integración para garantizar la calidad y estabilidad del código.
+*   Participación activa en la definición de la arquitectura de nuevos proyectos y en la mejora continua de la infraestructura existente.
 
-**Habilidades Técnicas:**
-- **Lenguajes de Programación:** Python (expert), C++, JavaScript.
-- **Frameworks:** Django (avanzado), Flask, HTML/CSS.
-- **Bases de Datos:** MySQL (avanzado), PostgreSQL, Redis (cache management).
-- **Herramientas:** Git, Docker, AWS (EC2, RDS), CI/CD.
+**Desarrollador Python,  Soluciones Digitales Integrales SL.** | Barcelona, España | Septiembre 2017 – Mayo 2019
 
-**Formación Académica:**
-- **Universidad Nacional de Tecnología (UNT):** Licenciatura en Ciencias de la Computación (2013-2017).
-- **Cursos Online:** Certificaciones en Django, Redis Cache Strategies.
+*   Desarrollo de scripts y herramientas en Python para la automatización de tareas y la gestión de datos.
+*   Participación en la creación de una plataforma de análisis de datos utilizando Django y MySQL.
+*   Colaboración con el equipo de frontend para la integración de las APIs backend con la interfaz de usuario.
+*   Resolución de incidencias y mantenimiento del código existente.
 
-**Proyectos Destacados:**
-- **E-commerce Platform Migration:** Lideré la migración de una plataforma de comercio electrónico de Ruby a Python/Django, mejorando el rendimiento y la escalabilidad.
-- **Event Management System:** Desarrollo de un sistema de gestión de eventos con funciones de registro de usuarios, administración de entradas y análisis en tiempo real.
+**Habilidades Técnicas**
+
+*   **Lenguajes de Programación:** Python
+*   **Frameworks:** Django, Django Rest Framework, Celery
+*   **Bases de Datos:** MySQL, Redis
+*   **Herramientas:** Git, Docker, Linux, Nginx
+*   **Metodologías:** Agile (Scrum, Kanban)
+*   **Otros:** APIs RESTful, Testing (Unit, Integration),  Patrones de Diseño
+
+**Educación**
+
+**Grado en Ingeniería Informática,  Universidad Politécnica de Madrid** | Madrid, España | Septiembre 2013 – Junio 2017
+
+**Proyectos**
+
+**Plataforma de Gestión de Contenido (Django, MySQL, Redis):**
+
+*   Desarrollo de una plataforma completa para la gestión y publicación de contenido online. La plataforma incluye funcionalidades de creación de usuarios, gestión de roles y permisos, y un sistema de búsqueda avanzado utilizando Redis para la indexación.
+
+**API de Recomendación (Python, Django Rest Framework, MySQL):**
+
+*   Creación de una API RESTful para la recomendación de productos basada en el historial de compras y las preferencias de los usuarios.  La API utiliza un algoritmo de filtrado colaborativo implementado en Python y almacena los datos en una base de datos MySQL.

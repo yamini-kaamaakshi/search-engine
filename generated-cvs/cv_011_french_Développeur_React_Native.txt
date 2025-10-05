@@ -1,37 +1,50 @@
-## CURRICULUM VITAE
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.com | (33) 6 12 34 56 78 | LinkedIn Profile URL
 
-### Simon Gauthier
+**Résumé Professionnel**
 
-#### Développeur React Native Expérimenté
+Développeur React Native expérimenté, passionné par la création d'interfaces utilisateur performantes et intuitives. Maîtrise du développement cross-platform avec un focus sur l'intégration de fonctionnalités natives via les Native Modules. Habitué à travailler en environnement Agile et à collaborer efficacement avec des équipes multidisciplinaires.
 
-Développeur React Native passionné avec 5 ans d'expérience dans la création d'interfaces utilisateur fluides et performantes. Expertise dans la construction d'applications multiplateformes, en mettant l'accent sur l'expérience utilisateur et la modularité du code.
+**Expérience Professionnelle**
 
-#### Expérience Professionnelle
+**Développeur React Native | InnovTech Solutions | Paris | 2019 – Présent**
 
-**Développeur React Native Senior, TechInnov Solutions (2022-présent)**
-- Conçu et développé des solutions logicielles React Native pour divers clients, incluant une plateforme de commerce électronique et une application de gestion de tâches.
-- Collaboré avec les équipes de design pour traduire les maquettes en interfaces réactives et attrayantes.
-- Intégré des modules natifs pour améliorer les fonctionnalités de l'appareil et optimiser les performances.
+*   Conception et développement de nouvelles fonctionnalités pour la plateforme cross-platform principale, en utilisant React Native et Redux Toolkit pour une gestion efficace de l'état de l'interface.
+*   Intégration et maintenance de Native Modules pour accéder aux fonctionnalités spécifiques du système d'exploitation et améliorer les performances.
+*   Participation active à la revue de code et à l'amélioration continue des processus de développement.
+*   Collaboration étroite avec les équipes de design et de test pour garantir la qualité et l'expérience utilisateur.
 
-**Ingénieur Logiciel, Digital Horizons (2020-2022)**
-- Participé à la refonte de l'architecture d'une application existante en utilisant React Native, améliorant la maintenabilité et l'extensibilité.
-- Mis en œuvre Redux Toolkit pour gérer l'état de l'application, assurant une logique d'interface utilisateur cohérente et réactive.
-- Collaboré étroitement avec l'équipe de testeurs pour garantir la qualité du code et la résolution rapide des bogues.
+**Développeur Front-End | Digital Factory | Lyon | 2017 – 2019**
 
-**Développeur Junior, SoftTech Solutions (2018-2020)**
-- Apporté une contribution précieuse au sein d'une équipe agile, développant et maintenant des applications React Native pour des clients du secteur des services financiers.
-- Acquérir une solide compréhension des meilleures pratiques de développement React Native et des normes de codage.
+*   Développement d'interfaces utilisateur dynamiques et responsives avec React.
+*   Participation à la migration de l'architecture vers une approche basée sur les composants.
+*   Contribution à la mise en place des tests unitaires et d'intégration.
+*   Optimisation des performances des interfaces existantes.
 
-#### Compétences Techniques
-- **React Native** : Expertise dans la création d'interfaces utilisateur réactives et la gestion des composants.
-- **Redux Toolkit** : Expérience dans la gestion de l'état de l'application complexe et la logique métier.
-- **Modules Natifs** : Intégration réussie de modules pour accéder aux fonctionnalités spécifiques de l'appareil.
-- JavaScript, TypeScript, Git, RESTful APIs, Jest (tests unitaires).
+**Compétences Techniques**
 
-#### Formation
-- **Licence Informatique**, Université de Lyon, 2016-2018
-- Projets académiques mettant en valeur les compétences en programmation orientée objet et en conception d'interfaces utilisateur.
+*   **Langages & Frameworks:** React Native, React, JavaScript (ES6+), TypeScript (bases)
+*   **Gestion d'État:** Redux Toolkit, Redux, Context API
+*   **Modules Natifs:** Développement et intégration de Native Modules (iOS/Android)
+*   **Outils:** Git, npm/yarn, Jest, ESLint, Prettier, Xcode, Android Studio
+*   **Méthodologies:** Agile/Scrum
+*   **Autres:** REST APIs, JSON, Firebase (notions)
 
-#### Projets
-- **Gestionnaire de Finances Personnelles** : Application React Native permettant aux utilisateurs de suivre leurs dépenses et revenus, avec des graphiques interactifs et des notifications personnalisées.
-- **Portail d'Actualités** : Plateforme de nouvelles multiplateformes avec une personnalisation avancée et des fonctionnalités hors ligne.
+**Formation**
+
+**Master Informatique | Université Claude Bernard Lyon 1 | Lyon | 2015 – 2017**
+Spécialisation : Ingénierie Logicielle
+
+**Licence Informatique | Université Jean Moulin Lyon 3 | Lyon | 2012 – 2015**
+
+**Projets Personnels**
+
+**Bibliothèque de Composants React Native (Open Source)**
+
+*   Développement d'une bibliothèque de composants React Native réutilisables, avec une documentation exhaustive et des exemples d'utilisation.
+*   Utilisation de Storybook pour la visualisation et le test des composants.
+
+**Interface pour Suivi de l'Activité Physique (React Native)**
+
+*   Création d'une interface pour le suivi des activités physiques, intégrant des Native Modules pour l'accès aux capteurs du dispositif.
+*   Utilisation de Redux Toolkit pour la gestion de l'état et la persistance des données.

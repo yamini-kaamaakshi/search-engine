@@ -1,0 +1,50 @@
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.com | +33 6 12 34 56 78 | LinkedIn Profile URL
+
+**Résumé Professionnel**
+
+Développeur Frontend passionné avec une solide expérience dans la conception et le développement d'interfaces utilisateur riches et interactives. Expert en Angular, TypeScript et RxJS, je suis capable de transformer des exigences fonctionnelles complexes en solutions logicielles performantes et maintenables. J'apprécie particulièrement le travail en équipe et l'optimisation continue du code.
+
+**Expérience Professionnelle**
+
+**Développeur Frontend Senior** | Société Tech Innov, Paris | Mars 2020 - Présent
+
+*   Dirigé le développement de plusieurs fonctionnalités clés pour une plateforme web complexe en utilisant Angular, TypeScript, RxJS et Material UI.
+*   Responsable de l'amélioration continue du code existant, de l'optimisation des performances et de la maintenance de la documentation.
+*   Collaboré étroitement avec les équipes de design, de backend et de test pour garantir une expérience utilisateur optimale.
+*   Mentoré des développeurs juniors et partagé les meilleures pratiques de développement Angular.
+
+**Développeur Frontend** | Web Solutions SAS, Lyon | Septembre 2017 - Février 2020
+
+*   Participé à la conception et au développement de plusieurs interfaces utilisateur pour des clients variés en utilisant Angular et Material UI.
+*   Développé des tests unitaires et d'intégration pour assurer la qualité du code.
+*   Contribué à la migration d'anciens projets vers des technologies plus modernes, notamment Angular.
+*   Travaillé en étroite collaboration avec les chefs de projet pour respecter les délais et les budgets.
+
+**Compétences Techniques**
+
+*   **Langages:** TypeScript, JavaScript, HTML5, CSS3
+*   **Frameworks & Librairies:** Angular (v2+), RxJS, Material UI, NgRx (Notions)
+*   **Outils:** Git, npm, yarn, Webpack, Visual Studio Code, Chrome DevTools
+*   **Méthodologies:** Agile (Scrum, Kanban)
+*   **Tests:** Jest, Karma, Protractor (Notions)
+*   **Autres:** RESTful APIs, Gestion de versions (Git), Intégration continue (CI/CD)
+
+**Formation**
+
+**Master Informatique, Spécialité Génie Logiciel** | Université Paris-Saclay, Orsay | 2015 - 2017
+
+**Licence Informatique** | Université Claude Bernard Lyon 1, Lyon | 2012 - 2015
+
+**Projets Personnels**
+
+**Plateforme de Gestion de Projet (Angular, TypeScript, RxJS, Material UI)**
+
+*   Développement d'une plateforme web complète pour la gestion de projets, permettant la création de tâches, l'assignation de ressources et le suivi des progrès.
+*   Utilisation intensive de RxJS pour la gestion des flux de données asynchrones et la réactivité de l'interface utilisateur.
+*   Implémentation d'une interface utilisateur intuitive et ergonomique grâce à Material UI.
+
+**Bibliothèque de Composants Angular Réutilisables**
+
+*   Création d'une bibliothèque de composants Angular réutilisables et testés, destinés à faciliter le développement d'interfaces utilisateur complexes.
+*   Documentation exhaustive de chaque composant et publication sur npm.

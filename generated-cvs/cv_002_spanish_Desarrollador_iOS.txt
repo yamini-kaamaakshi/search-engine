@@ -1,37 +1,46 @@
-## CV: Daniel García Rodríguez
+**[Nombre Completo]**
+[Dirección] | [Número de Teléfono] | [Correo Electrónico] | [Perfil de LinkedIn (opcional)]
 
-### Resumen Profesional:
-Experto desarrollador iOS con una sólida trayectoria en la creación de soluciones innovadoras para dispositivos Apple. Mi experiencia se centra en el uso de Swift para desarrollar software robusto y eficiente, integrando tecnologías clave como iOS SDK, CoreData y Combine. Poseo habilidades para liderar proyectos y trabajar en equipo, garantizando la entrega de productos de alta calidad.
+**Resumen Profesional**
 
-### Experiencia Laboral:
+Desarrollador iOS con [número, por ejemplo: 4] años de experiencia creando soluciones robustas y eficientes para la plataforma de Apple. Especializado en Swift y la arquitectura iOS SDK, con un fuerte enfoque en la gestión de datos persistente usando CoreData y programación reactiva con Combine.
 
-**Ingeniero de Software iOS, TechSolutions Inc. (2021-presente)**
-- Lideré el desarrollo de una plataforma de realidad aumentada para iOS, utilizando ARKit y CoreML, que resultó en un aumento del 20% en la interacción de los usuarios.
-- Implementé nuevas características en la aplicación principal de la empresa, mejorando la gestión de datos con CoreData y reduciendo los tiempos de carga en un 30%.
-- Colaboré en un equipo ágil para lanzar 3 versiones principales de la aplicación, mejorando continuamente la experiencia del usuario.
+**Experiencia Laboral**
 
-**Desarrollador iOS Senior, SoftTech Innovations (2018-2021)**
-- Diseñé y desarrollé módulos de la aplicación utilizando Swift, enfocándome en la optimización de rendimiento y la arquitectura MVVM.
-- Integré la biblioteca Combine para manejar flujos asíncronos, mejorando la gestión de errores y la estabilidad de la aplicación.
-- Participé en la formación de nuevos desarrolladores iOS, impartiendo talleres sobre buenas prácticas en Swift.
+**Ingeniero Swift** | [Nombre de la Empresa], [Ciudad] | [Mes Año] - [Mes Año]
+* Desarrollé y mantuve funcionalidades clave para la plataforma iOS, implementando nuevas características con Swift y el iOS SDK.
+* Implementé soluciones de gestión de datos persistentes usando CoreData, optimizando el rendimiento para grandes volúmenes de información.
+* Migré componentes existentes al paradigma de programación reactiva con Combine, mejorando la mantenibilidad y capacidad de prueba.
+* Colaboré estrechamente con diseñadores y gestores de producto para definir y refinar los requisitos del proyecto.
+* Realicé pruebas unitarias y de integración para garantizar la calidad del código y la estabilidad del sistema.
 
-**Ingeniero iOS Júnior, AppsMart (2017-2018)**
-- Colaboré en el desarrollo de una aplicación de comercio electrónico para iOS, garantizando la calidad del código y la experiencia del usuario.
-- Implementé funciones de notificaciones push y gestión de preferencias de usuario utilizando iOS SDK.
-- Asistí en la transición de Objective-C a Swift, migrando código y mejorando la eficiencia de la aplicación.
+**Desarrollador iOS** | [Nombre de la Empresa], [Ciudad] | [Mes Año] - [Mes Año]
+* Participé en el ciclo completo de desarrollo de software para iOS, desde la concepción hasta la publicación.
+* Creé interfaces de usuario dinámicas y responsivas utilizando Swift y el iOS SDK.
+* Implementé y consumí APIs RESTful para la comunicación con servicios backend.
+* Identifiqué y resolví errores y cuellos de botella en el rendimiento del sistema.
+* Contribuí a la documentación técnica del proyecto.
 
-### Habilidades Técnicas:
-- **Swift**: Experto en desarrollo con Swift, incluyendo patrones de diseño, programación funcional y manejo de errores.
-- **iOS SDK**: Profundo conocimiento de las API de iOS para acceder a funcionalidades del sistema y servicios de Apple.
-- **CoreData**: Experiencia en la gestión de bases de datos locales en iOS para almacenamiento de datos estructurados.
-- **Combine**: Habilidad para manejar flujos asíncronos y procesar datos en tiempo real.
-- Herramientas: Familiarizado con Xcode, Git, Fastlane, y tecnologías de integración continua.
+**Habilidades Técnicas**
 
-### Educación:
-**Universidad Tecnológica de Madrid, 2013-2017**
-- Grado en Ingeniería Informática, especializado en Sistemas de Información.
-- Proyecto Fin de Carrera: "Desarrollo de una herramienta de gestión de proyectos en Swift".
+* **Lenguajes de Programación:** Swift
+* **Frameworks & SDKs:** iOS SDK, CoreData, Combine, SwiftUI
+* **Metodologías:** Agile (Scrum)
+* **Control de Versiones:** Git
+* **Herramientas:** Xcode, Instruments, Fastlane
+* **Otras:** Patrones de Diseño (MVC, MVVM)
 
-### Proyectos Destacados:
-- **Realidad Aumentada para Retail**: Desarrollé un prototipo de aplicación iOS que permite a los usuarios visualizar productos en 3D en su entorno real, utilizando ARKit y SceneKit.
-- **Gestión de Tareas Personalizada**: Creé una aplicación de productividad con una interfaz personalizable, utilizando SwiftUI y CoreData, disponible en la App Store.
+**Educación**
+
+**[Título Universitario]** | [Nombre de la Universidad], [Ciudad] | [Año de Graduación]
+* [Especialización, si aplica]
+
+**Proyectos**
+
+**[Nombre del Proyecto]**
+* [Breve descripción del proyecto, destacando el uso de Swift, iOS SDK, CoreData o Combine. Por ejemplo: Una herramienta para gestionar tareas usando CoreData para la persistencia y Combine para la actualización en tiempo real de la interfaz.]
+* [Mencionar una tecnología clave utilizada y su impacto.]
+
+**[Nombre del Proyecto]**
+* [Breve descripción del proyecto, destacando el uso de Swift, iOS SDK, CoreData o Combine. Por ejemplo: Una aplicación de seguimiento de finanzas personales que utiliza el iOS SDK para la interacción con el usuario.]
+* [Mencionar una tecnología clave utilizada y su impacto.]

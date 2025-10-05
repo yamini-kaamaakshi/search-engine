@@ -1,47 +1,52 @@
-## Lebenslauf:  Jonas Weber
+**Max Mustermann**
+Musterstraße 123, 12345 Musterstadt | +49 123 4567890 | max.mustermann@email.de
 
-### Zusammenfassung:
+**Profil**
 
-Erfahrener Frontend-Entwickler mit einem starken Hintergrund in modernen Web-Technologien. Expertise in der Entwicklung reaktiver und benutzerfreundlicher Weboberflächen mit einem Fokus auf Performance und Zugänglichkeit. Leidenschaftlicher Verfechter agiler Methoden und bester Praktiken im Bereich der Softwareentwicklung.
+Erfahrener Frontend Entwickler mit fundierten Kenntnissen in der Entwicklung anspruchsvoller Benutzeroberflächen mit React und Redux. Spezialisiert auf die Optimierung von Build-Prozessen mit Webpack und die Sicherstellung hoher Code-Qualität durch umfassende Tests mit Jest. Engagiert, lösungsorientiert und teamfähig.
 
-### Berufserfahrung:
+**Berufserfahrung**
 
-**Senior Frontend Entwickler, WebTech GmbH (2021 - Gegenwart)**
-- Verantwortlich für die Implementierung und Wartung der Frontend-Architektur eines großen E-Commerce-Projekts.
-- Entwickelte eine modulare und skalierbare React-Komponentenbibliothek, die die Entwicklungsprozesse vereinfachte und die Code-Wiederverwendung optimierte.
-- Implementierte fortgeschrittene Funktionen wie Server-Side-Rendering mit Webpack und eine dynamische Benutzeroberfläche mit Redux-State-Management.
+**Frontend Entwickler** | TechSolutions GmbH, Berlin | 01/2020 – heute
 
-**Frontend Engineer, DigitalCrafts (2018 - 2021)**
-- Engagiert bei der Entwicklung und Wartung mehrerer Webanwendungen für verschiedene Kunden aus der Finanz- und Gesundheitsbranche.
-- Zusammengearbeitet mit Designern, um interaktive Prototypen zu erstellen und die visuelle Qualität und Benutzererfahrung der Anwendungen zu verbessern.
-- Implementierte umfassende Testabdeckung mit Jest, um die Stabilität und Zuverlässigkeit der Frontend-Codebase sicherzustellen.
+*   Entwicklung und Wartung interaktiver Webanwendungen mit React und Redux.
+*   Implementierung neuer Features und Optimierung bestehender Funktionalitäten zur Verbesserung der Benutzerfreundlichkeit.
+*   Verantwortlich für die Konfiguration und Optimierung von Webpack-Build-Prozessen.
+*   Erstellung und Durchführung von Unit- und Integrationstests mit Jest zur Sicherstellung der Codequalität.
+*   Aktive Mitarbeit in agilen Entwicklungsteams (Scrum).
+*   Enge Zusammenarbeit mit UX/UI Designern zur Umsetzung optimaler Benutzererlebnisse.
 
-**Junior Web Developer, SoftSolutions AG (2016 - 2018)**
-- War Teil eines agilen Teams und unterstützte die Entwicklung und den Rollout einer Unternehmenswebsite.
-- Erstellte responsive Webseitenlayouts und interaktive Elemente mit JavaScript.
-- Gewährleistete die Qualität der Website durch Code-Reviews und die Implementierung von Best Practices.
+**Junior Frontend Entwickler** | WebDev Solutions, Hamburg | 08/2017 – 12/2019
 
-### Technische Fähigkeiten:
+*   Unterstützung bei der Entwicklung von Web-Frontends mit React.
+*   Mitarbeit bei der Implementierung von Redux zur Zustandsverwaltung.
+*   Erstellung von Testfällen mit Jest.
+*   Unterstützung bei der Konfiguration von Build-Prozessen mit Webpack.
+*   Dokumentation von Code und Prozessen.
 
-- **React:** Experte im Erstellen von Komponenten, Handhabung des Lebenszyklus, und State-Management.
-- **Redux:** Erfahren in der Implementierung von komplexen State-Management-Systemen für reaktive Anwendungen.
-- **Webpack:** Kenntnisse in der Konfiguration und Optimierung von Build-Prozessen, einschließlich Code-Bundling und Modul-Resolution.
-- **Jest:** Profi bei der Erstellung von umfassenden Test-Suites für Frontend-Code.
-- **HTML/CSS:** Fortgeschrittene Kenntnisse in responsive Webdesign und der Erstellung von barrierefreien Benutzeroberflächen.
-- **JavaScript:** Erfahrung mit ES6+ und modernen JavaScript-Frameworks.
+**Technische Fähigkeiten**
 
-### Ausbildung:
+*   **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+)
+*   **Build Tools:** Webpack, Babel, npm, yarn
+*   **Testing:** Jest, Enzyme (oder React Testing Library), Cypress (Kenntnisse von End-to-End Tests sind vorhanden)
+*   **Zusätzliche Kenntnisse:** REST APIs, Git, Jira, Confluence, Agile Entwicklungsmethoden (Scrum)
+*   **Sonstiges:** Vertraut mit responsivem Webdesign und Cross-Browser-Kompatibilität.
 
-**Bachelor of Science in Informatik, Technische Universität Berlin (2012-2016)**
-- Schwerpunkt auf Softwareentwicklung und Webtechnologien.
-- Abschlussarbeit über die Optimierung von Webanwendungen für mobile Geräte.
+**Projekte**
 
-### Projekte:
+**E-Commerce Plattform Frontend**
 
-**E-Learning-Plattform (2020)**
-- Entwickelte eine interaktive Online-Lernplattform für eine gemeinnützige Organisation.
-- Implementierte ein benutzerfreundliches Dashboard mit React und Redux, das personalisierte Lernpfade und Fortschrittsverfolgung ermöglichte.
+*   Neuentwicklung des Frontends einer E-Commerce Plattform mit React und Redux.
+*   Implementierung komplexer Funktionalitäten wie Produktkatalog, Warenkorb und Checkout-Prozess.
+*   Optimierung der Performance durch Code-Splitting und Lazy-Loading mit Webpack.
+*   Umfassende Tests mit Jest zur Sicherstellung der Stabilität und Zuverlässigkeit.
 
-**Online-Community-Portal (2019)**
-- Gestaltete und implementierte ein responsives Community-Forum mit React und Redux.
-- Integrierte eine Echtzeit-Chat-Funktion mit WebSockets, die eine nahtlose Benutzerinteraktion ermöglichte.
+**Benutzerverwaltungssystem**
+
+*   Entwicklung eines Benutzerverwaltungssystems mit React für ein internes Projekt.
+*   Implementierung von Authentifizierungs- und Autorisierungsmechanismen.
+*   Design und Implementierung einer intuitiven Benutzeroberfläche.
+
+**Ausbildung**
+
+**Bachelor of Science (B.Sc.) Informatik** | Technische Universität, München | 2014 – 2017

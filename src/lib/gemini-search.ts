@@ -1,4 +1,5 @@
-import { rerankDocumentsWithGemini, type DocumentForRerank } from './gemini-service';
+import { generateGeminiQueryEmbedding, cosineSimilarity } from './gemini-service';
+import { rerankWithCohere, type DocumentForRerank } from './cohere-service';
 import { getAllDocuments } from './document-store';
 
 interface SearchableDocument {
@@ -12,9 +13,20 @@ interface SearchableDocument {
 }
 
 /**
- * Search documents using Gemini's AI capabilities
- * This provides semantic search that understands context and intent
- * rather than just keyword matching
+ * 2-STAGE SEMANTIC SEARCH
+ *
+ * Stage 1: Gemini Embeddings (Fast, Broad)
+ * - Convert query to embedding vector
+ * - Compare with all document embeddings using cosine similarity
+ * - Get top 20-30 candidates (fast vector search)
+ *
+ * Stage 2: Cohere Rerank (Accurate, Deep)
+ * - Use Cohere rerank-v3.5 to deeply analyze the candidates
+ * - Understands semantic meaning and context
+ * - Returns top N with accurate relevance scores
+ *
+ * Example: Query "mobile developer" finds CVs with "iOS", "Android", "Swift", "Kotlin"
+ * even though they don't explicitly say "mobile developer"
  */
 export async function searchDocumentsWithGemini(query: string, limit: number = 5) {
   try {
@@ -26,10 +38,31 @@ export async function searchDocumentsWithGemini(query: string, limit: number = 5
       return [];
     }
 
-    console.log(`Searching ${allDocs.length} document chunks for: "${query}"`);
+    console.log(`[Stage 1] Starting 2-stage search for "${query}" across ${allDocs.length} chunks`);
 
-    // Convert stored documents to rerank format
-    const docsForRerank: DocumentForRerank[] = allDocs.map(doc => ({
+    // STAGE 1: Gemini Embeddings - Get top candidates using cosine similarity
+    console.log('[Stage 1] Generating query embedding with Gemini...');
+    const queryEmbedding = await generateGeminiQueryEmbedding(query);
+
+    // Calculate cosine similarity for all documents
+    const candidates = allDocs
+      .filter(doc => doc.embedding) // Only documents with embeddings
+      .map(doc => ({
+        doc,
+        score: cosineSimilarity(queryEmbedding, doc.embedding!),
+      }))
+      .sort((a, b) => b.score - a.score) // Sort by similarity
+      .slice(0, Math.min(30, allDocs.length)); // Get top 30 candidates
+
+    console.log(`[Stage 1] Found ${candidates.length} candidates (top score: ${candidates[0]?.score.toFixed(3) || 'N/A'})`);
+
+    if (candidates.length === 0) {
+      console.log('No candidates found in Stage 1');
+      return [];
+    }
+
+    // Convert to DocumentForRerank format
+    const docsForRerank: DocumentForRerank[] = candidates.map(({ doc }) => ({
       id: doc.id,
       content: doc.content,
       filename: doc.filename,
@@ -39,21 +72,18 @@ export async function searchDocumentsWithGemini(query: string, limit: number = 5
       parentDocumentId: doc.parentDocumentId,
     }));
 
-    // Use Gemini to find most relevant documents
-    // This is where the magic happens - Gemini understands semantic meaning
-    // For example: "mobile developer" will match "iOS Engineer" or "Android Developer"
-    const rerankedDocs = await rerankDocumentsWithGemini(query, docsForRerank, limit);
+    // STAGE 2: Cohere Rerank - Deep semantic analysis
+    console.log(`[Stage 2] Reranking ${docsForRerank.length} candidates with Cohere rerank-v3.5...`);
+    const rerankedDocs = await rerankWithCohere(query, docsForRerank, limit);
 
-    // Filter out results with low relevance (below 50%)
-    // Set threshold high enough to filter out unrelated roles
-    const RELEVANCE_THRESHOLD = 0.45; // 50% minimum relevance
-    const filteredDocs = rerankedDocs.filter(doc => doc.relevance_score >= RELEVANCE_THRESHOLD);
-
-    console.log(`Found ${filteredDocs.length} relevant documents (filtered from ${rerankedDocs.length} total)`);
-    console.log('Top scores:', rerankedDocs.map(d => ({ file: d.filename, score: d.relevance_score })));
+    console.log(`[Stage 2] Reranking complete. Top ${rerankedDocs.length} results returned`);
+    console.log('Final scores:', rerankedDocs.map(d => ({
+      file: d.filename,
+      score: d.relevance_score.toFixed(3)
+    })));
 
     // Convert to search result format
-    const results = filteredDocs.map(doc => ({
+    const results = rerankedDocs.map(doc => ({
       id: doc.id,
       title: doc.filename || 'Untitled',
       content: doc.content || '',
@@ -66,7 +96,7 @@ export async function searchDocumentsWithGemini(query: string, limit: number = 5
 
     return results;
   } catch (error) {
-    console.error('Error in Gemini search:', error);
+    console.error('Error in 2-stage search:', error);
     throw error;
   }
 }

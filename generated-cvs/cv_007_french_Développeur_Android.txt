@@ -1,36 +1,51 @@
-# Jean-Luc Dupont
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.fr | (+33) 6 12 34 56 78 | LinkedIn Profile URL
 
-## Développeur Android chevronné | Expert en architecture Kotlin
+**Résumé Professionnel**
 
-### Résumé professionnel
-Développeur Android passionné avec plus de 5 ans d'expérience dans la création de solutions logicielles innovantes sur la plateforme Android. Expert en langage Kotlin, je me spécialise dans la conception d'architectures robustes et maintenables. Ma maîtrise des technologies modernes telles que Android Jetpack et Coroutines me permet de développer des applications Android performantes et réactives.
+Développeur logiciel expérimenté avec une expertise particulière dans la création de solutions innovantes sur la plateforme Android. Maîtrise approfondie de Kotlin et des composants d'Android Jetpack, permettant de concevoir des expériences utilisateur performantes et robustes. Habile à utiliser Firebase pour le développement backend et la gestion des données.
 
-### Expérience professionnelle
+**Expérience Professionnelle**
 
-**Développeur Android senior, TechInnov, Paris (2021-présent)**
-- J'ai mené la refonte complète de l'architecture de l'application Android de l'entreprise, passant d'une approche monolithique à une structure modulaire, ce qui a amélioré la maintenabilité et la flexibilité.
-- Intégration réussie de Firebase pour une gestion avancée des utilisateurs et des données en temps réel, améliorant ainsi l'expérience utilisateur.
-- Formation et encadrement d'une équipe de 3 développeurs juniors, leur enseignant les meilleures pratiques en matière de développement Android et de programmation Kotlin.
+**Développeur Android Senior | Tech Innov, Paris | Janvier 2020 – Présent**
 
-**Ingénieur logiciel Android, SoftTech Solutions, Lyon (2018-2021)**
-- Collaboré étroitement avec les concepteurs de produits pour traduire les maquettes en interfaces Android fluides et réactives.
-- Introduit Kotlin dans le processus de développement, augmentant la productivité et la qualité du code.
-- Développé des fonctionnalités complexes telles que les notifications push et les intégrations de paiement sécurisées.
+*   Conception, développement et maintenance de nouvelles fonctionnalités pour l'interface utilisateur existante, améliorant considérablement l'expérience utilisateur.
+*   Implémentation de l'architecture MVVM en utilisant Android Jetpack (LiveData, ViewModel, Data Binding) pour une meilleure gestion du cycle de vie des composants et une testabilité accrue.
+*   Optimisation des performances des fonctionnalités avec des coroutines Kotlin pour gérer les opérations asynchrones et réduire les blocages de l'interface utilisateur.
+*   Intégration et gestion de Firebase (Authentication, Firestore, Cloud Functions) pour la persistance des données, l'authentification des utilisateurs et les fonctionnalités côté serveur.
+*   Collaboration avec l'équipe de conception et les chefs de produit pour définir les spécifications et prioriser les tâches.
 
-**Développeur Android junior, StartApp, Toulouse (2017-2018)**
-- J'ai participé au développement d'une application Android de livraison de nourriture, en mettant l'accent sur les performances et l'expérience utilisateur.
-- Travail en étroite collaboration avec une équipe Agile, maîtrisant les cycles de développement rapides et itératifs.
+**Développeur Android | StartUp Solutions, Lyon | Septembre 2017 – Décembre 2019**
 
-### Compétences techniques
-- **Langages** : Kotlin (expert), Java (avancé)
-- **Android** : Android Jetpack, Architecture Components, Coroutines, Retrofit, Dagger, Firebase (Firestore, Authentication)
-- **Outils** : Android Studio, Git, Gradle, JUnit, Mockito
-- **Design Patterns** : MVVM, Clean Architecture, Dependency Injection
+*   Participation au développement de plusieurs modules, en utilisant Kotlin, et visant à améliorer la fonctionnalité de la plateforme principale.
+*   Contribution à l'amélioration continue du processus de développement en introduisant des tests unitaires et d'intégration.
+*   Résolution de bugs et amélioration du code existant pour garantir la stabilité et la performance.
+*   Utilisation de Git pour le contrôle de version et la collaboration avec l'équipe.
 
-### Formation
-**MSc. Informatique, Université de Lyon, 2017**
-- Spécialisation en génie logiciel avec une thèse sur les architectures Android modulaires.
+**Compétences Techniques**
 
-### Projets
-- **SmartHome Hub** : Application Android pour contrôler et surveiller des appareils domestiques intelligents, intégrant diverses API de fabricants.
-- **NewsFeed** : Plateforme de flux d'actualités personnalisée, utilisant les API de Google News et proposant un système de recommandation basé sur l'IA.
+*   **Langages:** Kotlin (Expert), Java (Bonnes connaissances)
+*   **Frameworks/Bibliothèques Android:** Android Jetpack (Compose, Navigation, ViewModel, LiveData, Data Binding, Room), Coroutines, Retrofit, OkHttp
+*   **Backend:** Firebase (Authentication, Firestore, Cloud Functions, Cloud Messaging), RESTful APIs
+*   **Outils:** Android Studio, Gradle, Git, Jira, Confluence, Suite Google (Docs, Sheets, Slides)
+*   **Méthodologies:** Agile (Scrum)
+*   **Tests:** Tests Unitaires (JUnit), Tests d'Intégration (Espresso)
+*   **Architecture:** MVVM, Clean Architecture
+
+**Formation**
+
+**Master Informatique | Université Claude Bernard Lyon 1 | 2015 – 2017**
+Spécialisation : Systèmes d'Information et Logiciels
+
+**Licence Informatique | Université Lumière Lyon 2 | 2012 – 2015**
+
+**Projets Personnels**
+
+**Gestionnaire de Tâches Kotlin:**
+
+*   Conception et développement d'un gestionnaire de tâches simple, utilisant Kotlin et Android Jetpack (Room pour la persistance des données et Navigation pour l'interface utilisateur).
+*   Implémentation de fonctionnalités de base telles que l'ajout, la modification et la suppression de tâches, ainsi que la gestion des priorités et des dates d'échéance.
+
+**Lecteur de Flux RSS:**
+
+*   Développement d'un lecteur de flux RSS personnalisable, utilisant Coroutines pour la récupération asynchrone des flux et Firebase pour la gestion des favoris.

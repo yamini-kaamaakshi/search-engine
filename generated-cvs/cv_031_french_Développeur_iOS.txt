@@ -1,0 +1,56 @@
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.com | +33 6 12 34 56 78 | LinkedIn Profile URL
+
+**Résumé Professionnel**
+
+Développeur iOS expérimenté, spécialisé dans la création d'interfaces utilisateur intuitives et performantes avec Swift et SwiftUI. Passionné par l'optimisation du code et le respect des meilleures pratiques de développement, je contribue à l'amélioration continue de la qualité du produit. J'ai une solide expérience dans le cycle de vie complet du développement, de la conception à la distribution.
+
+**Expérience Professionnelle**
+
+**Ingénieur Swift, InnovTech Solutions, Paris**
+*Mars 2020 – Présent*
+
+*   Conception et implémentation de nouvelles fonctionnalités avec Swift et SwiftUI pour une plateforme axée sur la productivité.
+*   Optimisation du code existant pour améliorer la performance et la stabilité de la plateforme.
+*   Participation active à la revue de code et à la définition des normes de développement.
+*   Déploiement et gestion des builds via TestFlight pour les tests utilisateurs.
+*   Collaboration étroite avec l'équipe de design pour garantir une expérience utilisateur optimale.
+*   Automatisation des tests unitaires et d'intégration pour assurer la qualité du code.
+
+**Développeur iOS, CréaNum, Lyon**
+*Septembre 2017 – Février 2020*
+
+*   Développement de solutions innovantes pour divers clients, utilisant Swift et Xcode.
+*   Intégration de services web (REST APIs) pour l'acquisition et la manipulation de données.
+*   Résolution de bugs et amélioration de la stabilité du code.
+*   Contribution à la documentation technique et aux guides d'utilisation.
+*   Respect des délais et des spécifications du projet.
+
+**Compétences Techniques**
+
+*   **Langages:** Swift (Expert), Objective-C (Notions)
+*   **Frameworks & Librairies:** SwiftUI, UIKit, Core Data, Core Animation, Combine, URLSession
+*   **IDE:** Xcode (Expert)
+*   **Outils:** TestFlight, Git, Jira, Confluence, CocoaPods, Swift Package Manager
+*   **Architectures:** MVVM, MVC
+*   **Méthodologies:** Agile (Scrum)
+
+**Formation**
+
+**Master en Informatique, Université de Lyon 1**
+*Septembre 2015 – Juin 2017*
+
+**Licence en Informatique, Université de Grenoble Alpes**
+*Septembre 2012 – Juin 2015*
+
+**Projets Personnels**
+
+**Fitness Tracker (SwiftUI)**
+
+*   Création d'une solution de suivi d'activité physique avec SwiftUI, incluant la gestion des données via Core Data et l'affichage de graphiques interactifs.
+*   Utilisation de l'API Core Motion pour la détection des mouvements.
+
+**Gestionnaire de Tâches (Swift)**
+
+*   Développement d'un outil de gestion des tâches avec une interface utilisateur simple et intuitive.
+*   Implémentation de fonctionnalités de tri, de filtrage et de notifications locales.

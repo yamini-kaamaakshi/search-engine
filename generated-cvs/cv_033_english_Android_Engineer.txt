@@ -1,0 +1,54 @@
+**Stefan Müller**
+stefan.mueller@email.com | +49 123 4567890 | LinkedIn Profile URL
+
+**Summary**
+
+Highly motivated and results-oriented software developer specializing in building high-performance user interfaces for the Android platform. Proficient in crafting robust and scalable solutions using Kotlin and modern Android architectural components. Experienced in collaborating within agile teams to deliver exceptional user experiences.
+
+**Work Experience**
+
+**Senior Android Engineer | TechSolutions GmbH | Berlin, Germany | 2020 – Present**
+
+*   Led the development of key features for the company's flagship product, utilizing Kotlin, Jetpack Compose, and Android Studio.
+*   Implemented robust data persistence solutions using Room, ensuring data integrity and optimal performance.
+*   Collaborated with product managers and designers to define product requirements and translate them into technical specifications.
+*   Mentored junior developers, fostering a collaborative and knowledge-sharing environment.
+*   Improved code quality and maintainability through code reviews and implementation of best practices.
+
+**Kotlin Developer | InnovateSoft AG | Munich, Germany | 2017 – 2020**
+
+*   Developed and maintained various features for existing software solutions, focusing on performance optimization and bug fixing.
+*   Contributed to the migration of legacy code to Kotlin, improving code readability and maintainability.
+*   Worked closely with QA engineers to ensure the quality and stability of software releases.
+*   Participated in sprint planning and daily stand-up meetings within an Agile/Scrum environment.
+*   Gained significant experience working with RESTful APIs and integrating them into the Android platform.
+
+**Technical Skills**
+
+*   **Languages:** Kotlin, Java (Proficient)
+*   **Platforms:** Android
+*   **Frameworks/Libraries:** Jetpack Compose, Room Persistence Library, Coroutines, Retrofit, Dagger/Hilt (Dependency Injection), JUnit, Mockito, Espresso
+*   **Tools:** Android Studio, Git, Jira, Confluence, Gradle
+*   **Architectural Patterns:** MVVM, Clean Architecture
+*   **Databases:** SQLite
+
+**Education**
+
+**Master of Science in Computer Science | Technical University of Munich | Munich, Germany | 2015 – 2017**
+
+*   Thesis: "Scalable Architectures for Data-Driven Android Experiences using Kotlin"
+
+**Bachelor of Science in Computer Science | University of Heidelberg | Heidelberg, Germany | 2012 – 2015**
+
+**Projects**
+
+**Personal Finance Tracker (Personal Project)**
+
+*   Developed a personal finance management solution using Kotlin, Jetpack Compose, and Room.
+*   Implemented features for tracking income, expenses, and budget management.
+*   Utilized modern Android architectural patterns to create a scalable and maintainable codebase.
+
+**Open Source Library - Compose Utils**
+
+*   Developed and maintained a small open-source Kotlin library providing reusable Jetpack Compose components.
+*   Contributed to the broader Android development community.

@@ -1,42 +1,51 @@
-# CV: Francisco Javier Rodríguez
+**[Nombre y Apellido]**
+[Número de teléfono] | [Dirección de correo electrónico] | [Perfil de LinkedIn (opcional)] | [Repositorio de GitHub (opcional)]
 
-## Resumen Profesional
-Desarrollador Frontend con más de cinco años de experiencia en la creación de interfaces de usuario interactivas y visualmente atractivas. Especializado en Vue.js y su ecosistema, con habilidades avanzadas en JavaScript y CSS. Mi objetivo es construir soluciones web que proporcionen una experiencia de usuario excepcional y una interfaz intuitiva.
+**Resumen Profesional**
 
-## Experiencia Laboral
+Desarrollador Frontend experimentado con una sólida trayectoria en la creación de interfaces de usuario dinámicas y escalables utilizando Vue.js y tecnologías asociadas.  Apasionado por optimizar el rendimiento y la accesibilidad, contribuyendo a la creación de experiencias web de alta calidad.  Experto en la implementación de soluciones frontend complejas y en la colaboración con equipos multidisciplinarios.
 
-**Desarrollador Frontend Senior, TechWeb Solutions (2022 - presente)**
-- Lideré el rediseño y migración de la plataforma web de la empresa utilizando Vue.js y Nuxt, mejorando la velocidad y la escalabilidad.
-- Implementé componentes reutilizables y modulares para una experiencia de usuario consistente en todo el sitio.
-- Colaboré estrechamente con diseñadores para traducir diseños en código, asegurando una apariencia precisa y una excelente experiencia de usuario.
+**Experiencia Laboral**
 
-**Desarrollador Frontend, Digital Creative Agency (2019 - 2022)**
-- Desarrollé interfaces de usuario interactivas y dinámicas para diversos proyectos web utilizando Vue.js y JavaScript.
-- Creé animaciones personalizadas y transiciones de página suaves para mejorar la experiencia del usuario.
-- Participé en el mantenimiento y la mejora continua de sitios web existentes, solucionando problemas y añadiendo nuevas funcionalidades.
+**Desarrollador Frontend | InnovaTech Solutions | Madrid, España | Enero 2020 – Presente**
 
-**Desarrollador Junior, WebDev Studios (2017 - 2019)**
-- Asistí a los desarrolladores senior en la construcción de sitios web dinámicos utilizando JavaScript y HTML/CSS.
-- Realicé pruebas y depuración de código para garantizar una funcionalidad sin errores.
-- Contribuyé a la implementación de buenas prácticas de código y estándares de calidad.
+*   Desarrollé y mantuve componentes reutilizables para la plataforma web principal utilizando Vue.js y SCSS, incrementando la eficiencia del equipo en un 20%.
+*   Implementé nuevas funcionalidades para el sitio web de la empresa utilizando Nuxt.js, mejorando la velocidad de carga y el SEO.
+*   Colaboré estrechamente con diseñadores y desarrolladores backend para asegurar la correcta integración de la interfaz de usuario con la lógica del servidor.
+*   Realicé pruebas unitarias y de integración para garantizar la calidad del código y la estabilidad de la plataforma.
+*   Participé en la revisión de código de otros miembros del equipo, fomentando las buenas prácticas y el conocimiento compartido.
 
-## Habilidades Técnicas
-- **Vue.js**: Proficiente en la creación de aplicaciones SPA (Single Page Application) utilizando Vue.js, con experiencia en la gestión de estado y la composición de componentes.
-- **JavaScript**: Conocimientos avanzados en ES6+, manipulación del DOM, y frameworks como Vuex para gestión de estado.
-- **Nuxt**: Experiencia en la construcción de aplicaciones Vue universales con Nuxt, incluyendo SSR (Server-Side Rendering).
-- **SCSS/CSS**: Maestría en la creación de hojas de estilo escalables y modulares, utilizando preprocesadores como SCSS para una mejor organización y mantenimiento.
-- **Herramientas**: Familiaridad con Git, Webpack, Babel y herramientas de desarrollo frontend modernas.
+**Desarrollador Frontend Junior | Web Solutions S.L. | Barcelona, España | Septiembre 2017 – Diciembre 2019**
 
-## Educación
-**Universidad Técnica Nacional, Licenciatura en Ingeniería de Software (2013-2017)**
-- Título en Ingeniería de Software con especialización en Desarrollo Web.
-- Proyecto final: "Sistema de Gestión de Eventos en Línea", utilizando tecnologías web avanzadas.
+*   Participé en el desarrollo de interfaces de usuario interactivas para diversos proyectos web utilizando JavaScript y Vue.js.
+*   Implementé estilos personalizados con SCSS para asegurar la consistencia visual y la accesibilidad de los proyectos.
+*   Colaboré en la optimización del rendimiento de la interfaz de usuario, reduciendo los tiempos de carga y mejorando la experiencia del usuario.
+*   Trabajé en la resolución de errores y problemas reportados por los usuarios, garantizando la estabilidad y la funcionalidad de los proyectos.
 
-## Proyectos Destacados
-**Eventify (2021)**
-- Desarrollé una plataforma web para la gestión y promoción de eventos, utilizando Vue.js y Nuxt.
-- Implementé un sistema de reservas y pago en línea seguro, mejorando la experiencia de compra de los usuarios.
+**Habilidades Técnicas**
 
-**VueShop (2020)**
-- Colaboré en un proyecto de e-commerce utilizando Vue.js y Vuex para la gestión de carritos de compra y productos.
-- Aporté componentes personalizados y animaciones para una experiencia de compra atractiva.
+*   **Lenguajes:** JavaScript (ES6+), HTML5, CSS3
+*   **Frameworks/Librerías:** Vue.js, Nuxt.js
+*   **Preprocesadores CSS:** SCSS
+*   **Control de Versiones:** Git
+*   **Herramientas de Construcción:** Webpack, Babel
+*   **Testing:** Jest, Cypress (Conocimientos básicos)
+*   **Metodologías:** Agile (Scrum)
+*   **Otros:** REST APIs, SEO (Conceptos básicos), Accesibilidad Web (WCAG)
+
+**Educación**
+
+**Grado en Ingeniería Informática | Universidad Politécnica de [Ciudad], España | Septiembre 2013 – Junio 2017**
+
+**Proyectos Personales**
+
+**Blog Personal (Vue.js + Nuxt.js)**
+
+*   Desarrollé un blog personal utilizando Vue.js y Nuxt.js para practicar y demostrar mis habilidades en el desarrollo frontend.
+*   Implementé funcionalidades como la gestión de entradas, la categorización y la búsqueda.
+*   Optimizé el rendimiento del sitio para asegurar una experiencia de usuario rápida y fluida.
+
+**Librería de Componentes UI (Vue.js)**
+
+*   Creé una librería de componentes UI reutilizables en Vue.js para facilitar el desarrollo de interfaces de usuario consistentes y escalables.
+*   Documenté los componentes con ejemplos de uso y casos de prueba.

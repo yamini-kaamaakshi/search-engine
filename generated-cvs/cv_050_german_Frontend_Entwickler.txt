@@ -1,0 +1,52 @@
+**Max Mustermann**
+Musterstraße 123, 12345 Musterstadt
++49 123 4567890 | max.mustermann@email.de | linkedin.com/in/maxmustermann
+
+**Profil**
+
+Engagierter und erfahrener Frontend Entwickler mit fundierten Kenntnissen in der Gestaltung und Implementierung benutzerfreundlicher Webanwendungen. Experte in der Verwendung von React, Redux, Webpack und Jest, um hochwertige und performante Lösungen zu entwickeln. Begeistert von der kontinuierlichen Weiterentwicklung und Anwendung neuer Technologien.
+
+**Berufserfahrung**
+
+**Frontend Entwickler** | WebSolutions GmbH, Musterstadt | 08/2020 – heute
+
+*   Verantwortlich für die Entwicklung und Wartung von Frontend-Komponenten für verschiedene Webprojekte unter Verwendung von React, Redux und Webpack.
+*   Implementierung von Unit- und Integrationstests mit Jest zur Sicherstellung der Codequalität und Funktionalität.
+*   Aktive Mitarbeit bei der Optimierung der Performance von Webanwendungen.
+*   Enge Zusammenarbeit mit Designern und Backend-Entwicklern, um die bestmögliche User Experience zu gewährleisten.
+*   Umstellung bestehender Legacy-Komponenten auf moderne React-Architektur.
+
+**Junior Frontend Entwickler** | StartupAG, Beispielstadt | 03/2018 – 07/2020
+
+*   Unterstützung bei der Entwicklung von Benutzeroberflächen mit React und Redux.
+*   Implementierung von neuen Features und Funktionalitäten basierend auf den Anforderungen des Produktteams.
+*   Behebung von Bugs und Durchführung von Code Reviews.
+*   Mithilfe bei der Konfiguration und Optimierung von Webpack-Builds.
+
+**Technische Fähigkeiten**
+
+*   **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, JSX, TypeScript
+*   **Testing:** Jest, React Testing Library, Enzyme (Grundkenntnisse)
+*   **Build Tools:** Webpack, Babel, npm, yarn
+*   **State Management:** Redux (Thunks, Sagas), Context API
+*   **Versionskontrolle:** Git, GitHub
+*   **UI Frameworks:** Material-UI, Bootstrap (Grundkenntnisse)
+*   **Sonstiges:** RESTful APIs, Responsive Design, Cross-Browser-Kompatibilität
+
+**Projekte**
+
+**E-Commerce Plattform (Frontend-Entwicklung)**
+
+*   Entwicklung des Frontend für eine E-Commerce Plattform mit React, Redux und Webpack.
+*   Implementierung verschiedener Features wie Produktkatalog, Warenkorb, Checkout-Prozess und Benutzerverwaltung.
+*   Fokus auf Performance-Optimierung und Responsive Design.
+
+**Dashboard-Anwendung (Frontend-Entwicklung)**
+
+*   Entwicklung eines interaktiven Dashboards zur Visualisierung von Daten unter Verwendung von React und Redux.
+*   Integration von verschiedenen APIs zur Datenbeschaffung.
+*   Umsetzung eines benutzerfreundlichen Interface zur Steuerung und Analyse der Daten.
+
+**Ausbildung**
+
+**Bachelor of Science (B.Sc.) Informatik** | Technische Universität, Musterstadt | 10/2014 – 02/2018

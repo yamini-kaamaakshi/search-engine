@@ -1,0 +1,54 @@
+**Maximilian Schmidt**
+maximilian.schmidt@email.de | +49 176 12345678 | LinkedIn-Profil URL
+
+**Profil**
+
+Engagierter und ergebnisorientierter Backend-Entwickler mit fundierter Erfahrung in der Entwicklung und Wartung von Microservices-Architekturen. Spezialisiert auf Go, PostgreSQL und gRPC zur Schaffung effizienter und skalierbarer Backend-Lösungen. Leidenschaftlich für die Optimierung von Leistung und die Implementierung sauberer, testgetriebener Code.
+
+**Berufserfahrung**
+
+**Backend Entwickler** | TechSolutions GmbH, Berlin | 2020 – heute
+
+*   Entwicklung und Wartung von Microservices in Go unter Verwendung von gRPC für interne Kommunikation und PostgreSQL für die Datenhaltung.
+*   Implementierung und Optimierung von Datenbankabfragen zur Verbesserung der Anwendungsleistung.
+*   Mitarbeit an der Architektur und dem Design neuer Backend-Systeme, um die wachsenden Geschäftsanforderungen zu erfüllen.
+*   Implementierung von Unit- und Integrationstests zur Sicherstellung der Codequalität und Reduzierung von Fehlern in der Produktionsumgebung.
+*   Aktive Teilnahme an Code Reviews und Pair Programming zur Förderung von Best Practices und Wissensaustausch im Team.
+*   Verantwortlich für die kontinuierliche Integration und Bereitstellung (CI/CD) von Backend-Komponenten.
+
+**Softwareentwickler** | DataCore AG, München | 2017 – 2020
+
+*   Entwicklung von Backend-Komponenten für Datenverarbeitungsplattformen mit Go und PostgreSQL.
+*   Design und Implementierung von RESTful APIs zur Integration mit anderen Systemen.
+*   Fehlerbehebung und Performance-Optimierung bestehender Backend-Systeme.
+*   Mitarbeit an der Konzeption und Umsetzung von neuen Features und Funktionalitäten.
+*   Erstellung von Dokumentationen und Anleitungen für die entwickelten Komponenten.
+
+**Technische Fähigkeiten**
+
+*   **Programmiersprachen:** Go (Golang)
+*   **Datenbanken:** PostgreSQL (inkl. Performance Tuning, Schema Design)
+*   **Kommunikation:** gRPC, REST APIs
+*   **Architekturen:** Microservices, Event-Driven Architecture
+*   **Tools:** Docker, Kubernetes, Git, CI/CD (Jenkins, GitLab CI), Prometheus, Grafana
+*   **Betriebssysteme:** Linux, Docker
+
+**Ausbildung**
+
+**Master of Science in Informatik** | Technische Universität München | 2015 – 2017
+
+**Bachelor of Science in Informatik** | Universität Augsburg | 2012 – 2015
+
+**Projekte**
+
+**E-Commerce Backend System**
+
+*   Entwicklung eines skalierbaren Backend-Systems für einen Online-Shop mit Go, PostgreSQL und gRPC.
+*   Implementierung von Funktionen wie Produktkatalog, Warenkorb, Bestellabwicklung und Benutzerverwaltung als Microservices.
+*   Fokus auf hohe Verfügbarkeit und Performanz durch den Einsatz von Caching-Strategien und Datenbankoptimierungen.
+
+**Data Pipeline für Echtzeit-Analysen**
+
+*   Entwicklung einer Datenpipeline zur Verarbeitung von Echtzeitdaten unter Verwendung von Go und PostgreSQL.
+*   Integration verschiedener Datenquellen und Transformation der Daten für Analysezwecke.
+*   Implementierung von Monitoring-Lösungen zur Überwachung der Pipeline-Performance und Erkennung von Anomalien.

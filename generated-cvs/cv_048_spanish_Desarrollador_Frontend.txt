@@ -1,0 +1,39 @@
+**Juan Pérez García**
+juan.perez@email.com | +34 612 345 678 | LinkedIn Profile URL | GitHub Profile URL
+
+**Resumen Profesional**
+
+Desarrollador Frontend con más de cuatro años de experiencia en la creación de interfaces de usuario modernas y eficientes utilizando frameworks basados en JavaScript.  Especializado en Vue.js y Nuxt, me apasiona desarrollar soluciones web atractivas y de alto rendimiento, colaborando estrechamente con equipos multidisciplinarios para alcanzar objetivos comunes. Busco un rol donde pueda seguir creciendo y aportando valor con mis habilidades.
+
+**Experiencia Laboral**
+
+**Desarrollador Frontend, InnovaTech Solutions, Madrid** | Septiembre 2020 – Presente
+
+*   Desarrollo y mantenimiento de la interfaz de usuario para la plataforma web principal de la empresa, utilizando Vue.js, Nuxt.js y SCSS.
+*   Implementación de nuevas funcionalidades y mejoras en la plataforma, optimizando el rendimiento y la usabilidad para los usuarios.
+*   Colaboración con diseñadores UX/UI y desarrolladores backend para garantizar una experiencia de usuario coherente y de alta calidad.
+*   Participación activa en la revisión de código y en la definición de estándares de desarrollo frontend.
+
+**Desarrollador Web Junior, WebCorp SA, Barcelona** | Junio 2018 – Agosto 2020
+
+*   Desarrollo de componentes reutilizables en Vue.js para diversos proyectos web de la empresa.
+*   Participación en la conversión de diseños en código HTML, CSS (SCSS) y JavaScript.
+*   Optimización del código frontend para mejorar la velocidad de carga y el rendimiento general de los sitios web.
+*   Colaboración en la resolución de incidencias y en la mejora continua de los procesos de desarrollo.
+
+**Habilidades Técnicas**
+
+*   **Lenguajes:** JavaScript (ES6+), HTML5, CSS3, SCSS
+*   **Frameworks/Librerías:** Vue.js, Nuxt.js
+*   **Herramientas:** Git, Webpack, npm/yarn, Babel
+*   **Metodologías:** Agile (Scrum), Kanban
+*   **Otras:** APIs REST, Diseño Responsive, Accesibilidad Web (WCAG)
+
+**Educación**
+
+**Grado en Ingeniería Informática, Universidad Politécnica de Madrid** | Septiembre 2014 – Junio 2018
+
+**Proyectos**
+
+*   **Plataforma de E-commerce (Proyecto Personal):** Desarrollo de una plataforma de venta online utilizando Vue.js, Nuxt.js y una API REST, enfocada en la usabilidad y la eficiencia del proceso de compra. (Código disponible en GitHub)
+*   **Blog Personal:** Creación de un blog personal con Nuxt.js para compartir conocimientos sobre desarrollo frontend y tecnologías web. (URL: [insertar URL del blog aquí si lo tiene])

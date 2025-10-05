@@ -1,39 +1,47 @@
-## Lebenslauf
+**Maximilian Schmidt**
+Musterstraße 12, 12345 Berlin | +49 123 4567890 | maximilian.schmidt@email.de
 
-### Name: Erik Lehmann
+**Profil**
 
-### Zusammenfassung:
+Erfahrener Backend Entwickler mit fundierten Kenntnissen in Go und der Entwicklung von Microservices-Architekturen. Spezialisiert auf performante Datenverarbeitung mit PostgreSQL und effiziente Kommunikation über gRPC. Leidenschaft für sauberen Code und skalierbare Lösungen.
 
-Backend-Entwickler mit umfangreicher Erfahrung in der Gestaltung und Entwicklung skalierbarer und robuster Backend-Systeme. Spezialisiert auf die Go-Programmiersprache, PostgreSQL-Datenbanken und gRPC-Kommunikation in Microservices-Architekturen. Ich strebe danach, effiziente und zuverlässige Softwarelösungen zu schaffen, die die Geschäftsanforderungen erfüllen und einen reibungslosen Ablauf gewährleisten.
+**Berufserfahrung**
 
-### Berufserfahrung:
+**Backend Entwickler** | TechSolutions GmbH, Berlin | 2019 – Heute
+*   Entwicklung und Wartung von Microservices in Go zur Unterstützung kritischer Geschäftsprozesse.
+*   Konzeption und Implementierung von RESTful APIs und gRPC-Schnittstellen für interne und externe Dienste.
+*   Datenbankdesign und -optimierung mit PostgreSQL, einschließlich Performance-Tuning und Indexierung.
+*   Mitarbeit an der kontinuierlichen Integration und dem Deployment (CI/CD) mit Docker und Kubernetes.
+*   Code Reviews und Mentoring jüngerer Teammitglieder.
 
-**Senior Backend Entwickler, Tech Innovations GmbH (2022-heute)**
-- Implementierung und Wartung einer hochverfügbaren Backend-Plattform für ein E-Commerce-Unternehmen mit Go und gRPC.
-- Optimierung der Datenbankperformance durch den Einsatz von PostgreSQL-Erweiterungen und Indizierungstechniken.
-- Entwicklung von Microservices für die Benutzerauthentifizierung und Zahlungsabwicklung, was zu einer Verbesserung der Systemskalierbarkeit beitrug.
+**Softwareentwickler** | DataFlow AG, München | 2017 – 2019
+*   Entwicklung von Backend-Systemen für Datenverarbeitung und -analyse mit Go.
+*   Implementierung von Datenpipelines zur Verarbeitung großer Datenmengen unter Verwendung von PostgreSQL.
+*   Behebung von Bugs und Optimierung bestehender Codebasis zur Verbesserung der Systemstabilität und Performance.
+*   Enge Zusammenarbeit mit Frontend-Entwicklern und Produktmanagern zur Umsetzung neuer Features.
 
-**Backend-Entwickler, SoftTech Solutions (2019-2022)**
-- Zusammenarbeit im Team bei der Erstellung eines Backend-Systems für ein IoT-Projekt, das Gerätedaten verarbeitet und analysiert.
-- Implementierung von effizienten Datenverarbeitungs-Pipelines mit Go und Integration mit externen APIs.
-- Gewährleistung der Datensicherheit und -integrität durch die Implementierung von Zugriffskontrollmechanismen.
+**Technische Fähigkeiten**
 
-**Junior Software Engineer, DataTech Inc. (2017-2019)**
-- Unterstützung bei der Wartung und Weiterentwicklung eines bestehenden Backend-Systems für ein Datenanalyse-Unternehmen.
-- Datenbankadministration und Optimierung von SQL-Abfragen für verbesserte Performance.
-- Implementierung von Skripten zur Automatisierung von wiederkehrenden Aufgaben.
+*   **Programmiersprachen:** Go (Experte), Python (Grundkenntnisse)
+*   **Datenbanken:** PostgreSQL (Experte), MySQL (Grundkenntnisse)
+*   **APIs & Protokolle:** gRPC, REST
+*   **Microservices:** Architektur, Design, Implementierung, Monitoring
+*   **Cloud & Containerisierung:** Docker, Kubernetes, AWS (Grundkenntnisse)
+*   **Tools & Technologien:** Git, CI/CD, Prometheus, Grafana
 
-### Technische Fähigkeiten:
-- **Programmiersprachen**: Go (fortgeschritten), Python (grundlegend)
-- **Datenbanken**: PostgreSQL (fortgeschritten), MySQL (grundlegend)
-- **Kommunikationsprotokolle**: gRPC, RESTful APIs
-- **Architektur**: Microservices, Containerisierung (Docker)
-- **Versionskontrolle**: Git, GitHub
+**Ausbildung**
 
-### Bildung:
-- **Bachelor of Science in Informatik**, Technische Universität Berlin (2014-2017)
-- **Zertifikat**: Zertifizierter Go-Entwickler (Go Developer Certification)
+**Master of Science (M.Sc.) Informatik** | Technische Universität München | 2015 – 2017
+*   Schwerpunkt: Verteilte Systeme und Datenbanken
 
-### Projekte:
-- **E-Commerce-Plattform**: Entwicklung einer skalierbaren Backend-Lösung für einen Online-Marktplatz, einschließlich Benutzerkontenverwaltung, Bestellabwicklung und integrierter Zahlungssysteme.
-- **IoT-Datenverarbeitung**: Mitwirkung an einem Projekt zur Verarbeitung und Visualisierung von Sensordaten aus IoT-Geräten, einschließlich der Implementierung von Echtzeit-Datenstromverarbeitung.
+**Bachelor of Science (B.Sc.) Informatik** | Universität Stuttgart | 2012 – 2015
+
+**Projekte**
+
+**Echtzeit-Datenverarbeitungssystem**
+*   Entwicklung eines Microservices-basierten Systems zur Verarbeitung von Echtzeitdaten mit Go und PostgreSQL.
+*   Implementierung einer effizienten Datenpipeline zur Aggregation und Analyse von Datenströmen.
+
+**gRPC-basierte Kommunikationsplattform**
+*   Konzeption und Entwicklung einer internen Kommunikationsplattform für Microservices unter Verwendung von gRPC.
+*   Verbesserung der Kommunikationseffizienz und Reduzierung der Latenzzeiten zwischen den Diensten.

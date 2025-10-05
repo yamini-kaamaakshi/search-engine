@@ -1,36 +1,56 @@
-# Juan Carlos Pérez
+**Juan Pérez García**
+juan.perez@email.com | +34 612 345 678 | LinkedIn Profile URL (Optional)
 
-## Resumen profesional
-Desarrollador React Native con más de cinco años de experiencia en la creación de interfaces de usuario intuitivas y escalables para plataformas digitales. Experto en la gestión de la arquitectura de código y la implementación de soluciones de software eficientes, siempre manteniendo altos estándares de calidad. Busco oportunidades para aplicar mis habilidades en proyectos innovadores y contribuir al éxito de un equipo de desarrollo dinámico.
+**Resumen Profesional**
 
-## Experiencia laboral
+Desarrollador con amplia experiencia en la creación y mantenimiento de interfaces de usuario complejas utilizando React Native. Experto en la implementación de arquitecturas escalables y el desarrollo de componentes reutilizables. Apasionado por la optimización del rendimiento y la mejora continua de la experiencia del usuario.
 
-**Desarrollador React Native Senior, TechInnovate Labs (2022-presente)**
-- Lideré el desarrollo de la plataforma de comercio electrónico de la empresa utilizando React Native, mejorando la experiencia de usuario en múltiples dispositivos.
-- Implementé soluciones de almacenamiento local utilizando AsyncStorage para mejorar el rendimiento y la velocidad de respuesta de la aplicación.
-- Diseñé y desarrollé una arquitectura de navegación modular, mejorando la usabilidad y la accesibilidad de las funciones de la aplicación.
+**Experiencia Profesional**
 
-**Desarrollador Front-end, DigitalCrafters Inc. (2019-2022)**
-- Colaboré en un equipo ágil para crear interfaces de usuario atractivas y funcionales utilizando TypeScript y React Native.
-- Mejoré la experiencia de usuario a través de la implementación de animaciones y transiciones suaves, garantizando una navegación intuitiva.
-- Realicé pruebas exhaustivas y depuración de código para garantizar una entrega de software de alta calidad.
+**Desarrollador React Native | Tech Solutions S.A. | Madrid | 2020 - Presente**
 
-**Desarrollador Junior, StartUpTech (2017-2019)**
-- Asistí a desarrolladores senior en la construcción de interfaces de usuario para varios proyectos de clientes utilizando React Native.
-- Participé en la migración de código de JavaScript a TypeScript, mejorando la legibilidad y mantenibilidad del código.
-- Contribuí al diseño y desarrollo de pantallas de inicio de sesión seguras y atractivas.
+*   Diseño y desarrollo de nuevas funcionalidades para la plataforma principal, utilizando React Native y TypeScript.
+*   Implementación de sistemas de navegación robustos y eficientes con React Navigation.
+*   Optimización del rendimiento de la plataforma a través del análisis y la refactorización del código existente.
+*   Colaboración con el equipo de diseño para asegurar una experiencia de usuario intuitiva y consistente.
+*   Integración de APIs RESTful y gestión de datos persistentes con AsyncStorage.
+*   Participación activa en la definición de estándares de codificación y mejores prácticas para el equipo.
 
-## Habilidades técnicas
-- **React Native:** Experto en la creación de interfaces de usuario nativas para múltiples plataformas, con un enfoque en la experiencia del usuario.
-- **TypeScript:** Dominio en la escritura de código claro y tipado para aplicaciones de gran escala.
-- **Navegación:** Implementación exitosa de patrones de navegación complejos, mejorando la usabilidad de las aplicaciones.
-- **AsyncStorage:** Gestión eficiente del almacenamiento local para mejorar el rendimiento y la velocidad de respuesta.
-- Herramientas adicionales: Git, Redux, JavaScript, CSS, HTML5.
+**Desarrollador Frontend | InnovaTech SL | Barcelona | 2018 - 2020**
 
-## Educación
-**Universidad de Tecnología Digital, Licenciatura en Ingeniería de Software (2013-2017)**
-- Proyecto de tesis: "Optimización de Interfaces de Usuario en Plataformas Multidispositivo".
+*   Desarrollo y mantenimiento de componentes de interfaz de usuario reutilizables utilizando React Native.
+*   Participación en el proceso de planificación y diseño de nuevas funcionalidades.
+*   Implementación de pruebas unitarias y de integración para garantizar la calidad del código.
+*   Colaboración con equipos multidisciplinarios para la entrega exitosa de proyectos.
+*   Migración de componentes existentes a TypeScript para mejorar la mantenibilidad y la seguridad del código.
 
-## Proyectos destacados
-- **E-comSuite:** Plataforma de comercio electrónico multiplataforma con funcionalidades avanzadas de navegación y gestión de productos.
-- **SecureAuth:** Aplicación de autenticación con un enfoque en la seguridad y la experiencia de usuario, utilizando patrones de navegación innovadores.
+**Habilidades Técnicas**
+
+*   **React Native:** Experto
+*   **TypeScript:** Experto
+*   **React Navigation:** Experto
+*   **AsyncStorage:** Experto
+*   RESTful APIs
+*   Git
+*   JavaScript (ES6+)
+*   HTML/CSS
+*   Testing: Jest, Enzyme (or similar)
+*   State Management: Redux, Context API (or similar)
+*   Patrones de diseño
+
+**Educación**
+
+**Grado en Ingeniería Informática | Universidad Politécnica de Valencia | 2014 - 2018**
+
+**Proyectos Personales**
+
+**Plataforma de gestión de tareas (Código disponible en GitHub)**
+
+*   Desarrollo de una plataforma para la gestión de tareas personales utilizando React Native, TypeScript y Redux.
+*   Implementación de funcionalidades como la creación, edición y eliminación de tareas, así como la asignación de prioridades y fechas de vencimiento.
+*   Utilización de AsyncStorage para la persistencia de datos localmente.
+
+**Librería de componentes UI React Native (Código disponible en GitHub)**
+*   Creación de una librería de componentes de interfaz de usuario reutilizables para proyectos React Native.
+*   Documentación completa de cada componente con ejemplos de uso.
+*   Publicación de la librería en npm para su fácil instalación y uso en otros proyectos.

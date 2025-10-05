@@ -1,0 +1,58 @@
+**Maximilian Schmidt**
+Musterstraße 12
+12345 Berlin
+Tel: 0176-12345678
+E-Mail: maximilian.schmidt@email.de
+
+**Profil**
+
+Erfahrener Softwareentwickler mit fundierten Kenntnissen in der nativen iOS-Entwicklung unter Verwendung von Swift. Spezialisiert auf die Erstellung performanter und benutzerfreundlicher Lösungen mit Fokus auf Animationen und Augmented Reality. Begeistert von der kontinuierlichen Weiterentwicklung und Anwendung neuester Technologien im Apple Ökosystem.
+
+**Berufserfahrung**
+
+**Senior iOS Entwickler**
+AppTech Solutions GmbH, Berlin
+2019 – heute
+
+* Verantwortlich für die Konzeption, Entwicklung und Wartung komplexer Softwarelösungen für iOS-Geräte.
+* Implementierung anspruchsvoller Benutzeroberflächen mit UIKit und CoreAnimation, unter Berücksichtigung hoher Performance-Anforderungen.
+* Entwicklung und Integration von Augmented Reality-Funktionen unter Verwendung von ARKit.
+* Enge Zusammenarbeit mit dem Produktmanagement und dem Designteam zur Umsetzung innovativer Ideen.
+* Code Reviews und Mentoring für jüngere Entwickler.
+
+**iOS Entwickler**
+Creative Coding Labs, Hamburg
+2017 – 2019
+
+* Entwicklung und Implementierung von Softwarekomponenten für iOS-basierte Produkte.
+* Aktive Mitarbeit bei der Erstellung von Softwarearchitekturen und technischen Spezifikationen.
+* Durchführung von Unit-Tests und Fehlerbehebung zur Sicherstellung der Softwarequalität.
+* Optimierung bestehender Codebasis zur Verbesserung der Performance und Stabilität.
+
+**Technische Fähigkeiten**
+
+*   **Programmiersprachen:** Swift
+*   **Frameworks & Bibliotheken:** UIKit, CoreAnimation, ARKit, CoreData, SwiftUI
+*   **Entwicklungswerkzeuge:** Xcode, Instruments, Git
+*   **Architekturmuster:** MVC, MVVM, VIPER
+*   **Sonstiges:** RESTful APIs, JSON, Test-Driven Development (TDD), Continuous Integration (CI)
+
+**Ausbildung**
+
+**Master of Science in Informatik**
+Technische Universität München
+2015 – 2017
+
+**Bachelor of Science in Informatik**
+Universität Hamburg
+2012 – 2015
+
+**Projekte**
+
+**Augmented Reality Shopping Assistent**
+*   Entwicklung einer iOS-Lösung, die es Benutzern ermöglicht, Produkte in ihrer realen Umgebung mit ARKit zu visualisieren.
+*   Implementierung von Funktionen zur Größenanpassung und Konfiguration der Produkte in Echtzeit.
+
+**Animation Library für iOS**
+*   Erstellung einer wiederverwendbaren Bibliothek mit komplexen Animationen basierend auf CoreAnimation.
+*   Bereitstellung verschiedener Animationstypen und Übergänge zur Verbesserung der Benutzererfahrung.

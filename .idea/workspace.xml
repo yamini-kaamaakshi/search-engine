@@ -6,7 +6,40 @@
   <component name="ChangeListManager">
     <list default="true" id="639dec8a-4163-449f-bc97-a0353a849183" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/gemini-service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/gemini-service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_001_english_iOS_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_001_english_iOS_Engineer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_002_spanish_Desarrollador_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_002_spanish_Desarrollador_iOS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_003_french_Développeur_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_003_french_Développeur_iOS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_004_german_iOS_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_004_german_iOS_Entwickler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_005_english_Android_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_005_english_Android_Engineer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_006_spanish_Desarrollador_Android.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_006_spanish_Desarrollador_Android.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_007_french_Développeur_Android.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_007_french_Développeur_Android.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_008_german_Android_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_008_german_Android_Entwickler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_009_english_React_Native_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_009_english_React_Native_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_010_spanish_Desarrollador_React_Native.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_010_spanish_Desarrollador_React_Native.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_011_french_Développeur_React_Native.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_011_french_Développeur_React_Native.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_012_english_Flutter_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_012_english_Flutter_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_013_spanish_Desarrollador_Flutter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_013_spanish_Desarrollador_Flutter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_014_german_Flutter_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_014_german_Flutter_Entwickler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_015_english_Backend_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_015_english_Backend_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_016_spanish_Desarrollador_Backend.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_016_spanish_Desarrollador_Backend.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_017_french_Développeur_Backend.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_017_french_Développeur_Backend.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_018_german_Backend_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_018_german_Backend_Entwickler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_019_english_Frontend_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_019_english_Frontend_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_020_spanish_Desarrollador_Frontend.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_020_spanish_Desarrollador_Frontend.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_021_french_Développeur_Frontend.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_021_french_Développeur_Frontend.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_022_german_Frontend_Entwickler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_022_german_Frontend_Entwickler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_023_english_Full_Stack_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_023_english_Full_Stack_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_024_english_Full_Stack_iOS_Developer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_024_english_Full_Stack_iOS_Developer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_025_english_DevOps_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_025_english_DevOps_Engineer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_026_french_Ingénieur_DevOps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_026_french_Ingénieur_DevOps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_027_english_Data_Scientist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_027_english_Data_Scientist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_028_spanish_Científico_de_Datos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_028_spanish_Científico_de_Datos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_029_english_iOS_Engineer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_029_english_iOS_Engineer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated-cvs/cv_030_spanish_Desarrollador_iOS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/generated-cvs/cv_030_spanish_Desarrollador_iOS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-cvs-gemini.ts" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generate-cvs-gemini.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/gemini-search.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/gemini-search.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +74,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;relevance-search__gemini&quot;,
-    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
-    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kaamaakshiyamini/search-engine&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/kaamaakshiyamini/search-engine/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "reranks",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "last_opened_file_path": "/Users/kaamaakshiyamini/search-engine",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/kaamaakshiyamini/search-engine/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test-cvs" />

@@ -1,40 +1,48 @@
-**Sofia Garcia**
+**Jonas Schmidt**
+jonas.schmidt@email.com | +49 123 4567890 | LinkedIn Profile URL | GitHub Profile URL
 
-**Software Developer**
+**Summary**
 
-A dedicated Android engineer with 5 years of experience in crafting innovative solutions using Kotlin and the Android platform. Proficient in developing user-centric interfaces and optimizing performance for diverse devices. Skilled in leading projects through the full development cycle, ensuring timely delivery and high-quality results.
+A highly motivated and results-oriented software engineer with 5+ years of experience specializing in the creation of user interfaces and robust backend systems using Kotlin and modern architectural patterns. Proficient in the Android ecosystem, building scalable and maintainable software with a focus on code quality and performance.
 
 **Work Experience**
 
-Senior Android Developer, TechInnovate Labs (2022–Present)
-- Led the migration of the company's legacy Android applications to the Jetpack Compose framework, resulting in a 20% improvement in UI rendering performance.
-- Implemented architectural patterns using the Model-View-ViewModel (MVVM) design to enhance code modularity and testability.
-- Mentored junior developers, providing guidance on Kotlin best practices and Android architecture.
+**Senior Kotlin Engineer** | Tech Solutions GmbH | Berlin, Germany | 2020 – Present
 
-Android Developer, Digital Arts Studio (2019–2022)
-- Developed and maintained Android applications for interactive art installations, ensuring smooth user experiences across various Android devices.
-- Integrated Room database for efficient data storage and retrieval, enhancing app performance and responsiveness.
-- Collaborated with designers to implement intuitive user interfaces using Android Studio's layout tools.
+*   Led the development and maintenance of core features for flagship platforms utilizing Jetpack Compose and Room persistence library, resulting in a 20% improvement in UI rendering performance.
+*   Collaborated with cross-functional teams, including product managers and UI/UX designers, to define and implement new features and enhancements based on user feedback and market analysis.
+*   Mentored junior engineers, providing guidance on best practices, code reviews, and architectural design principles within the Android ecosystem.
+*   Implemented unit and integration tests to ensure code quality and reliability, reducing bug reports by 15%.
 
-Junior Android Programmer, DevTech Solutions (2017–2019)
-- Assisted in building and maintaining Android applications for clients across various industries, including healthcare and finance.
-- Implemented RESTful API integrations to fetch and display real-time data within Android apps.
-- Conducted thorough testing and debugging using Android Studio's built-in testing tools.
+**Android Engineer** | Innovation Labs AG | Munich, Germany | 2018 – 2020
+
+*   Developed and maintained various modules and libraries for internal and external platforms using Kotlin and Android Studio.
+*   Contributed to the migration of legacy systems to modern architectures, improving code maintainability and scalability.
+*   Implemented RESTful APIs and integrated with backend services to retrieve and display data effectively.
+*   Participated in Agile development processes, including sprint planning, daily stand-ups, and retrospectives.
 
 **Technical Skills**
-- Kotlin: Advanced proficiency in developing Android applications with a deep understanding of Kotlin syntax, coroutines, and architecture patterns.
-- Android Studio: Expertise in using the IDE for coding, debugging, and designing UI layouts.
-- Jetpack Compose: Experience in building declarative UI for Android, ensuring performance and maintainability.
-- Room Database: Proficient in implementing persistent data storage solutions using Room for Android.
-- Other Tools: Familiarity with Git for version control, CI/CD pipelines, and Agile development methodologies.
 
-**Education**
-Bachelor of Science in Computer Science, University of California, Berkeley (2013–2017)
-- Coursework focused on software engineering, data structures, and algorithms.
-- Participated in various programming competitions, winning awards for innovative software solutions.
+*   **Languages:** Kotlin (Expert), Java (Proficient)
+*   **Frameworks/Libraries:** Jetpack Compose, Room Persistence Library, Retrofit, Coroutines, Dagger/Hilt, Navigation Component, ViewModel, LiveData
+*   **Tools:** Android Studio, Gradle, Git, Jira, Confluence, Firebase
+*   **Architectural Patterns:** MVVM, Clean Architecture
+*   **Testing:** JUnit, Mockito, Espresso
 
 **Projects**
-- Smart Home Control System: Developed an Android application for remote control and monitoring of smart home devices. Utilized Kotlin coroutines for efficient data handling and Jetpack Compose for a modern UI.
-- Android News Reader: Created a personalized news reader app with a custom Room database for offline reading and a modular architecture for easy maintenance.
 
-I can provide references and code samples upon request.
+**Personal Finance Tracker (Kotlin & Jetpack Compose)**
+
+*   Developed a personal finance tracking system using Kotlin and Jetpack Compose for a modern and intuitive user interface.
+*   Implemented data persistence using Room, allowing users to track income, expenses, and budgets effectively.
+
+**Open Source Library (Kotlin)**
+
+*   Contributed to an open-source library focused on extending UI functionality.
+*   Implemented new features and bug fixes based on community feedback, resulting in increased adoption and positive reviews.
+
+**Education**
+
+**Master of Science in Computer Science** | Technical University of Munich | Munich, Germany | 2016 – 2018
+
+**Bachelor of Science in Computer Science** | Ludwig Maximilian University of Munich | Munich, Germany | 2013 – 2016

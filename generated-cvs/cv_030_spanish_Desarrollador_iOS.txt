@@ -1,41 +1,51 @@
-**Nombre Completo:** Juan Pedro Gómez Hernández
+**Javier Rodríguez López**
+javier.rodriguez@email.com | (+34) 612 345 678 | LinkedIn Profile URL
 
-**Resumen Profesional:**
-Experiencia amplia en el desarrollo de experiencias usuario con Swift y los elementos del SDK iOS. Con una sólida comprensión de CoreData y Combine, he logrado implementar soluciones escalables y seguras para proyectos de alto rendimiento.
+**Resumen Profesional**
+
+Desarrollador iOS altamente motivado con más de 5 años de experiencia en la creación de soluciones innovadoras y escalables para la plataforma iOS. Experto en el diseño, desarrollo e implementación de software utilizando Swift y el iOS SDK, con un enfoque particular en la optimización del rendimiento y la experiencia del usuario.  Apasionado por las últimas tecnologías de Apple y la creación de productos de alta calidad.
 
 **Experiencia Laboral**
 
-**Desarrollador iOS**, ByteTech (2018 - 2022)
+**Ingeniero Swift | InnovaTech Solutions | Madrid, España | Enero 2020 – Presente**
 
-- Diseñé e implementé interfaces de usuario intuitivas utilizando Swift y los elementos del SDK iOS.
-- Integración de CoreData para almacenamiento y gestión de datos a gran escala.
-- Colaboración estrecha con el equipo de calidad para asegurar la experiencia del usuario final.
+*   Lideré el desarrollo de nuevas funcionalidades y la optimización del rendimiento en la plataforma iOS, resultando en una mejora del 20% en la eficiencia energética.
+*   Diseñé e implementé soluciones para la persistencia de datos utilizando CoreData, garantizando la integridad y seguridad de la información.
+*   Colaboré estrechamente con equipos de diseño y producto para traducir requisitos de usuario en soluciones técnicas viables e innovadoras.
+*   Implementé patrones de diseño reactivo utilizando Combine para mejorar la capacidad de respuesta y la experiencia del usuario en la interfaz.
+*   Participé activamente en la revisión de código y la mentoría de desarrolladores junior.
 
-**Ingeniero Swift**, Efectiva Solutions (2015 - 2018)
+**Desarrollador iOS | Global Software S.A. | Barcelona, España | Septiembre 2017 – Diciembre 2019**
 
-- Desarrollé varias características críticas para una plataforma de comercio electrónico utilizando Swift y los elementos del SDK iOS.
-- Implementé protocolos de respuesta a eventos utilizando Combine para mejorar la escalabilidad de la aplicación.
-- Contribución importante al desarrollo de la arquitectura de la empresa mediante el diseño eficiente de sistemas.
+*   Desarrollé y mantuve componentes clave de la plataforma iOS, contribuyendo significativamente a la estabilidad y escalabilidad del sistema.
+*   Implementé pruebas unitarias e integrales para garantizar la calidad y la fiabilidad del código.
+*   Trabajé en estrecha colaboración con el equipo de control de calidad para identificar y resolver errores de software.
+*   Participé en la planificación y la estimación de tareas, asegurando la entrega puntual de proyectos.
 
-**Estudiante de Ingeniería en Ciencias de la Computación**, Universidad Nacional de Ingenierías (2010 - 2015)
+**Habilidades Técnicas**
 
- **Habilidades Técnicas**
-
-- Lenguaje de programación: Swift
-- Elementos del SDK iOS: Core Data, Combine, UIKit
-- Experiencia con gestión de errores y seguridad en aplicaciones iOS
+*   Lenguajes: Swift (Experto)
+*   Plataformas: iOS SDK
+*   Persistencia de Datos: CoreData
+*   Programación Reactiva: Combine
+*   Patrones de Diseño: MVC, MVVM
+*   Control de Versiones: Git
+*   Herramientas: Xcode, Instruments
+*   Metodologías Ágiles: Scrum, Kanban
 
 **Educación**
 
-- Grado en Ciencias de la Computación, Universidad Nacional de Ingenierías (2015)
-- Cursos de especialización en Desarrollo de Experiencias de Usuario, Universidad Nacional de Ingenierías (2018)
+**Grado en Ingeniería Informática | Universidad Politécnica de Valencia | Valencia, España | 2013 – 2017**
 
- **Proyectos Personales**
+**Proyectos**
 
-- **Sistema de gestión de inventario** desarrollado utilizando Swift y CoreData. El sistema permite el seguimiento y la gestión de artículos en tiempo real.
-  - Diseño e implementación de una base de datos centrada en la aplicación para almacenamiento de datos.
-  - Creación de interfaces para inicio, búsqueda, registro y modificación de inventario.
+**Aplicación de Gestión de Tareas (Proyecto Personal)**
 
-- **Sistema de notificaciones push** integrado mediante Swift y Combine. El sistema utiliza tokens de dispositivo para personalizar los mensajes según las preferencias del usuario.
-  - Configuración y gestión de subscription de tokens.
-  - Implementación de un servidor para envío de notificaciones push de manera remota.
+*   Desarrollé una solución completa para la gestión de tareas en iOS utilizando Swift, CoreData y Combine.
+*   Implementé características avanzadas como notificaciones push, sincronización en la nube y soporte para múltiples usuarios.
+*   Demostró un profundo conocimiento de la plataforma iOS y la capacidad de crear soluciones escalables y eficientes.
+
+**Contribuciones a Biblioteca de Código Abierto (GitHub)**
+
+*   Contribuí con mejoras y correcciones de errores a una biblioteca de código abierto popular para el procesamiento de imágenes en Swift.
+*   Demostró un compromiso con la comunidad de desarrollo y la capacidad de trabajar en equipo en proyectos complejos.

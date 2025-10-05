@@ -1,0 +1,51 @@
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.com | +33 6 12 34 56 78 | LinkedIn Profile URL (optional) | GitHub Profile URL (optional)
+
+**Résumé Professionnel**
+
+Développeur passionné avec plus de 5 ans d'expérience dans la création d'interfaces utilisateur performantes et évolutives avec React Native. Expertise confirmée dans la gestion d'état avec Redux Toolkit et l'intégration de fonctionnalités natives via Native Modules. Capacité à travailler en autonomie et en équipe pour mener à bien des projets complexes.
+
+**Expérience Professionnelle**
+
+**Développeur Front-End, Societé InnovTech, Paris (2019 - Présent)**
+
+*   Conception et développement de nouvelles fonctionnalités pour la plateforme principale en React Native, améliorant significativement l'expérience utilisateur et la performance de l'interface.
+*   Implémentation de l'architecture Redux Toolkit pour une gestion d'état centralisée et efficace, optimisant le flux de données et facilitant la maintenabilité du code.
+*   Intégration de Native Modules pour accéder aux fonctionnalités spécifiques du système d'exploitation, permettant l'ajout de features avancées et une expérience utilisateur enrichie.
+*   Participation active aux revues de code, garantissant la qualité et la cohérence du code base, ainsi que le partage de bonnes pratiques.
+
+**Développeur Junior, Startup TechGrowth, Lyon (2017 - 2019)**
+
+*   Participation au développement de l'interface utilisateur d'une plateforme innovante avec React Native, sous la supervision de développeurs seniors.
+*   Mise en œuvre de composants réutilisables et performants, contribuant à l'amélioration de la vitesse de développement et de la qualité du produit.
+*   Collaboration avec l'équipe de design pour traduire les maquettes en code fonctionnel et esthétique.
+*   Résolution de bugs et amélioration continue de la performance de l'interface.
+
+**Compétences Techniques**
+
+*   **Langages:** JavaScript (ES6+), TypeScript (Notions)
+*   **Frameworks & Librairies:** React Native, Redux Toolkit, React Navigation, Styled Components
+*   **Native Modules:** iOS (Swift/Objective-C), Android (Java/Kotlin) - notions
+*   **Outils:** Git, npm/yarn, Visual Studio Code, Xcode, Android Studio, Jest (Tests Unitaires)
+*   **Méthodologies:** Agile (Scrum, Kanban)
+*   **Principes:** RESTful APIs, Design Patterns
+
+**Formation**
+
+**Master Informatique, Université Paris-Saclay, Orsay (2015 - 2017)**
+
+**Licence Informatique, Université Lyon 1, Lyon (2012 - 2015)**
+
+**Projets Personnels**
+
+**Application de Suivi de Nutrition (React Native)**
+
+*   Développement d'une interface utilisateur intuitive pour suivre les apports nutritionnels quotidiens.
+*   Utilisation de Redux Toolkit pour gérer l'état de l'application et persister les données localement.
+*   Intégration d'une API pour la recherche d'aliments et l'affichage des informations nutritionnelles.
+
+**Bibliothèque de Composants UI (React Native)**
+
+*   Création d'une bibliothèque de composants réutilisables pour faciliter le développement d'interfaces utilisateur cohérentes.
+*   Documentations et exemples d'utilisation pour chaque composant.
+*   Tests unitaires pour garantir la qualité et la stabilité de la bibliothèque.

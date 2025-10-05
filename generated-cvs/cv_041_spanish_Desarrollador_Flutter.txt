@@ -1,0 +1,51 @@
+**Juan Carlos Pérez López**
+juan.perez@email.com | +34 612 345 678 | LinkedIn Profile URL (optional) | GitHub Profile URL (optional)
+
+**Resumen Profesional**
+
+Desarrollador Flutter con más de 5 años de experiencia en la creación e implementación de soluciones innovadoras. Experto en la arquitectura BLoC y el framework GetX, buscando constantemente la optimización del rendimiento y la mantenibilidad del código. Apasionado por la creación de interfaces de usuario intuitivas y experiencias fluidas.
+
+**Experiencia Laboral**
+
+**Desarrollador Flutter Senior** | InnovaTech Solutions | Madrid, España | Enero 2020 – Presente
+
+*   Lideré el desarrollo y mantenimiento de soluciones complejas utilizando Flutter y Dart, implementando la arquitectura BLoC para una gestión eficiente del estado.
+*   Implementé y optimicé el framework GetX para una gestión de dependencias y enrutamiento más eficiente, reduciendo el tiempo de desarrollo en un 20%.
+*   Participé activamente en la revisión de código, asegurando la calidad y el cumplimiento de los estándares de la empresa.
+*   Colaboré estrechamente con diseñadores y product managers para traducir requerimientos en soluciones técnicas viables y escalables.
+
+**Desarrollador Flutter** | CodeCrafters Studio | Barcelona, España | Junio 2018 – Diciembre 2019
+
+*   Desarrollé funcionalidades y características para diversas soluciones utilizando Flutter y Dart.
+*   Implementé pruebas unitarias y de integración para asegurar la calidad y estabilidad del código.
+*   Trabajé en estrecha colaboración con otros desarrolladores para resolver problemas y mejorar la eficiencia del equipo.
+*   Participé en el diseño de la arquitectura de nuevas funcionalidades, aportando soluciones técnicas innovadoras.
+
+**Habilidades Técnicas**
+
+*   **Lenguajes:** Dart
+*   **Frameworks/Libraries:** Flutter, GetX
+*   **Arquitecturas:** BLoC
+*   **Herramientas:** Git, Jira, Firebase (deseable), Provider (deseable)
+*   **Metodologías:** Agile (Scrum, Kanban)
+*   **Sistemas Operativos:** Android, iOS
+
+**Educación**
+
+**Máster en Ingeniería Informática** | Universidad Politécnica de Valencia | Valencia, España | 2016 – 2018
+
+**Grado en Ingeniería Informática** | Universidad de Valencia | Valencia, España | 2012 – 2016
+
+**Proyectos**
+
+**Gestor de Tareas Inteligente (Personal)**
+
+*   Desarrollo de un gestor de tareas personal utilizando Flutter y la arquitectura BLoC.
+*   Implementación de funcionalidades como la creación, edición y eliminación de tareas, así como la gestión de prioridades y fechas límite.
+*   Utilización de Firebase para la persistencia de datos y la sincronización entre dispositivos.
+
+**Biblioteca de Componentes Flutter (Contributivo)**
+
+*   Contribución al desarrollo de una biblioteca de componentes reutilizables en Flutter.
+*   Creación de componentes personalizados y optimizados para diversas plataformas.
+*   Documentación y pruebas exhaustivas de los componentes desarrollados.

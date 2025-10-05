@@ -103,7 +103,7 @@ Important:
 Generate ONLY the CV text, no additional commentary.`;
 
   try {
-    const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-exp' });
 
     const result = await model.generateContent(prompt);
     const response = result.response;

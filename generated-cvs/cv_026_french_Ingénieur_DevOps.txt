@@ -1,45 +1,47 @@
-## Jean-Pierre Leroy
+**Jean-Pierre Dubois**
+jean-pierre.dubois@email.fr | +33 6 12 34 56 78 | LinkedIn Profile URL
 
-### Ingénieur DevOps
+**Résumé Professionnel**
 
-#### Résumé professionnel :
-Expert DevOps passionné, avec une solide expérience dans la mise en œuvre et l'automatisation des processus de développement et de déploiement. Compétences approfondies dans les technologies cloud, la conteneurisation et les outils d'intégration continue. Axé sur l'amélioration de l'efficacité des opérations logicielles et sur la fourniture de solutions fiables et évolutives.
+Ingénieur DevOps expérimenté avec une expertise éprouvée dans l'automatisation de l'infrastructure et des déploiements sur Azure.  Maîtrise des outils DevOps modernes, notamment Kubernetes, Jenkins et Ansible, pour optimiser les cycles de vie des logiciels et assurer une haute disponibilité. Passionné par l'amélioration continue des processus et l'adoption des meilleures pratiques en matière de Cloud Computing.
 
-#### Expérience professionnelle :
-**DevOps Engineer, CloudTech Innovations (2021-présent)**
-- J'ai conçu et implémenté une architecture cloud sur Azure, incluant le provisionnement de ressources, la configuration de réseaux virtuels et la gestion de conteneurs avec Kubernetes.
-- Automatisation du processus de déploiement continu en utilisant Jenkins pour intégrer, tester et déployer les applications dans un environnement cloud hybride.
-- Gestion de la configuration à l'aide d'Ansible pour assurer la cohérence des environnements de développement, de test et de production.
+**Expérience Professionnelle**
 
-**Ingénieur DevOps, SoftWare Inc. (2018-2021)**
-- Collaboration avec les équipes de développement et d'exploitation pour mettre en place une stratégie DevOps efficace, réduisant les temps de déploiement de 30%.
-- Création de scripts pour l'automatisation des tâches de gestion des serveurs et des conteneurs Docker.
-- Surveillance et optimisation des performances des applications en production, en utilisant des outils de surveillance du cloud.
+**Ingénieur DevOps Senior | CloudSolutions SAS | Paris | 2019 – Présent**
 
-**Administrateur Système, TechSolutions (2016-2018)**
-- Administration et maintenance des serveurs Linux et des environnements de réseau virtuel.
-- Gestion des mises à jour et des correctifs de sécurité sur les systèmes.
-- Implémentation de solutions de sauvegarde et de restauration pour garantir la disponibilité des données.
+*   Conception, mise en œuvre et maintenance d'infrastructures cloud automatisées sur Azure, utilisant Kubernetes pour l'orchestration des conteneurs.
+*   Automatisation des pipelines CI/CD avec Jenkins et Ansible, réduisant le temps de déploiement de 40%.
+*   Collaboration étroite avec les équipes de développement et d'exploitation pour améliorer la fiabilité et la performance des systèmes.
+*   Gestion et optimisation des coûts de l'infrastructure Azure, incluant l'implémentation de solutions d'auto-scaling et de surveillance.
+*   Participation à la résolution d'incidents critiques et à la mise en place de solutions de contournement pour assurer la continuité de service.
 
-#### Compétences techniques :
-- **Cloud Computing :** Azure (expert), AWS (intermédiaire), GCP (notions de base)
-- **Orchestration et Conteneurisation :** Kubernetes, Docker
-- **Outils DevOps :** Jenkins, Ansible, Git, Terraform
-- **Systèmes d'exploitation :** Linux (expert), Windows Server
-- **Réseaux :** SDN, Load Balancing, Sécurité réseau
+**Ingénieur DevOps | TechInnov SAS | Lyon | 2017 – 2019**
 
-#### Formation :
-**Université de Lyon, Master en Informatique (2014-2016)**
-- Spécialisation en Ingénierie Logicielle et Systèmes Distribués.
-- Projet de recherche sur l'orchestration de conteneurs dans les environnements cloud.
+*   Migration d'infrastructures existantes vers le cloud Azure, en utilisant des scripts d'automatisation Ansible pour minimiser les interruptions de service.
+*   Création et gestion de clusters Kubernetes pour l'exécution de services et de microservices.
+*   Automatisation de la gestion des configurations et de la supervision des systèmes avec des outils tels que Prometheus et Grafana.
+*   Participation à l'amélioration continue des processus DevOps et à la formation des équipes aux nouvelles technologies.
 
-**Diplôme d'Ingénieur en Informatique, École Polytechnique de Paris (2012-2014)**
-- Cours avancés en architecture des systèmes, réseaux et sécurité.
+**Compétences Techniques**
 
-#### Projets :
-**Plateforme d'analyse de données distribuée**
-- Développement d'une plateforme pour le traitement de données massives en utilisant Kubernetes et Hadoop.
-- Implémentation d'un pipeline de données automatisé pour l'ingestion et le traitement des données en temps réel.
+*   **Cloud:** Microsoft Azure (Azure Kubernetes Service (AKS), Azure DevOps, Azure Resource Manager, Azure Functions, Azure Monitor, Azure Networking)
+*   **Orchestration de Conteneurs:** Kubernetes, Docker
+*   **Automatisation:** Ansible, Terraform
+*   **CI/CD:** Jenkins, GitLab CI
+*   **Scripting:** Bash, Python
+*   **Systèmes d'exploitation:** Linux (Ubuntu, CentOS)
+*   **Gestion de versions:** Git
+*   **Surveillance:** Prometheus, Grafana
+*   **Conteneurisation:** Docker
+*   **Base de Données:** Connaissances générales des bases de données relationnelles et NoSQL
 
-**Migration vers le Cloud Azure**
-- Migration réussie d'une infrastructure locale vers Azure pour une entreprise de commerce électronique, améliorant la disponibilité et la scalabilité.
+**Formation**
+
+**Master en Informatique | Université Claude Bernard Lyon 1 | Lyon | 2015 – 2017**
+
+**Licence en Informatique | Université Jean Monnet | Saint-Étienne | 2012 – 2015**
+
+**Projets**
+
+*   **Automatisation de l'infrastructure Azure avec Terraform:** Développement d'un module Terraform réutilisable pour déployer rapidement des environnements Azure conformes aux meilleures pratiques de sécurité et de conformité.
+*   **Plateforme de déploiement continu basée sur Kubernetes et Jenkins:** Conception et mise en œuvre d'une plateforme robuste pour le déploiement continu de services en conteneurs sur Kubernetes, intégrant des tests automatisés et des mécanismes de rollback.

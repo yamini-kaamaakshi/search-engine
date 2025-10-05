@@ -1,0 +1,58 @@
+**Maximilien Schmidt**
+Maximilianschmidt@email.de
++49 176 1234 5678
+
+**Profil**
+
+Erfahrener Softwareentwickler mit fundierten Kenntnissen in der Erstellung und Wartung plattformübergreifender Benutzeroberflächen mit Flutter und Dart. Spezialisiert auf die Implementierung robuster Architekturen mit Riverpod und die Integration effizienter lokaler Datenspeicherung mittels SQLite. Leidenschaftlicher Verfechter sauberer Code-Prinzipien und agiler Entwicklungsmethoden.
+
+**Berufserfahrung**
+
+**Flutter Entwickler, Innovativ Solutions GmbH, Berlin**
+03/2020 – 09/2023
+
+*   Entwicklung und Wartung mehrerer komplexer Oberflächen für diverse Plattformen mit Flutter und Dart.
+*   Implementierung und Optimierung von Zustandsmanagementlösungen mit Riverpod zur Verbesserung der Performance und Wartbarkeit.
+*   Konzeption und Integration von SQLite-Datenbanken zur lokalen Datenspeicherung und -verarbeitung.
+*   Aktive Mitarbeit an Code Reviews zur Sicherstellung hoher Codequalität und Einhaltung von Best Practices.
+*   Zusammenarbeit mit Designern und Produktmanagern zur Umsetzung von Anforderungen und zur kontinuierlichen Verbesserung der Benutzererfahrung.
+
+**Softwareentwickler, Kreativ Digital AG, München**
+09/2017 – 02/2020
+
+*   Entwicklung von UI-Komponenten und Features mit Flutter und Dart.
+*   Implementierung von RESTful APIs zur Anbindung an Backend-Systeme.
+*   Erstellung von Unit- und Integrationstests zur Sicherstellung der Funktionalität und Stabilität.
+*   Unterstützung bei der Konzeption und Umsetzung neuer Produktfeatures.
+
+**Technische Fähigkeiten**
+
+*   **Framework:** Flutter
+*   **Sprache:** Dart
+*   **Zustandsmanagement:** Riverpod
+*   **Datenbanken:** SQLite
+*   **Versionskontrolle:** Git
+*   **Agile Methoden:** Scrum, Kanban
+*   **IDE:** Visual Studio Code, Android Studio
+*   RESTful APIs, JSON
+*   UI/UX Design Prinzipien
+
+**Ausbildung**
+
+**Bachelor of Science in Informatik, Technische Universität München**
+10/2013 – 08/2017
+
+**Projekte**
+
+**Persönlicher Finanzmanager (Flutter)**
+
+*   Entwicklung einer Oberfläche zur Verwaltung persönlicher Finanzen mit Flutter und Dart.
+*   Implementierung einer SQLite-Datenbank zur lokalen Speicherung von Transaktionsdaten.
+*   Nutzung von Riverpod für das Zustandsmanagement.
+*   Fokus auf intuitive Bedienbarkeit und datenschutzkonforme Datenspeicherung.
+
+**Open-Source Flutter Widget Library**
+
+* Entwicklung und Pflege einer Sammlung wiederverwendbarer Flutter Widgets.
+* Umfassende Dokumentation und Unit Tests zur Qualitätssicherung.
+* Veröffentlichung auf GitHub zur Nutzung durch andere Entwickler.

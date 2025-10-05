@@ -1,37 +1,48 @@
-**David Müller**
+**Max Müller**
+Musterstraße 12, 12345 Berlin | +49 123 4567890 | max.mueller@email.de
 
-Softwareentwickler – Swift- und iOS-Experte
+**Profil**
 
-Zusammenfassung:
-Als erfahrener iOS-Entwickler mit einem ausgeprägten Verständnis für Swift-Programmierung und UI/UX-Design habe ich mich auf die Entwicklung von innovativen Lösungen für mobile Geräte spezialisiert. Meine Expertise umfasst die Arbeit mit UIKit, CoreAnimation und ARKit, wodurch ich immersive und reaktionsschnelle Anwendungen schaffe. Mein Ziel ist es, die Benutzererfahrung auf iOS-Plattformen zu revolutionieren und visuell ansprechende, leistungsstarke Lösungen zu liefern.
+Erfahrener iOS Entwickler mit fundierten Kenntnissen in der Konzeption und Umsetzung innovativer Softwarelösungen. Spezialisiert auf die Entwicklung performanter und benutzerfreundlicher Anwendungen unter Verwendung von Swift und zugehörigen Frameworks. Begeistert von der Entwicklung immersiver Erlebnisse mit ARKit.
 
-Berufserfahrung:
+**Berufserfahrung**
 
-*iOS-Entwickler, ARTech Innovations GmbH, 2020-heute*
-- Entwarf und implementierte eine Reihe von Augmented Reality (AR)-Anwendungen mit ARKit für die Immobilienbranche, was zu einer verbesserten Visualisierung und einer 20%igen Steigerung der Kundengewinnung führte.
-- Optimierte die Benutzeroberfläche bestehender iOS-Anwendungen, was zu einer 15%igen Verbesserung der Ladezeiten führte.
-- Führte Code-Reviews durch und betreute ein Team von Junior-Entwicklern, um die Code-Qualität und die Einhaltung von Best Practices zu gewährleisten.
+**Softwareentwickler iOS | TechSolutions GmbH, Berlin | 2019 – heute**
 
-*Swift-Programmierer, SoftWare Solutions AG, 2017-2020*
-- Arbeitete eng mit dem Design-Team zusammen, um ansprechende und benutzerfreundliche Schnittstellen mit UIKit zu erstellen, die die Nutzerbindung erhöhten.
-- Implementierte eine Reihe von Funktionen für ein E-Learning-System, einschließlich In-App-Käufen und Push-Benachrichtigungen, was zu einer verbesserten Nutzererfahrung führte.
-- Beteiligte sich an der Architektur und Entwicklung einer komplexen E-Commerce-Anwendung, die sich durch eine nahtlose Navigation und eine sichere Zahlungsabwicklung auszeichnete.
+* Verantwortlich für die Entwicklung, Wartung und Optimierung von Softwareprodukten auf der iOS-Plattform.
+* Entwicklung komplexer Benutzeroberflächen mit UIKit unter Berücksichtigung aktueller Designrichtlinien.
+* Implementierung anspruchsvoller Animationen und Übergänge mithilfe von CoreAnimation.
+* Aktive Beteiligung am gesamten Softwareentwicklungszyklus, von der Anforderungsanalyse bis zum Deployment.
+* Enge Zusammenarbeit mit dem Produktmanagement- und Design-Team zur Umsetzung von User Stories.
 
-*iOS-Entwicklungsassistent, DevTech GmbH, 2015-2017*
-- Unterstützte bei der Entwicklung und Wartung mehrerer iOS-Projekte für Kunden aus verschiedenen Branchen.
-- Implementierte CoreAnimation-Effekte, um die visuelle Erfahrung der Anwendungen zu verbessern.
-- Führte umfassende Tests und Fehlerbehebungen durch, um eine hohe Code-Qualität sicherzustellen.
+**Junior iOS Entwickler | Innovative Technologies AG, München | 2017 – 2019**
 
-Technische Fähigkeiten:
-- **Programmiersprachen**: Swift (fortgeschritten), Objective-C (Grundkenntnisse)
-- **Frameworks**: UIKit, ARKit, CoreAnimation, AVFoundation
-- **Tools**: Xcode, Git, Fastlane
-- **Design-Konzepte**: MVC, MVVM, Design Patterns
+* Unterstützung bei der Entwicklung und Implementierung neuer Features für bestehende iOS-Produkte.
+* Mitarbeit an der Integration von Drittanbieter-Bibliotheken und -Frameworks.
+* Durchführung von Code-Reviews zur Sicherstellung hoher Codequalität.
+* Erstellung von Unit-Tests zur Validierung der Softwarefunktionalität.
 
-Ausbildung:
-- Bachelor of Science in Informatik, Technische Universität Berlin, 2012-2015
-- Weiterbildungskurse in iOS-Entwicklung und Swift-Programmierung, 2016-2017
+**Technische Fähigkeiten**
 
-Projekte:
-- **Immobilien-AR-Plattform**: Entwickelte eine immersive AR-Anwendung, die es Benutzern ermöglicht, Immobilien virtuell zu erkunden, mit Funktionen wie 3D-Modellierung und Echtzeit-Rendering.
-- **Lern-App**: Erstellte eine personalisierte Lern-App mit adaptiven Lernpfaden und Gamification-Elementen, um das Engagement der Nutzer zu steigern.
+*   **Sprachen:** Swift, Objective-C (Grundkenntnisse)
+*   **Frameworks/Bibliotheken:** UIKit, CoreAnimation, ARKit, CoreData, GCD, Networking-Bibliotheken (URLSession), JSON Parsing
+*   **Tools:** Xcode, Git, Jira, Confluence
+*   **Architektur:** MVC, MVVM
+*   **Prinzipien:** SOLID, Clean Code
+
+**Ausbildung**
+
+**Bachelor of Science (B.Sc.) Informatik | Technische Universität Berlin | 2014 – 2017**
+
+**Projekte**
+
+**AR-basierte Lernanwendung (Privatprojekt)**
+
+*   Entwicklung einer interaktiven Lernanwendung, die Augmented Reality (ARKit) nutzt, um Lerninhalte auf spielerische Weise zu vermitteln.
+*   Implementierung von 3D-Modellen und Animationen zur Visualisierung komplexer Sachverhalte.
+
+**Fitness Tracker (Universitätsprojekt)**
+
+*   Entwicklung einer Software zur Erfassung und Auswertung von Fitnessdaten.
+*   Benutzung von CoreData zur Persistierung von Daten.
+*   Erstellung einer ansprechenden Benutzeroberfläche mit UIKit.
