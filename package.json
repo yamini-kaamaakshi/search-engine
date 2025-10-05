@@ -11,11 +11,8 @@
     "upload-cvs": "tsx scripts/upload-cvs.ts"
   },
   "dependencies": {
-    "@types/form-data": "^2.2.1",
     "@types/uuid": "^10.0.0",
-    "axios": "^1.12.2",
     "dotenv": "^17.2.3",
-    "form-data": "^4.0.4",
     "formidable": "^3.5.4",
     "mammoth": "^1.11.0",
     "multer": "^2.0.2",

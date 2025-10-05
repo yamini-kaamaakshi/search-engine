@@ -1,57 +1,37 @@
-**Pedro Gómez Ramírez**
+## CV: Gonzalo Díaz Martínez
 
-**Resumen profesional**
+### Resumen Profesional
+Desarrollador Flutter con más de 5 años de experiencia en la creación de interfaces de usuario atractivas y funcionales. Expertise en la construcción de arquitecturas escalables y mantenibles utilizando patrones de diseño eficientes. Comprometido con el desarrollo de software de alta calidad, siempre al día con las últimas tendencias y tecnologías.
 
-Soy un desarrollador de software con experiencia en diseño y desarrollo de interfaces de usuario dinámicas utilizando la plataforma Flutter y el lenguaje Dart. Tiengo una sólida comprensión de las patologías BLoC y GetX, lo que me permite trabajar de manera eficiente y escalable en proyectos complejos.
+### Experiencia Laboral
 
-**Experiencia laboral**
+**Desarrollador Senior, Flutter Tech, 2022-presente**
+- Lideré el desarrollo de una plataforma de e-commerce utilizando Flutter y Dart, alcanzando una base de usuarios de más de 100.000 clientes en el primer año.
+- Implementé el patrón BLoC para gestionar el estado de la aplicación, garantizando una arquitectura limpia y mantenible.
+- Formé y mentoreé a un equipo de 3 desarrolladores juniors, mejorando sus habilidades en Flutter y buenas prácticas de programación.
 
-**Desarrollador Flutter**
-- EBIT (Empresas Inteligentes para el Bienestar Trimestral), 2020 - 2022
- + Desarrollé e interfaces de usuario para diferentes productos, utilizando Flutter y Dart.
- + Implementé patologías BLoC y GetX para mejorar la escalabilidad y el rendimiento del software.
- + Colaboré con la equipo de diseño para crear experiencias de usuario intuitivas y atractivas.
+**Ingeniero de Software, SoftDev Solutions, 2020-2022**
+- Colaboré en la creación de una suite de herramientas de productividad utilizando Flutter, enfocándome en la usabilidad y la accesibilidad.
+- Desarrollé una arquitectura modular utilizando GetX para facilitar la escalabilidad y el mantenimiento.
+- Optimicé el rendimiento de la aplicación, reduciendo los tiempos de carga en un 20%.
 
-**Desarrollador Junior**
-- TechDev (Solutions Técnicas para Desarrollo), 2018 - 2020
- + Aprendí los fundamentos de Flutter y Dart en un entorno de aprendizaje intensivo.
- + Realicé proyectos personales utilizando las últimas características del lenguaje.
+**Desarrollador Junior, Dart Innovations, 2018-2020**
+- Participé en el diseño y desarrollo de un proyecto de digitalización de procesos empresariales utilizando Dart y Flutter.
+- Realicé pruebas y depuración de código para garantizar la estabilidad y la calidad del software.
+- Colaboré en la implementación de funcionalidades personalizadas para clientes específicos.
 
-**Estudiante de Ing. en Computación**
-- Universidad Nacional, 2016 - 2018
- + Estudié programación básica, teoría de computación y matrices.
- + Me familiarice con los conceptos fundamentales de diseño de interfaces de usuario.
+### Habilidades Técnicas
+- Flutter: Experto en el desarrollo de interfaces de usuario, gestión de estado, y arquitectura de aplicaciones.
+- Dart: Dominio del lenguaje, incluyendo buenas prácticas y patrones de diseño.
+- BLoC (Business Logic Component): Experiencia en la implementación de este patrón para la gestión del estado y la separación de responsabilidades.
+- GetX: Conocimiento en la creación de arquitecturas modulares y la gestión de dependencias.
+- Git, GitHub: Manejo de control de versiones y colaboración en equipo.
+- Diseño de Interfaces: Habilidad para crear diseños atractivos y usables.
 
-**Habilidades técnicas**
+### Educación
+- Ingeniería en Informática, Universidad de Tecnología Avanzada, 2014-2018
+- Curso de Certificación en Flutter, Academia de Programación Móvil, 2019
 
-* Lenguajes:
- + Dart
- + BLoC
- + GetX
- + Html/CSS/JavaScript (basico)
-* Tecnologías:
- + Flutter
- + Firebase (servicios de autenticación y almacenamiento de datos)
- + SQFlite (gestión de bases de datos locales)
- + Firebase Core (gestor de estado y gestión de buenas prácticas)
-
-**Educación**
-
-- Universidad Nacional, Licenciatura en Computación, 2018
-- Curso de especialización en programación para web, Codecademy, 2020
-
-**Proyectos personales**
-
-* **Generador de pasaportes**
- + Un proyecto pequeño que genera pasaportes virtuales, utilizando Flutter y Firebase.
- + Me permitió practicar la implementación de interfaces de usuario complejas y la integración con servicios externos.
-
-* **Mood Tracker**
- + Un sistema de seguimiento del estado emocional diseñado para ayudar a las personas a gestionar sus emociones.
- + Utilizaba Flutter, Dart y BLoC para la estructura y gestión del software.
-
-**Certificaciones**
-
-- Certificado de programación en Dart (Dart Language), Codecademy, 2020
-
-*Nota: Esta CV es solo un ejemplo y puede ajustarse a las necesidades y experiencias específicas del candidato.*
+### Proyectos Destacados
+- **Plataforma E-commerce**: Desarrollo de una tienda en línea con carrito de compras, sistema de pago integrado y perfiles de usuario.
+- **Suite de Productividad**: Creación de herramientas de gestión de tareas, calendario y recordatorios, enfocadas en la usabilidad.

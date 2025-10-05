@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 const COHERE_API_KEY = process.env.COHERE_API_KEY;
 const COHERE_API_URL = 'https://api.cohere.ai/v1';
 
@@ -48,28 +46,32 @@ export async function generateCohereEmbedding(text: string): Promise<number[]> {
   }
 
   try {
-    const response = await axios.post<CohereEmbeddingResponse>(
-      `${COHERE_API_URL}/embed`,
-      {
+    const response = await fetch(`${COHERE_API_URL}/embed`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${COHERE_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
         texts: [text],
         model: 'embed-english-v3.0',
         input_type: 'search_document', // For indexing documents
-      },
-      {
-        headers: {
-          'Authorization': `Bearer ${COHERE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
+      }),
+    });
 
-    return response.data.embeddings[0];
-  } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error('Cohere API error:', error.response?.data || error.message);
-      throw new Error(`Cohere embedding failed: ${error.response?.data?.message || error.message}`);
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(`Cohere embedding failed: ${errorData.message || response.statusText}`);
     }
-    throw error;
+
+    const data: CohereEmbeddingResponse = await response.json();
+    return data.embeddings[0];
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error('Cohere API error:', error.message);
+      throw error;
+    }
+    throw new Error('Cohere embedding failed: Unknown error');
   }
 }
 
@@ -82,28 +84,32 @@ export async function generateCohereEmbeddingBatch(texts: string[]): Promise<num
   }
 
   try {
-    const response = await axios.post<CohereEmbeddingResponse>(
-      `${COHERE_API_URL}/embed`,
-      {
+    const response = await fetch(`${COHERE_API_URL}/embed`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${COHERE_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
         texts,
         model: 'embed-english-v3.0',
         input_type: 'search_document',
-      },
-      {
-        headers: {
-          'Authorization': `Bearer ${COHERE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
+      }),
+    });
 
-    return response.data.embeddings;
-  } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error('Cohere API error:', error.response?.data || error.message);
-      throw new Error(`Cohere batch embedding failed: ${error.response?.data?.message || error.message}`);
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(`Cohere batch embedding failed: ${errorData.message || response.statusText}`);
     }
-    throw error;
+
+    const data: CohereEmbeddingResponse = await response.json();
+    return data.embeddings;
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error('Cohere API error:', error.message);
+      throw error;
+    }
+    throw new Error('Cohere batch embedding failed: Unknown error');
   }
 }
 
@@ -116,28 +122,32 @@ export async function generateCohereQueryEmbedding(query: string): Promise<numbe
   }
 
   try {
-    const response = await axios.post<CohereEmbeddingResponse>(
-      `${COHERE_API_URL}/embed`,
-      {
+    const response = await fetch(`${COHERE_API_URL}/embed`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${COHERE_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
         texts: [query],
         model: 'embed-english-v3.0',
         input_type: 'search_query', // For search queries
-      },
-      {
-        headers: {
-          'Authorization': `Bearer ${COHERE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
+      }),
+    });
 
-    return response.data.embeddings[0];
-  } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error('Cohere API error:', error.response?.data || error.message);
-      throw new Error(`Cohere query embedding failed: ${error.response?.data?.message || error.message}`);
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(`Cohere query embedding failed: ${errorData.message || response.statusText}`);
     }
-    throw error;
+
+    const data: CohereEmbeddingResponse = await response.json();
+    return data.embeddings[0];
+  } catch (error) {
+    if (error instanceof Error) {
+      console.error('Cohere API error:', error.message);
+      throw error;
+    }
+    throw new Error('Cohere query embedding failed: Unknown error');
   }
 }
 
@@ -160,35 +170,40 @@ export async function rerankDocuments(
   }
 
   try {
-    const response = await axios.post<CohereRerankResponse>(
-      `${COHERE_API_URL}/rerank`,
-      {
+    const response = await fetch(`${COHERE_API_URL}/rerank`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${COHERE_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
         query,
         documents: documents.map(doc => doc.content),
         model: 'rerank-english-v3.0',
         top_n: topN,
-      },
-      {
-        headers: {
-          'Authorization': `Bearer ${COHERE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
+      }),
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(`Cohere rerank failed: ${errorData.message || response.statusText}`);
+    }
+
+    const data: CohereRerankResponse = await response.json();
 
     // Map the reranked results back to our documents with scores
-    const rerankedDocs = response.data.results.map(result => ({
+    const rerankedDocs = data.results.map(result => ({
       ...documents[result.index],
       relevance_score: result.relevance_score,
     }));
 
     return rerankedDocs;
   } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error('Cohere rerank API error:', error.response?.data || error.message);
-      throw new Error(`Cohere rerank failed: ${error.response?.data?.message || error.message}`);
+    if (error instanceof Error) {
+      console.error('Cohere rerank API error:', error.message);
+      throw error;
     }
-    throw error;
+    throw new Error('Cohere rerank failed: Unknown error');
   }
 }
 

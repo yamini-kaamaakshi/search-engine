@@ -1,36 +1,42 @@
-# **Nombre:** Hugo Sánchez Fernández
+# CV: Francisco Javier Rodríguez
 
-## **Resumen Profesional:**
-Experto desarrollador Frontend con más de cinco años de experiencia en la creación de interfaces de usuario interactivas y visualmente atractivas. Poseo amplios conocimientos en tecnologías Vue.js y JavaScript, con una pasión por diseñar soluciones elegantes y eficientes. Mi enfoque se centra en la optimización de la experiencia del usuario, garantizando una navegación intuitiva y una rápida carga de páginas.
+## Resumen Profesional
+Desarrollador Frontend con más de cinco años de experiencia en la creación de interfaces de usuario interactivas y visualmente atractivas. Especializado en Vue.js y su ecosistema, con habilidades avanzadas en JavaScript y CSS. Mi objetivo es construir soluciones web que proporcionen una experiencia de usuario excepcional y una interfaz intuitiva.
 
-## **Experiencia Laboral:**
+## Experiencia Laboral
 
-**Desarrollador Frontend Senior - WebTech Solutions (2021-presente)**
-- Lideré la migración de la plataforma de la empresa a Vue.js, mejorando la velocidad y el rendimiento de la página.
-- Diseñé y desarrollé componentes reutilizables, reduciendo el tiempo de desarrollo y garantizando la consistencia visual.
-- Implementé prácticas de código limpio y revisé el trabajo de otros desarrolladores para mantener altos estándares de calidad.
+**Desarrollador Frontend Senior, TechWeb Solutions (2022 - presente)**
+- Lideré el rediseño y migración de la plataforma web de la empresa utilizando Vue.js y Nuxt, mejorando la velocidad y la escalabilidad.
+- Implementé componentes reutilizables y modulares para una experiencia de usuario consistente en todo el sitio.
+- Colaboré estrechamente con diseñadores para traducir diseños en código, asegurando una apariencia precisa y una excelente experiencia de usuario.
 
-**Desarrollador Frontend - Digital Innovations (2018-2021)**
-- Colaboré en la creación de sitios web dinámicos y receptivos utilizando JavaScript y SCSS.
-- Optimicé la experiencia de usuario a través de la implementación de animaciones y transiciones fluidas.
-- Trabajé en equipo para integrar el frontend con APIs de backend, garantizando una comunicación de datos eficiente.
+**Desarrollador Frontend, Digital Creative Agency (2019 - 2022)**
+- Desarrollé interfaces de usuario interactivas y dinámicas para diversos proyectos web utilizando Vue.js y JavaScript.
+- Creé animaciones personalizadas y transiciones de página suaves para mejorar la experiencia del usuario.
+- Participé en el mantenimiento y la mejora continua de sitios web existentes, solucionando problemas y añadiendo nuevas funcionalidades.
 
-**Asistente de Desarrollador Web - CodeCrafters (2016-2018)**
-- Asistí a desarrolladores senior en proyectos de diseño web y resolución de problemas.
-- Aprendí y apliqué tecnologías como HTML5, CSS3 y JavaScript básico.
-- Realicé pruebas exhaustivas de sitios web y corregí errores menores.
+**Desarrollador Junior, WebDev Studios (2017 - 2019)**
+- Asistí a los desarrolladores senior en la construcción de sitios web dinámicos utilizando JavaScript y HTML/CSS.
+- Realicé pruebas y depuración de código para garantizar una funcionalidad sin errores.
+- Contribuyé a la implementación de buenas prácticas de código y estándares de calidad.
 
-## **Habilidades Técnicas:**
-- **Vue.js:** Experto en la creación de aplicaciones de una sola página, gestión de estado y componentes reutilizables.
-- **JavaScript:** Dominio avanzado, incluyendo ES6+ y bibliotecas como jQuery.
-- **Nuxt.js:** Experiencia en la construcción de aplicaciones Vue.js universales, SEO-friendly.
-- **SCSS:** Proficiencia en la creación de estilos escalables y mantenibles.
-- **HTML5, CSS3, Git, Metodologías Ágiles.**
+## Habilidades Técnicas
+- **Vue.js**: Proficiente en la creación de aplicaciones SPA (Single Page Application) utilizando Vue.js, con experiencia en la gestión de estado y la composición de componentes.
+- **JavaScript**: Conocimientos avanzados en ES6+, manipulación del DOM, y frameworks como Vuex para gestión de estado.
+- **Nuxt**: Experiencia en la construcción de aplicaciones Vue universales con Nuxt, incluyendo SSR (Server-Side Rendering).
+- **SCSS/CSS**: Maestría en la creación de hojas de estilo escalables y modulares, utilizando preprocesadores como SCSS para una mejor organización y mantenimiento.
+- **Herramientas**: Familiaridad con Git, Webpack, Babel y herramientas de desarrollo frontend modernas.
 
-## **Educación:**
-- **Licenciatura en Ciencias de la Computación - Universidad de Madrid (2012-2016)**
-- **Curso de Certificación en Desarrollo Web - Academia de Códigos (2017)**
+## Educación
+**Universidad Técnica Nacional, Licenciatura en Ingeniería de Software (2013-2017)**
+- Título en Ingeniería de Software con especialización en Desarrollo Web.
+- Proyecto final: "Sistema de Gestión de Eventos en Línea", utilizando tecnologías web avanzadas.
 
-## **Proyectos Destacados:**
-- **Plataforma de E-learning:** Desarrollé un portal de aprendizaje en línea interactivo utilizando Vue.js y Nuxt, permitiendo a los usuarios acceder a cursos y recursos educativos.
-- **Sitio Web de Noticias:** Creé un sitio web de noticias dinámico con un sistema de gestión de contenido personalizado, utilizando JavaScript y SCSS para una experiencia de lectura inmersiva.
+## Proyectos Destacados
+**Eventify (2021)**
+- Desarrollé una plataforma web para la gestión y promoción de eventos, utilizando Vue.js y Nuxt.
+- Implementé un sistema de reservas y pago en línea seguro, mejorando la experiencia de compra de los usuarios.
+
+**VueShop (2020)**
+- Colaboré en un proyecto de e-commerce utilizando Vue.js y Vuex para la gestión de carritos de compra y productos.
+- Aporté componentes personalizados y animaciones para una experiencia de compra atractiva.

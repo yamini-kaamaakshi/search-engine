@@ -45,10 +45,15 @@ export async function searchDocuments(query: string, limit: number = 5) {
     // For example: "mobile developer" will match "iOS Engineer" or "Android Developer"
     const rerankedDocs = await rerankDocuments(query, docsForRerank, limit);
 
-    console.log(`Found ${rerankedDocs.length} relevant documents`);
+    // Filter out results with very low relevance (below 2%)
+    // This removes documents that have no meaningful relevance to the query
+    const RELEVANCE_THRESHOLD = 0.02; // 2% minimum relevance
+    const filteredDocs = rerankedDocs.filter(doc => doc.relevance_score >= RELEVANCE_THRESHOLD);
+
+    console.log(`Found ${filteredDocs.length} relevant documents (filtered from ${rerankedDocs.length} total)`);
 
     // Convert to search result format
-    const results = rerankedDocs.map(doc => ({
+    const results = filteredDocs.map(doc => ({
       id: doc.id,
       title: doc.filename || 'Untitled',
       content: doc.content || '',

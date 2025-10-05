@@ -1,41 +1,47 @@
-## Name: Jan-Philipp Müller
+## Lebenslauf:  Jonas Weber
 
-## Frontend-Entwickler mit Fokus auf moderne Web-Technologien
+### Zusammenfassung:
 
-Ein erfahrener Frontend-Spezialist mit Leidenschaft für reaktive und skalierbare Web-Lösungen. Besondere Expertise im Erstellen von intuitiven und ansprechenden Benutzeroberflächen, mit einem Auge für Design und Nutzererfahrung.
+Erfahrener Frontend-Entwickler mit einem starken Hintergrund in modernen Web-Technologien. Expertise in der Entwicklung reaktiver und benutzerfreundlicher Weboberflächen mit einem Fokus auf Performance und Zugänglichkeit. Leidenschaftlicher Verfechter agiler Methoden und bester Praktiken im Bereich der Softwareentwicklung.
 
-## Berufserfahrung
+### Berufserfahrung:
 
-**Senior Frontend-Entwickler, WebDev GmbH (2020 - heute)**
-- Führende Rolle im Frontend-Team bei der Entwicklung und Wartung einer komplexen E-Commerce-Plattform.
-- Implementierung einer reaktiven Benutzeroberfläche mit Redux zur Verwaltung des globalen Zustands, was zu einer verbesserten Leistung und Benutzererfahrung führte.
-- Mitarbeit an der Optimierung des Build-Prozesses mit Webpack, um die Ladezeiten der Seite zu verbessern und die allgemeine Effizienz zu steigern.
+**Senior Frontend Entwickler, WebTech GmbH (2021 - Gegenwart)**
+- Verantwortlich für die Implementierung und Wartung der Frontend-Architektur eines großen E-Commerce-Projekts.
+- Entwickelte eine modulare und skalierbare React-Komponentenbibliothek, die die Entwicklungsprozesse vereinfachte und die Code-Wiederverwendung optimierte.
+- Implementierte fortgeschrittene Funktionen wie Server-Side-Rendering mit Webpack und eine dynamische Benutzeroberfläche mit Redux-State-Management.
 
-**Frontend-Entwickler, DigitalTech AG (2017-2020)**
-- Zusammenarbeit mit einem agilen Team bei der Entwicklung von Webanwendungen für Kunden aus verschiedenen Branchen.
-- Hauptverantwortung für die Umsetzung von UI-Designs mit React, gewährleistende konsistente und reaktive Benutzererfahrung auf verschiedenen Geräten.
-- Implementierung von Unit-Tests mit Jest, um Code-Qualität und -Stabilität zu gewährleisten.
+**Frontend Engineer, DigitalCrafts (2018 - 2021)**
+- Engagiert bei der Entwicklung und Wartung mehrerer Webanwendungen für verschiedene Kunden aus der Finanz- und Gesundheitsbranche.
+- Zusammengearbeitet mit Designern, um interaktive Prototypen zu erstellen und die visuelle Qualität und Benutzererfahrung der Anwendungen zu verbessern.
+- Implementierte umfassende Testabdeckung mit Jest, um die Stabilität und Zuverlässigkeit der Frontend-Codebase sicherzustellen.
 
-**Junior Web-Entwickler, StartUp Solutions GmbH (2015-2017)**
-- Einstieg in die Webentwicklung, mit Fokus auf HTML, CSS und JavaScript.
-- Unterstützung bei der Erstellung und Wartung von Websites für kleine und mittelständische Unternehmen.
-- Gelegentliche Aufgaben in der Frontend-Entwicklung mit jQuery und Bootstrap.
+**Junior Web Developer, SoftSolutions AG (2016 - 2018)**
+- War Teil eines agilen Teams und unterstützte die Entwicklung und den Rollout einer Unternehmenswebsite.
+- Erstellte responsive Webseitenlayouts und interaktive Elemente mit JavaScript.
+- Gewährleistete die Qualität der Website durch Code-Reviews und die Implementierung von Best Practices.
 
-## Technische Fähigkeiten
-- **React:** Profunde Kenntnisse in der Erstellung und Verwaltung komplexer UI-Komponenten, Nutzung von JSX und State Management.
-- **Redux:** Erfahrung in der Implementierung von Redux-Stores für die Verwaltung von Anwendungszuständen, einschließlich der Verwendung von Actions und Reducern.
-- **Webpack:** Kenntnisse im Konfigurieren und Anpassen von Webpack-Build-Prozessen, einschließlich der Optimierung von Bundle-Größen und Ladezeiten.
-- **Jest:** Praxis in der Erstellung umfassender Test-Suites mit Jest, um Code-Abdeckung und -Stabilität sicherzustellen.
-- **HTML/CSS:** Experte im Schreiben von semantischem HTML und effektivem CSS, mit Fokus auf Barrierefreiheit und responsivem Design.
+### Technische Fähigkeiten:
 
-## Ausbildung
-- Bachelor of Science in Informatik, Technische Universität Berlin (2012-2015)
+- **React:** Experte im Erstellen von Komponenten, Handhabung des Lebenszyklus, und State-Management.
+- **Redux:** Erfahren in der Implementierung von komplexen State-Management-Systemen für reaktive Anwendungen.
+- **Webpack:** Kenntnisse in der Konfiguration und Optimierung von Build-Prozessen, einschließlich Code-Bundling und Modul-Resolution.
+- **Jest:** Profi bei der Erstellung von umfassenden Test-Suites für Frontend-Code.
+- **HTML/CSS:** Fortgeschrittene Kenntnisse in responsive Webdesign und der Erstellung von barrierefreien Benutzeroberflächen.
+- **JavaScript:** Erfahrung mit ES6+ und modernen JavaScript-Frameworks.
 
-## Projekte
-**Online-Bildungsplattform (2021)**
-- Entwicklung einer Online-Lernplattform mit interaktiven Kursen und nutzerfreundlicher Oberfläche.
-- Umsetzung eines responsiven Designs, das auf verschiedenen Geräten funktioniert, und Integration von Video- und Quiz-Modulen.
+### Ausbildung:
 
-**Personalisierter News-Aggregator (2019)**
-- Erstellung eines personalisierten Nachrichten-Feed-Prototyps mit React, der Inhalte basierend auf den Interessen des Benutzers anzeigt.
-- Nutzung von Redux zur Verwaltung der Benutzerpräferenzen und des Nachrichten-Zustands.
+**Bachelor of Science in Informatik, Technische Universität Berlin (2012-2016)**
+- Schwerpunkt auf Softwareentwicklung und Webtechnologien.
+- Abschlussarbeit über die Optimierung von Webanwendungen für mobile Geräte.
+
+### Projekte:
+
+**E-Learning-Plattform (2020)**
+- Entwickelte eine interaktive Online-Lernplattform für eine gemeinnützige Organisation.
+- Implementierte ein benutzerfreundliches Dashboard mit React und Redux, das personalisierte Lernpfade und Fortschrittsverfolgung ermöglichte.
+
+**Online-Community-Portal (2019)**
+- Gestaltete und implementierte ein responsives Community-Forum mit React und Redux.
+- Integrierte eine Echtzeit-Chat-Funktion mit WebSockets, die eine nahtlose Benutzerinteraktion ermöglichte.

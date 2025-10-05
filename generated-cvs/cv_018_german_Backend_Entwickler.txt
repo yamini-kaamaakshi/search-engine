@@ -1,43 +1,39 @@
-## Maximilian Weber – Softwareentwickler
+## Lebenslauf
 
-### Zusammenfassung
+### Name: Erik Lehmann
 
-Erfahrener Backend-Entwickler mit einem Schwerpunkt auf robusten und skalierbaren Lösungen. Expertise in der Entwicklung mit Go, gRPC und Microservices-Architekturen, sowie fundierte Kenntnisse in der Arbeit mit PostgreSQL-Datenbanken. Stellt durch die Implementierung moderner Softwarepraktiken die Entwicklung hochwertiger und zuverlässiger Systeme sicher.
+### Zusammenfassung:
 
-### Berufserfahrung
+Backend-Entwickler mit umfangreicher Erfahrung in der Gestaltung und Entwicklung skalierbarer und robuster Backend-Systeme. Spezialisiert auf die Go-Programmiersprache, PostgreSQL-Datenbanken und gRPC-Kommunikation in Microservices-Architekturen. Ich strebe danach, effiziente und zuverlässige Softwarelösungen zu schaffen, die die Geschäftsanforderungen erfüllen und einen reibungslosen Ablauf gewährleisten.
 
-**Senior Backend Entwickler, TechSolutions GmbH (2021–heute)**
-- Verantwortlich für die Konzeption und Entwicklung einer hochskalierbaren Backend-Plattform für E-Commerce-Anwendungen, basierend auf Go und Microservices.
-- Implementierung von gRPC-Diensten für die sichere Kommunikation zwischen Modulen, was zu einer verbesserten Performance und Skalierbarkeit führte.
-- Optimierung von Datenbankabfragen und Indexierung, was zu einer 20%igen Steigerung der Gesamtleistung des Systems beitrug.
+### Berufserfahrung:
 
-**Backend Entwickler, DigitalTech AG (2018–2021)**
-- Arbeitete im Team an der Migration einer Legacy-Anwendung zu einer Microservices-Architektur mit Go.
-- Implementierung von effizienten Datenvalidierungs- und -verarbeitungsprozessen, was die Datengenauigkeit und Systemstabilität verbesserte.
-- Integration der PostgreSQL-Datenbank mit den Backend-Diensten, einschließlich der Entwicklung von benutzerdefinierten Erweiterungen für spezifische Geschäftslogik.
+**Senior Backend Entwickler, Tech Innovations GmbH (2022-heute)**
+- Implementierung und Wartung einer hochverfügbaren Backend-Plattform für ein E-Commerce-Unternehmen mit Go und gRPC.
+- Optimierung der Datenbankperformance durch den Einsatz von PostgreSQL-Erweiterungen und Indizierungstechniken.
+- Entwicklung von Microservices für die Benutzerauthentifizierung und Zahlungsabwicklung, was zu einer Verbesserung der Systemskalierbarkeit beitrug.
 
-**Junior Softwareentwickler, SoftwareLab GmbH (2016–2018)**
-- Unterstützung bei der Wartung und Verbesserung eines Enterprise-Software-Systems.
-- Implementierung von Skripten zur Automatisierung von Build- und Deployment-Prozessen, was die Effizienz des Entwicklungsteams steigerte.
-- Mitarbeit an der Entwicklung einer RESTful API für die Integration mit Drittanbieter-Diensten.
+**Backend-Entwickler, SoftTech Solutions (2019-2022)**
+- Zusammenarbeit im Team bei der Erstellung eines Backend-Systems für ein IoT-Projekt, das Gerätedaten verarbeitet und analysiert.
+- Implementierung von effizienten Datenverarbeitungs-Pipelines mit Go und Integration mit externen APIs.
+- Gewährleistung der Datensicherheit und -integrität durch die Implementierung von Zugriffskontrollmechanismen.
 
-### Technische Fähigkeiten
+**Junior Software Engineer, DataTech Inc. (2017-2019)**
+- Unterstützung bei der Wartung und Weiterentwicklung eines bestehenden Backend-Systems für ein Datenanalyse-Unternehmen.
+- Datenbankadministration und Optimierung von SQL-Abfragen für verbesserte Performance.
+- Implementierung von Skripten zur Automatisierung von wiederkehrenden Aufgaben.
 
-- **Programmiersprachen:** Go (Fortgeschritten), Python, C++
-- **Datenbanken:** PostgreSQL (Erfahren), MySQL, MongoDB
-- **Architekturen:** Microservices, gRPC, RESTful APIs
-- **Tools:** Docker, Kubernetes, Git, Jenkins
+### Technische Fähigkeiten:
+- **Programmiersprachen**: Go (fortgeschritten), Python (grundlegend)
+- **Datenbanken**: PostgreSQL (fortgeschritten), MySQL (grundlegend)
+- **Kommunikationsprotokolle**: gRPC, RESTful APIs
+- **Architektur**: Microservices, Containerisierung (Docker)
+- **Versionskontrolle**: Git, GitHub
 
-### Bildung
+### Bildung:
+- **Bachelor of Science in Informatik**, Technische Universität Berlin (2014-2017)
+- **Zertifikat**: Zertifizierter Go-Entwickler (Go Developer Certification)
 
-**Bachelor of Science in Informatik, Technische Universität Berlin (2012–2016)**
-- Abschlussarbeit: "Effiziente Datenverarbeitung in verteilten Systemen mit Go"
-
-### Projekte
-
-**E-Commerce-Plattform-Migration**
-- Leitete ein Projekt zur Migration einer E-Commerce-Plattform zu einer modernen Microservices-Architektur.
-- Durch die Einführung von gRPC-Kommunikation und der Optimierung von Datenbankvorgängen wurde die Leistung um 30% gesteigert und die Systemausfallzeiten reduziert.
-
-**Open-Source-Beiträge**
-- Aktiver Beitragender zu mehreren Open-Source-Projekten im Go-Ökosystem, insbesondere in den Bereichen Web-Frameworks und Datenbank-Tools.
+### Projekte:
+- **E-Commerce-Plattform**: Entwicklung einer skalierbaren Backend-Lösung für einen Online-Marktplatz, einschließlich Benutzerkontenverwaltung, Bestellabwicklung und integrierter Zahlungssysteme.
+- **IoT-Datenverarbeitung**: Mitwirkung an einem Projekt zur Verarbeitung und Visualisierung von Sensordaten aus IoT-Geräten, einschließlich der Implementierung von Echtzeit-Datenstromverarbeitung.

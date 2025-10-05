@@ -1,36 +1,36 @@
-**Leon Berger**
+## Florian Müller
 
-**Softwareentwickler mit Schwerpunkt Flutter und Dart**
+### Zusammenfassung:
 
-Ein erfahrener Softwareentwickler mit einem Auge für detaillierte und elegante Codelösungen. Spezialisiert auf die Erstellung robuster und benutzerfreundlicher Softwaresysteme unter Verwendung moderner Technologien wie Flutter und Dart. Bestrebt, innovative Lösungen für komplexe Herausforderungen zu finden und qualitativ hochwertige Softwareprodukte zu liefern.
+Erfahrener Softwareentwickler mit einer Leidenschaft für innovative Technologien und einem Schwerpunkt auf Flutter und Dart. Besondere Kompetenzen im Design und der Entwicklung von Software-Lösungen für verschiedene Branchen, mit einer Erfolgsbilanz bei der Umsetzung komplexer Projekte. Fachwissen in agilen Entwicklungsmethoden und der Bereitstellung hochwertiger, skalierbarer Produkte.
 
-**Berufserfahrung:**
+### Berufserfahrung:
 
-*Senior Flutter Entwickler, TechInnovation GmbH, 2022-heute*
-- Führte ein Team von Entwicklern an, um ein umfassendes Enterprise-System für die Finanzindustrie mit Flutter zu erstellen, das eine schnelle und effiziente Datenverwaltung ermöglicht.
-- Implementierte State-Management-Techniken mit Riverpod, um eine nahtlose Benutzererfahrung zu gewährleisten und die Leistung der Anwendung zu optimieren.
-- Entwickelte modulare und wiederverwendbare Codekomponenten, die die Entwicklungszeit um 20% reduzierten und die Codekonsistenz verbesserten.
+**Senior Flutter Entwickler, Tech Solutions GmbH (2021 - Gegenwart)**
+- Verantwortlich für die Entwicklung und Wartung von Software-Produkten für Kunden im Finanzsektor, darunter eine umfassende digitale Banking-Plattform.
+- Implementierung von modernen Design-Patterns und Architekturprinzipien für eine robuste und erweiterbare Codebasis.
+- Zusammenarbeit mit einem agilen Team zur erfolgreichen Bereitstellung von Software-Updates und neuen Funktionen, was zu einer verbesserten Benutzererfahrung führte.
 
-*Flutter-Spezialist, SoftCraft Studios, 2020-2022*
-- Arbeitete eng mit dem Designteam zusammen, um ansprechende und reaktionsschnelle Benutzeroberflächen zu entwickeln, die den hohen visuellen Standards der Kunden gerecht wurden.
-- Integrierte SQLite-Datenbanken für die lokale Speicherung und Synchronisierung von Daten, wodurch die Offline-Funktionalität der Software verbessert wurde.
-- Führte Code-Reviews durch und setzte Best Practices ein, um die Codequalität zu gewährleisten und potenzielle Probleme frühzeitig zu erkennen.
+**Softwareentwickler, Digital Innovation Labs (2018 - 2021)**
+- Entwicklung von kundenspezifischen Softwarelösungen unter Verwendung von Flutter und Dart, mit Fokus auf intuitive Benutzeroberflächen und Leistung.
+- Enge Zusammenarbeit mit UI/UX-Designern, um ein nahtloses Nutzererlebnis zu gewährleisten und die Produktvision der Kunden umzusetzen.
+- Einführung von Testverfahren und automatisierten Build-Systemen zur Sicherstellung der Codequalität und einer effizienten Bereitstellung.
 
-*Dart-Entwickler, DevTech Solutions, 2018-2020*
-- Konzipierte und implementierte skalierbare Backend-Systeme mit Dart, um effiziente Datenverarbeitung und -speicherung zu ermöglichen.
-- Erstellte benutzerdefinierte Pakete und Bibliotheken, um häufig verwendete Funktionen zu abstrahieren und die Entwicklungsgeschwindigkeit zu steigern.
-- Arbeitete in einem agilen Umfeld und lieferte regelmäßig funktionsfähige Software-Iterationen, um den Kundenanforderungen gerecht zu werden.
+**Junior Entwickler, CodeBase Software (2016 - 2018)**
+- Unterstützung des Entwicklungsteams bei der Wartung und Verbesserung von Legacy-Systemen und der Migration zu modernen Technologien.
+- Mitarbeit an der Entwicklung einer E-Commerce-Plattform, einschließlich der Implementierung von Zahlungs-Gateways und sicheren Transaktionssystemen.
+- Regelmäßige Beiträge zu Code-Reviews und der Verbesserung der allgemeinen Entwicklungsprozesse.
 
-**Technische Fähigkeiten:**
-- **Flutter:** Experte in der Erstellung plattformübergreifender Softwarelösungen mit Flutter, einschließlich der Gestaltung ansprechender Benutzeroberflächen und der Implementierung komplexer Funktionen.
-- **Dart:** Profunde Kenntnisse in der Dart-Programmierung, einschließlich asynchroner Programmierung, OOP-Konzepten und der Erstellung effizienter Code-Architekturen.
-- **Riverpod:** Erfahrung in der Implementierung von State-Management-Lösungen mit Riverpod, um die Verwaltung des Anwendungszustands zu vereinfachen.
-- **SQLite:** Fähigkeit, lokale Datenbanken für die Speicherung und Abfrage von Daten zu integrieren und zu verwalten.
-- **Version Control:** Erfahren mit Git für effektives Versionsmanagement und Zusammenarbeit.
+### Technische Fähigkeiten:
+- **Flutter**: Profunde Kenntnisse in der Erstellung plattformübergreifender Benutzeroberflächen und der Verwendung des Riverpod-Frameworks für die Zustandverwaltung.
+- **Dart**: Experte in der Sprache, einschließlich asynchroner Programmierung, OOP und der Erstellung von effizienten, skalierbaren Code.
+- **Riverpod**: Erfahren bei der Implementierung des Riverpod-Frameworks für die Abhängigkeitsinjektion und das State Management.
+- **SQLite**: Erfahrung in der Integration und Verwendung von SQLite für lokale Datenspeicherung und effiziente Abfragen.
+- Kenntnisse in Git, CI/CD-Pipelines, Unit-Testing und der Erstellung von RESTful APIs.
 
-**Bildung:**
-- Bachelor of Science in Informatik, Technische Universität Berlin, 2014-2018
+### Bildung:
+- Bachelor of Science in Informatik, Technische Universität München (2012-2016)
 
-**Projekte:**
-- **Smart Home Control System:** Entwicklung einer Flutter-basierten Anwendung zur Steuerung und Überwachung von Smart-Home-Geräten, einschließlich einer intuitiven Benutzeroberfläche und Echtzeit-Benachrichtigungen.
-- **Online-Bildungsplattform:** Zusammenarbeit mit einem Team zur Erstellung einer E-Learning-Plattform mit Dart und Flutter, die eine reibungslose Lernerfahrung auf verschiedenen Geräten bietet.
+### Projekte:
+- **Smart Home Steuerungssystem**: Entwicklung einer maßgeschneiderten Lösung zur Steuerung von Smart Home Geräten über eine intuitive Flutter-Oberfläche, mit Fokus auf Energieeffizienz und Benutzerfreundlichkeit.
+- **Digitale Lernplattform**: Mitgestaltung und Implementierung einer Online-Lernplattform für eine Schule, mit Funktionen wie Echtzeit-Kommunikation, Kursverwaltung und individueller Lernfortschrittsverfolgung.

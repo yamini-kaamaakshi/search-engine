@@ -1,41 +1,42 @@
-# Nicolas Dupont
+## Jean-Luc Dubois
 
-## Développeur Backend expérimenté avec une passion pour la création de solutions logicielles évolutives et robustes. Expert en conception d'architectures backend, en utilisant Java et les technologies associées pour fournir des systèmes de haute performance.
+### Développeur Backend Expérimenté
 
-## Expérience professionnelle
+Professionnel aguerri avec plus de 5 ans d'expérience dans le développement de solutions logicielles backend robustes et évolutives. Expertise dans la conception d'architectures de données et la mise en œuvre de systèmes de gestion de bases de données. Passionné par la création de logiciels de haute qualité et la résolution de problèmes complexes.
 
-**Développeur Senior Backend, TechPro Solutions (2021 - présent)**
-- Conception et développement d'une plateforme de gestion de données en utilisant Spring Boot, permettant une intégration transparente avec des bases de données MongoDB.
-- Mise en place d'une architecture microservices pour améliorer l'évolutivité et la maintenabilité du système.
-- Gestion du déploiement de conteneurs Docker et Kubernetes pour assurer un environnement de production stable et fiable.
+### Expérience Professionnelle
 
-**Ingénieur Logiciel, WebTech Innovations (2018 - 2021)**
-- Collaboration avec l'équipe backend pour développer des API RESTful en Java, assurant la sécurité et la performance des transactions financières.
-- Implémentation de solutions de gestion de données NoSQL avec MongoDB pour gérer des ensembles de données complexes.
-- Participation à la migration de l'infrastructure vers Kubernetes, améliorant ainsi la gestion des ressources et la scalabilité.
+**Développeur Senior Backend, TechSoft Innovations (2021 - présent)**
+- Conçu et développé des API RESTful pour plusieurs applications web à grande échelle, utilisant Spring Boot et Java pour assurer une performance optimale.
+- Mis en place une architecture de microservices, permettant une scalabilité efficace et une maintenance simplifiée.
+- Intégré Kubernetes pour l'orchestration de conteneurs, assurant une gestion automatisée et flexible des déploiements.
 
-**Développeur Junior, Software Solutions Inc. (2016 - 2018)**
-- Développement et maintenance d'applications backend Java pour divers projets clients.
-- Travail en étroite collaboration avec l'équipe de développement frontend pour intégrer les fonctionnalités backend.
-- Introduction aux pratiques DevOps et à l'automatisation du déploiement.
+**Ingénieur Logiciel, WebTech Solutions (2018 - 2021)**
+- Collaboré avec une équipe agile pour développer et maintenir des applications backend en Java, améliorant les processus d'affaires de l'entreprise.
+- Optimisé les requêtes de base de données MongoDB pour une performance accrue, réduisant les temps de réponse de 20%.
+- Documenté et maintenu un code propre, garantissant une transition fluide lors de la mise à jour de la plateforme.
 
-## Compétences techniques
-- **Langages** : Java (expert), Python (intermédiaire)
-- **Frameworks** : Spring Boot, Spring MVC, Hibernate
-- **Bases de données** : MongoDB, MySQL
-- **Conteneurs et Orchestration** : Docker, Kubernetes
-- **Outils** : Git, Jenkins, Maven
+**Développeur Junior, DigitalTech Inc. (2016 - 2018)**
+- Participé au développement d'un système de gestion de contenu personnalisé, utilisant Java et MongoDB.
+- Appris à travailler en équipe et à gérer les versions de code avec Git.
+- Géré la mise en place de tests unitaires, améliorant la stabilité du code.
 
-## Formation
-**Licence Informatique, Université de Lyon (2013-2016)**
-- Spécialisation en développement logiciel et architectures distribuées.
-- Projet de fin d'études sur la mise en place d'un système de recommandation distribué.
+### Compétences Techniques
+- Langages : Java (expert), Python (intermédiaire)
+- Frameworks : Spring Boot, Spring Cloud, Hibernate
+- Bases de Données : MongoDB, MySQL, PostgreSQL
+- Conteneurs et Orchestration : Docker, Kubernetes
+- Outils : Git, Jenkins, JUnit, Maven
 
-## Projets
-**Système de gestion de contenu (CMS)**
-- Développement d'un CMS personnalisé en Java et Spring Boot pour une startup de médias, permettant une gestion efficace du contenu et des utilisateurs.
-- Intégration avec MongoDB pour un stockage flexible et évolutif.
+### Formation
+**Université de Technologie de Lyon, 2014-2016**
+Master en Informatique, Spécialisation en Développement Logiciel
 
-**Plateforme d'analyse de données**
-- Conception et implémentation d'une plateforme d'analyse de données en temps réel pour une entreprise de commerce électronique, utilisant Spring Boot et MongoDB.
-- Création de pipelines de traitement de données pour fournir des insights en temps réel.
+### Projets
+**Système de Gestion de Bibliothèque**
+- Développement d'un système de gestion de bibliothèque en ligne, incluant la gestion d'inventaire, l'emprunt de livres, et un système de recommandation personnalisé.
+- Utilisation de Spring Boot pour l'API backend et React pour l'interface utilisateur.
+
+**Plateforme de Données Open Source**
+- Contribution à un projet open source, impliquant la création d'une plateforme de partage de données scientifiques.
+- Implémentation de fonctionnalités de sécurité et d'authentification, garantissant l'intégrité des données partagées.

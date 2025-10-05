@@ -1,7 +1,5 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import axios from 'axios';
-import FormData from 'form-data';
 import dotenv from 'dotenv';
 
 // Load environment variables
@@ -11,22 +9,29 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000';
 
 async function uploadCV(filePath: string, filename: string): Promise<boolean> {
   try {
-    const form = new FormData();
-    const fileStream = fs.createReadStream(filePath);
-    form.append('file', fileStream, filename);
+    // Read file content
+    const fileContent = fs.readFileSync(filePath);
 
-    const response = await axios.post(`${API_URL}/api/upload`, form, {
-      headers: {
-        ...form.getHeaders(),
-      },
-      maxContentLength: Infinity,
-      maxBodyLength: Infinity,
+    // Create FormData with File (Node.js 18+ has native FormData and File)
+    const formData = new FormData();
+    const file = new File([fileContent], filename, { type: 'text/plain' });
+    formData.append('file', file);
+
+    const response = await fetch(`${API_URL}/api/upload`, {
+      method: 'POST',
+      body: formData,
     });
 
-    return response.data.success;
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({ error: 'Unknown error' }));
+      throw new Error(errorData.error || response.statusText);
+    }
+
+    const data = await response.json();
+    return data.success;
   } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error(`Error: ${error.response?.data?.error || error.message}`);
+    if (error instanceof Error) {
+      console.error(`Error: ${error.message}`);
     } else {
       console.error(`Error:`, error);
     }

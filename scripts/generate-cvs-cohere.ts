@@ -1,4 +1,3 @@
-import axios from 'axios';
 import * as fs from 'fs';
 import * as path from 'path';
 import dotenv from 'dotenv';
@@ -101,26 +100,30 @@ Important:
 Generate ONLY the CV text, no additional commentary.`;
 
   try {
-    const response = await axios.post(
-      `${COHERE_API_URL}/chat`,
-      {
+    const response = await fetch(`${COHERE_API_URL}/chat`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${COHERE_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
         model: 'command-r-plus-08-2024',
         message: prompt,
         max_tokens: 800,
         temperature: 0.9,
-      },
-      {
-        headers: {
-          'Authorization': `Bearer ${COHERE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      }
-    );
+      }),
+    });
 
-    return response.data.text.trim();
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({}));
+      throw new Error(`Cohere API error: ${JSON.stringify(errorData)}`);
+    }
+
+    const data = await response.json();
+    return data.text.trim();
   } catch (error) {
-    if (axios.isAxiosError(error)) {
-      console.error(`Error generating CV ${index}:`, error.response?.data || error.message);
+    if (error instanceof Error) {
+      console.error(`Error generating CV ${index}:`, error.message);
     } else {
       console.error(`Error generating CV ${index}:`, error);
     }

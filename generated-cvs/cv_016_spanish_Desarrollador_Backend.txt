@@ -1,35 +1,36 @@
-# CV - Álvaro Gómez de la Torre
+# Juan Carlos García
 
-## Resumen Profesional
-Desarrollador backend con más de cinco años de experiencia en la creación de soluciones escalables y de alto rendimiento utilizando Python y su ecosistema. Poseo un sólido conocimiento en la arquitectura y desarrollo de aplicaciones web, destacando en el uso de frameworks como Django. Me apasiona trabajar en equipo y aportar soluciones innovadoras para superar desafíos técnicos.
+## Desarrollador de Software Especializado en Backend
 
-## Experiencia Laboral
+**Resumen Profesional:**
+Desarrollador backend con más de cinco años de experiencia en la creación de soluciones escalables y robustas. Experto en la arquitectura de software Python, con un enfoque en frameworks como Django para el desarrollo web. Amplia experiencia en la gestión de bases de datos MySQL y en la optimización del rendimiento utilizando Redis.
 
-**Desarrollador Senior, Empresa XYZ, 2022-presente**
-- Lideré la migración de la base de datos de la compañía a MySQL, mejorando la eficiencia y la seguridad de los datos.
-- Implementé una infraestructura de caché con Redis para optimizar la velocidad de respuesta de las API.
-- Desarrollé una plataforma de gestión de contenido utilizando Django, permitiendo una administración eficiente de recursos digitales.
+**Experiencia Laboral:**
+- **Desarrollador Senior, TechSolutions (2022-presente):**
+  - Lideré el rediseño de la arquitectura backend de la plataforma de e-commerce, migrando de Ruby on Rails a Python/Django, lo que resultó en una mejora significativa en el rendimiento y la escalabilidad.
+  - Implementé un sistema de caché con Redis para acelerar las consultas de base de datos, reduciendo los tiempos de respuesta en un 30%.
+  - Gestioné un equipo de desarrolladores junior, ofreciendo mentoría y asegurando prácticas de código limpio y eficiente.
 
-**Desarrollador Backend, StartUp Tech, 2020-2022**
-- Colaboré en el diseño e implementación de una plataforma de comercio electrónico utilizando Python y Django.
-- Gestioné la integración de sistemas de pago y seguridad, garantizando transacciones seguras.
-- Optimicé las consultas a la base de datos para mejorar el rendimiento general del sitio web.
+- **Desarrollador de Software, WebDev Studios (2019-2022):**
+  - Desarrollé y mantuve múltiples proyectos web utilizando Python y Django, incluyendo un portal educativo y una plataforma de gestión de eventos.
+  - Colaboré en la creación de APIs RESTful seguras y eficientes para integraciones con terceros.
+  - Optimicé las consultas de base de datos MySQL, mejorando la velocidad de carga de las páginas en un 25%.
 
-**Desarrollador Junior, Agencia Digital, 2018-2020**
-- Trabajé en el mantenimiento y actualización de diversos proyectos web basados en Django.
-- Participé en la creación de API RESTful para la integración con aplicaciones externas.
-- Realicé pruebas y depuración de código, garantizando la calidad y estabilidad de los sistemas.
+- **Programador Junior, SoftTech Innovations (2017-2019):**
+  - Trabajé en un equipo ágil para desarrollar soluciones backend personalizadas para clientes de diversos sectores.
+  - Contribución en la creación de scripts de automatización en Python para tareas de administración del sistema.
+  - Adquirí experiencia en la gestión de servidores y bases de datos MySQL.
 
-## Habilidades Técnicas
-- **Lenguajes**: Python (experto), C/C++, JavaScript.
-- **Frameworks**: Django (avanzado), Flask, FastAPI.
-- **Bases de Datos**: MySQL (avanzado), PostgreSQL, Redis (intermedio).
-- **Herramientas**: Git, Docker, AWS (básico).
+**Habilidades Técnicas:**
+- **Lenguajes de Programación:** Python (expert), C++, JavaScript.
+- **Frameworks:** Django (avanzado), Flask, HTML/CSS.
+- **Bases de Datos:** MySQL (avanzado), PostgreSQL, Redis (cache management).
+- **Herramientas:** Git, Docker, AWS (EC2, RDS), CI/CD.
 
-## Formación Académica
-**Ingeniería en Informática, Universidad de Madrid, 2014-2018**
-- Proyectos finales destacados: "Sistema de Recomendación de Contenido" y "Plataforma de Aprendizaje Automático".
+**Formación Académica:**
+- **Universidad Nacional de Tecnología (UNT):** Licenciatura en Ciencias de la Computación (2013-2017).
+- **Cursos Online:** Certificaciones en Django, Redis Cache Strategies.
 
-## Proyectos Destacados
-- **E-commerce de Moda**: Desarrollo de una plataforma de comercio electrónico para una marca de moda, incluyendo gestión de inventario, carrito de compras y sistema de recomendaciones personalizadas.
-- **Blog de Viajes**: Creación de un blog dinámico con funcionalidades avanzadas de búsqueda y filtrado, utilizando Django y MySQL.
+**Proyectos Destacados:**
+- **E-commerce Platform Migration:** Lideré la migración de una plataforma de comercio electrónico de Ruby a Python/Django, mejorando el rendimiento y la escalabilidad.
+- **Event Management System:** Desarrollo de un sistema de gestión de eventos con funciones de registro de usuarios, administración de entradas y análisis en tiempo real.
